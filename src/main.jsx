@@ -28,7 +28,6 @@ function App() {
   const rankedItems = [...displayItems].sort((a, b) => (b.trend_windows?.[windowKey]?.stars || parseInt(b.gained?.replace(/[^0-9]/g, ''), 10) || 0) - (a.trend_windows?.[windowKey]?.stars || parseInt(a.gained?.replace(/[^0-9]/g, ''), 10) || 0));
   const selectedItem = rankedItems[selected] || rankedItems[0];
   const reportDate = new Date().toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' }).toUpperCase();
-  const tagsFor = (item) => [...(item?.domains || []), ...(item?.roles || [])];
   const selectedWindow = selectedItem?.trend_windows?.[windowKey] || { stars: parseInt(selectedItem?.gained?.replace(/[^0-9]/g, ''), 10) || 0, observed: 1, days: 1 };
 
   return <div className="site-shell">
@@ -46,25 +45,23 @@ function App() {
 
       {displayItems.length ? <section className="radar-layout" aria-label="Daily GitHub trends">
         <div className="trend-list">
-          <div className="list-heading"><span>#</span><span>REPOSITORY</span><span>ROLE / CATEGORY</span><span>DESCRIPTION</span><span>STARS / {windowKey.toUpperCase()}</span></div>
+          <div className="list-heading"><span>#</span><span>REPOSITORY</span><span>CATEGORY</span><span>DESCRIPTION</span><span>STARS / {windowKey.toUpperCase()}</span></div>
           {rankedItems.map((item, index) => <button className={`trend-row ${selected === index ? 'is-selected' : ''}`} key={item.full_name} onClick={() => setSelected(index)}>
             <span className="rank">{index + 1}</span>
             <span className="repository"><strong>{item.name || item.full_name}</strong><small>{item.language || 'Open source'}</small></span>
-            <span className="category">{tagsFor(item).join(' · ') || item.language || 'Open Source'}</span>
+            <span className="category">{item.domains?.[0] || item.language || 'Open Source'}</span>
             <span className="description">{item.description}</span>
             <span className="stars"><strong>+{(item.trend_windows?.[windowKey]?.stars || parseInt(item.gained?.replace(/[^0-9]/g, ''), 10) || 0).toLocaleString('en-US')}</strong><small>↑</small></span>
           </button>)}
         </div>
         {selectedItem && <aside className="detail">
-          <div className="detail-label">SELECTED REPOSITORY</div>
           <h2>{selectedItem.name || selectedItem.full_name}</h2>
-          <div className="detail-category">{tagsFor(selectedItem).join(' · ') || selectedItem.language || 'OPEN SOURCE'}</div>
+          <div className="detail-category">{selectedItem.domains?.[0] || selectedItem.language || 'OPEN SOURCE'}</div>
           <p className="detail-description">{selectedItem.description}</p>
           <dl>
             <div><dt>TOTAL STARS</dt><dd>{formatStars(selectedItem.stars)}</dd></div>
             <div><dt>STARS / {windowKey.toUpperCase()}</dt><dd className="accent">+{selectedWindow.stars.toLocaleString('en-US')} ↑</dd></div>
             <div><dt>LANGUAGE</dt><dd>{selectedItem.language || '—'}</dd></div>
-            <div><dt>APPEARED</dt><dd>{selectedWindow.observed} / {selectedWindow.days} DAYS</dd></div>
           </dl>
           <a className="github-link" href={selectedItem.url} target="_blank" rel="noreferrer">VIEW ON GITHUB <span>↗</span></a>
         </aside>}
