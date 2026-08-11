@@ -1,374 +1,360 @@
 {
-  "generated_at": "2026-08-11T06:07:07.768603+00:00",
+  "generated_at": "2026-08-11T23:55:00.691792+00:00",
   "items": [
     {
       "full_name": "PrimeIntellect-ai/prime-agent",
       "name": "PrimeIntellect-ai / prime-agent",
-      "description": "자동화된 코딩 워크플로우를 위한 자기 개선형 RLM 에이전트. 지속 가능한 컨텍스트 관리와 재사용 가능한 서브에이전트 기능을 제공.",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "domains": [
-        "AI/ML",
-        "Developer Tools"
+        "AI/ML"
       ],
       "roles": [
-        "Agent",
-        "Framework"
+        "Agent"
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+2,642",
+      "gained": "+1,148",
       "trend_windows": {
         "3d": {
-          "stars": 2642,
+          "stars": 1148,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 2642,
+          "stars": 1148,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 2642,
+          "stars": 1148,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 13345,
-      "forks": 1358,
+      "stars": 14066,
+      "forks": 1452,
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "updated_at": "2026-08-11T05:58:27Z"
+      "updated_at": "2026-08-11T23:54:16Z"
     },
     {
       "full_name": "msitarzewski/agency-agents",
       "name": "msitarzewski / agency-agents",
-      "description": "AI 전문가 에이전트 컬렉션. 특정 도메인에 특화된 성격을 가진 개발 워크플로우 도구.",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "domains": [
         "AI/ML",
-        "Developer Tools"
+        "UI/UX"
       ],
       "roles": [
-        "Framework",
-        "SDK"
+        "Agent"
       ],
       "language": "Shell",
       "color": "#77736b",
-      "gained": "+1,349",
+      "gained": "+971",
       "trend_windows": {
         "3d": {
-          "stars": 1349,
+          "stars": 971,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 1349,
+          "stars": 971,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 1349,
+          "stars": 971,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 142013,
-      "forks": 23156,
+      "stars": 143155,
+      "forks": 23271,
       "url": "https://github.com/msitarzewski/agency-agents",
       "updated_at": "2026-08-06T13:29:47Z"
     },
     {
       "full_name": "semantica-agi/semantica",
       "name": "semantica-agi / semantica",
-      "description": "AI 시스템을 위한 그래프 기반 인프라. 지식 그래프와 결정 추적 기능을 통해 투명하고 추적 가능한 AI 운영을 지원.",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "domains": [
-        "AI/ML",
-        "Infrastructure"
+        "AI/ML"
       ],
       "roles": [
-        "Framework",
-        "Database"
+        "Agent"
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+970",
+      "gained": "+884",
       "trend_windows": {
         "3d": {
-          "stars": 970,
+          "stars": 884,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 970,
+          "stars": 884,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 970,
+          "stars": 884,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 4348,
-      "forks": 491,
+      "stars": 4845,
+      "forks": 526,
       "url": "https://github.com/semantica-agi/semantica",
-      "updated_at": "2026-08-10T15:48:02Z"
+      "updated_at": "2026-08-11T23:49:54Z"
     },
     {
-      "full_name": "Comfy-Org/ComfyUI",
-      "name": "Comfy-Org / ComfyUI",
-      "description": "확산 모델을 위한 모듈식 GUI. 노드 기반 인터페이스로 콘텐츠 생성 프로세스를 시각화 및 제어.",
+      "full_name": "stablyai/orca",
+      "name": "stablyai / orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "domains": [
-        "AI/ML",
-        "Developer Tools"
-      ],
-      "roles": [
-        "Framework",
-        "SDK"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+922",
-      "trend_windows": {
-        "3d": {
-          "stars": 922,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 922,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 922,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 126496,
-      "forks": 14913,
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "updated_at": "2026-08-11T05:03:12Z"
-    },
-    {
-      "full_name": "firecrawl/firecrawl",
-      "name": "firecrawl / firecrawl",
-      "description": "웹 스크래핑 및 데이터 추출 API. 동적 콘텐츠 처리와 LLM 호환 출력을 지원하는 확장 가능한 솔루션.",
-      "domains": [
-        "Developer Tools",
-        "Web"
-      ],
-      "roles": [
-        "API",
-        "SDK"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+835",
-      "trend_windows": {
-        "3d": {
-          "stars": 835,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 835,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 835,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 165297,
-      "forks": 9301,
-      "url": "https://github.com/firecrawl/firecrawl",
-      "updated_at": "2026-08-11T04:24:07Z"
-    },
-    {
-      "full_name": "vitali87/code-graph-rag",
-      "name": "vitali87 / code-graph-rag",
-      "description": "코드베이스 분석을 위한 RAG 시스템. 트리-사이터 기반 그래프를 통해 다국어 코드 검색 및 수정 기능을 제공.",
-      "domains": [
-        "AI/ML",
-        "Developer Tools"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+682",
-      "trend_windows": {
-        "3d": {
-          "stars": 682,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 682,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 682,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 3612,
-      "forks": 552,
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "updated_at": "2026-08-11T00:55:53Z"
-    },
-    {
-      "full_name": "addyosmani/agent-skills",
-      "name": "addyosmani / agent-skills",
-      "description": "AI 코딩 에이전트를 위한 엔지니어링 스킬 세트. 개발 생명주기 단계를 자동화하는 8가지 명령어 기반 도구.",
-      "domains": [
-        "Developer Tools",
         "AI/ML"
       ],
       "roles": [
-        "SDK",
-        "Framework"
-      ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+659",
-      "trend_windows": {
-        "3d": {
-          "stars": 659,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 659,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 659,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 85884,
-      "forks": 9243,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "updated_at": "2026-08-08T21:05:57Z"
-    },
-    {
-      "full_name": "pingdotgg/t3code",
-      "name": "pingdotgg / t3code",
-      "description": "에이전트 제어 인터페이스. 모바일/웹/데스크톱 앱을 통해 다양한 AI 개발 도구와 통합 관리.",
-      "domains": [
-        "Developer Tools",
-        "AI/ML"
-      ],
-      "roles": [
-        "SDK",
+        "Agent",
         "CLI"
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+389",
+      "gained": "+881",
       "trend_windows": {
         "3d": {
-          "stars": 389,
+          "stars": 881,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 389,
+          "stars": 881,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 389,
+          "stars": 881,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 18099,
-      "forks": 4080,
-      "url": "https://github.com/pingdotgg/t3code",
-      "updated_at": "2026-08-11T03:54:12Z"
+      "stars": 42738,
+      "forks": 2980,
+      "url": "https://github.com/stablyai/orca",
+      "updated_at": "2026-08-11T23:42:56Z"
     },
     {
-      "full_name": "google-deepmind/weathernext",
-      "name": "google-deepmind / weathernext",
-      "description": "AI 기반 글로벌 날씨 예보 모델. 그래프캐스트 및 제네캐스트 기술로 고정밀 기상 예측을 구현.",
+      "full_name": "HKUDS/DeepTutor",
+      "name": "HKUDS / DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "domains": [
-        "AI/ML",
-        "Infrastructure"
+        "AI/ML"
       ],
       "roles": [
-        "Model",
+        "Agent",
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+829",
+      "trend_windows": {
+        "3d": {
+          "stars": 829,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 829,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 829,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 34681,
+      "forks": 4417,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "updated_at": "2026-08-11T09:03:08Z"
+    },
+    {
+      "full_name": "paperclipai/paperclip",
+      "name": "paperclipai / paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+743",
+      "trend_windows": {
+        "3d": {
+          "stars": 743,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 743,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 743,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 77140,
+      "forks": 14248,
+      "url": "https://github.com/paperclipai/paperclip",
+      "updated_at": "2026-08-11T23:52:45Z"
+    },
+    {
+      "full_name": "addyosmani/agent-skills",
+      "name": "addyosmani / agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+571",
+      "trend_windows": {
+        "3d": {
+          "stars": 571,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 571,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 571,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 86206,
+      "forks": 9263,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "updated_at": "2026-08-11T19:48:56Z"
+    },
+    {
+      "full_name": "anthropics/skills",
+      "name": "anthropics / skills",
+      "description": "Public repository for Agent Skills",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+468",
+      "trend_windows": {
+        "3d": {
+          "stars": 468,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 468,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 468,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 168115,
+      "forks": 20029,
+      "url": "https://github.com/anthropics/skills",
+      "updated_at": "2026-08-07T17:14:15Z"
+    },
+    {
+      "full_name": "calesthio/OpenMontage",
+      "name": "calesthio / OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+436",
+      "trend_windows": {
+        "3d": {
+          "stars": 436,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 436,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 436,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 47308,
+      "forks": 5900,
+      "url": "https://github.com/calesthio/OpenMontage",
+      "updated_at": "2026-08-03T09:19:09Z"
+    },
+    {
+      "full_name": "practical-tutorials/project-based-learning",
+      "name": "practical-tutorials / project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
         "Framework"
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+325",
+      "gained": "+394",
       "trend_windows": {
         "3d": {
-          "stars": 325,
+          "stars": 394,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 325,
+          "stars": 394,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 325,
+          "stars": 394,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 7404,
-      "forks": 957,
-      "url": "https://github.com/google-deepmind/weathernext",
-      "updated_at": "2026-08-07T10:10:42Z"
-    },
-    {
-      "full_name": "NanmiCoder/MediaCrawler",
-      "name": "NanmiCoder / MediaCrawler",
-      "description": "소셜 미디어 플랫폼용 데이터 수집 도구. 플레이라이트 기반 브라우저 자동화로 다양한 플랫폼의 공개 정보를 추출.",
-      "domains": [
-        "Developer Tools",
-        "Web"
-      ],
-      "roles": [
-        "CLI",
-        "SDK"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+259",
-      "trend_windows": {
-        "3d": {
-          "stars": 259,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 259,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 259,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 61347,
-      "forks": 12042,
-      "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "updated_at": "2026-08-05T09:39:38Z"
+      "stars": 278426,
+      "forks": 35778,
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "updated_at": "2026-08-10T07:04:22Z"
     }
   ]
 }
