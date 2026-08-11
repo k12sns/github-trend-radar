@@ -15,6 +15,7 @@ function App() {
   const [items, setItems] = useState([]);
   const [selected, setSelected] = useState(0);
   const [loaded, setLoaded] = useState(false);
+  const [windowKey, setWindowKey] = useState('3d');
 
   useEffect(() => {
     fetch('/data/latest.json', { cache: 'no-store' })
@@ -24,9 +25,11 @@ function App() {
   }, []);
 
   const displayItems = items.length ? items : (loaded ? [] : demoItems);
-  const selectedItem = displayItems[selected] || displayItems[0];
+  const rankedItems = [...displayItems].sort((a, b) => (b.trend_windows?.[windowKey]?.stars || parseInt(b.gained?.replace(/[^0-9]/g, ''), 10) || 0) - (a.trend_windows?.[windowKey]?.stars || parseInt(a.gained?.replace(/[^0-9]/g, ''), 10) || 0));
+  const selectedItem = rankedItems[selected] || rankedItems[0];
   const reportDate = new Date().toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' }).toUpperCase();
   const tagsFor = (item) => [...(item?.domains || []), ...(item?.roles || [])];
+  const selectedWindow = selectedItem?.trend_windows?.[windowKey] || { stars: parseInt(selectedItem?.gained?.replace(/[^0-9]/g, ''), 10) || 0, observed: 1, days: 1 };
 
   return <div className="site-shell">
     <header className="masthead">
@@ -38,18 +41,18 @@ function App() {
     <main className="page">
       <section className="page-intro">
         <h1>What is rising today?</h1>
-        <p>Repositories gaining attention on GitHub in the last 24 hours.</p>
+        <div className="intro-line"><p>Repositories gaining attention on GitHub.</p><div className="window-switcher" aria-label="Trend window">{[['3d','3 DAYS'],['5d','5 DAYS'],['7d','7 DAYS']].map(([key, label]) => <button className={windowKey === key ? 'active' : ''} onClick={() => { setWindowKey(key); setSelected(0); }} key={key}>{label}</button>)}</div></div>
       </section>
 
       {displayItems.length ? <section className="radar-layout" aria-label="Daily GitHub trends">
         <div className="trend-list">
-          <div className="list-heading"><span>#</span><span>REPOSITORY</span><span>ROLE / CATEGORY</span><span>DESCRIPTION</span><span>STARS TODAY</span></div>
-          {displayItems.map((item, index) => <button className={`trend-row ${selected === index ? 'is-selected' : ''}`} key={item.full_name} onClick={() => setSelected(index)}>
+          <div className="list-heading"><span>#</span><span>REPOSITORY</span><span>ROLE / CATEGORY</span><span>DESCRIPTION</span><span>STARS / {windowKey.toUpperCase()}</span></div>
+          {rankedItems.map((item, index) => <button className={`trend-row ${selected === index ? 'is-selected' : ''}`} key={item.full_name} onClick={() => setSelected(index)}>
             <span className="rank">{index + 1}</span>
             <span className="repository"><strong>{item.name || item.full_name}</strong><small>{item.language || 'Open source'}</small></span>
             <span className="category">{tagsFor(item).join(' · ') || item.language || 'Open Source'}</span>
             <span className="description">{item.description}</span>
-            <span className="stars"><strong>{item.gained || '+0'}</strong><small>↑</small></span>
+            <span className="stars"><strong>+{(item.trend_windows?.[windowKey]?.stars || parseInt(item.gained?.replace(/[^0-9]/g, ''), 10) || 0).toLocaleString('en-US')}</strong><small>↑</small></span>
           </button>)}
         </div>
         {selectedItem && <aside className="detail">
@@ -59,9 +62,9 @@ function App() {
           <p className="detail-description">{selectedItem.description}</p>
           <dl>
             <div><dt>TOTAL STARS</dt><dd>{formatStars(selectedItem.stars)}</dd></div>
-            <div><dt>STARS TODAY</dt><dd className="accent">{selectedItem.gained || '+0'} ↑</dd></div>
+            <div><dt>STARS / {windowKey.toUpperCase()}</dt><dd className="accent">+{selectedWindow.stars.toLocaleString('en-US')} ↑</dd></div>
             <div><dt>LANGUAGE</dt><dd>{selectedItem.language || '—'}</dd></div>
-            <div><dt>TREND WINDOW</dt><dd>24 HOURS</dd></div>
+            <div><dt>APPEARED</dt><dd>{selectedWindow.observed} / {selectedWindow.days} DAYS</dd></div>
           </dl>
           <a className="github-link" href={selectedItem.url} target="_blank" rel="noreferrer">VIEW ON GITHUB <span>↗</span></a>
         </aside>}

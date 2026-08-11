@@ -123,7 +123,7 @@ def collect_candidates():
         result = github_get("/search/repositories", {"q": f"stars:>1000 forks:>20 pushed:>={since}", "sort": "updated", "order": "desc", "per_page": 30})
         trending = [{"full_name": repo["full_name"], "trend_stars": 0, "trend_period": "fallback", "description": repo.get("description", "")} for repo in result.get("items", [])]
     candidates = []
-    api_blocked = False
+    api_blocked = not bool(os.getenv("GITHUB_TOKEN"))
     for trend in trending[:20]:
         if api_blocked:
             repo = {"full_name": trend["full_name"], "name": trend["full_name"].split("/", 1)[-1], "description": trend.get("description", ""), "language": trend.get("language", "Other"), "stargazers_count": 0, "forks_count": 0, "size": 100, "archived": False, "fork": False, "html_url": f"https://github.com/{trend['full_name']}", "pushed_at": datetime.now(timezone.utc).isoformat(), "topics": []}
@@ -173,13 +173,41 @@ def previous_stars():
     latest = DATA / "latest.json"
     if not latest.exists():
         return {}
+
+
+def load_history(before_date):
+    history = []
+    for path in DATA.glob("20*.json"):
+        if path.name == "latest.json" or path.stem >= before_date.isoformat():
+            continue
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+            history.append({"date": path.stem, "items": payload.get("items", [])})
+        except (OSError, json.JSONDecodeError):
+            continue
+    return sorted(history, key=lambda record: record["date"])[-7:]
+
+
+def trend_windows(full_name, current_stars, history, current_date):
+    observations = []
+    for record in history:
+        match = next((item for item in record["items"] if item.get("full_name") == full_name), None)
+        if match:
+            raw = str(match.get("gained", "+0")).replace(",", "").replace("+", "")
+            observations.append({"date": record["date"], "stars": int(raw) if raw.isdigit() else 0})
+    observations.append({"date": current_date.isoformat(), "stars": current_stars})
+    windows = {}
+    for days in (3, 5, 7):
+        recent = observations[-days:]
+        windows[f"{days}d"] = {"stars": sum(item["stars"] for item in recent), "observed": len(recent), "days": days}
+    return windows
     try:
         return {item["full_name"]: item.get("stars", 0) for item in json.loads(latest.read_text(encoding="utf-8")).get("items", [])}
     except (OSError, json.JSONDecodeError):
         return {}
 
 
-def build_public_items(candidates, descriptions, old_stars):
+def build_public_items(candidates, descriptions, old_stars, history, current_date):
     items = []
     for repo in candidates:
         full_name = repo["full_name"]
@@ -189,7 +217,7 @@ def build_public_items(candidates, descriptions, old_stars):
         delta = max(0, stars - old_stars.get(full_name, stars))
         fallback = repo.get("description") or f"{repo.get('language') or 'Open-source'} 프로젝트입니다."
         trend_stars = repo.get("trend_stars", delta)
-        items.append({"full_name": full_name, "name": full_name.replace("/", " / "), "description": ai.get("summary", fallback)[:240], "domains": ai.get("domains", fallback_domains), "roles": ai.get("roles", fallback_roles), "language": repo.get("language") or "Other", "color": LANGUAGE_COLORS.get(repo.get("language"), "#77736b"), "gained": f"+{trend_stars:,}", "stars": stars, "forks": repo.get("forks_count", 0), "url": repo.get("html_url"), "updated_at": repo.get("pushed_at")})
+        items.append({"full_name": full_name, "name": full_name.replace("/", " / "), "description": ai.get("summary", fallback)[:240], "domains": ai.get("domains", fallback_domains), "roles": ai.get("roles", fallback_roles), "language": repo.get("language") or "Other", "color": LANGUAGE_COLORS.get(repo.get("language"), "#77736b"), "gained": f"+{trend_stars:,}", "trend_windows": trend_windows(full_name, trend_stars, history, current_date), "stars": stars, "forks": repo.get("forks_count", 0), "url": repo.get("html_url"), "updated_at": repo.get("pushed_at")})
     return items
 
 
@@ -217,7 +245,7 @@ def main():
     except (requests.RequestException, KeyError, json.JSONDecodeError, ValueError) as error:
         print(f"OpenRouter unavailable; using GitHub descriptions: {error}")
         descriptions = {}
-    write_outputs(build_public_items(candidates, descriptions, previous_stars()), now)
+    write_outputs(build_public_items(candidates, descriptions, previous_stars(), load_history(now.date()), now.date()), now)
     print(f"Wrote {len(candidates)} repositories for {now.date()} ({'AI enriched' if descriptions else 'fallback descriptions'})")
 
 
