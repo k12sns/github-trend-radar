@@ -1,122 +1,124 @@
 {
-  "generated_at": "2026-08-11T05:01:54.905072+00:00",
+  "generated_at": "2026-08-11T05:15:54.191727+00:00",
   "items": [
     {
       "full_name": "PrimeIntellect-ai/prime-agent",
       "name": "PrimeIntellect-ai / prime-agent",
-      "description": "Prime Agent는 자동 코딩과 장시간 자율 작업을 수행하는 오픈소스 자체학습 RLM 에이전트로, 영속 REPL과 모듈형 서브에이전트를 사용합니다.",
-      "category": "Autonomous agent framework",
+      "description": "자율적인 코딩 워크플로우와 장기 실행 작업을 위한 자기 개선형 RLM 에이전트입니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent",
+        "Workflow"
+      ],
       "language": "TypeScript",
       "color": "#4778d7",
       "gained": "+2,642",
-      "stars": 13297,
-      "forks": 1352,
+      "stars": 0,
+      "forks": 0,
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "updated_at": "2026-08-11T05:01:17Z"
-    },
-    {
-      "full_name": "msitarzewski/agency-agents",
-      "name": "msitarzewski / agency-agents",
-      "description": "Agency Agents는 다양한 코딩 환경에 통합되는 AI 에이전트 성격을 가진 컬렉션과 데스크톱 앱을 제공합니다.",
-      "category": "AI agent framework",
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+1,349",
-      "stars": 141977,
-      "forks": 23153,
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "updated_at": "2026-08-06T13:29:47Z"
+      "updated_at": "2026-08-11T05:15:55.493296+00:00"
     },
     {
       "full_name": "semantica-agi/semantica",
       "name": "semantica-agi / semantica",
-      "description": "Semantica는 컨텍스트 관리, 의사결정 지능, 책임형 AI 시스템을 위한 그래프‑네이티브 인프라를 제공하며 RDF/LPG 저장과 결정적 추론을 지원합니다.",
-      "category": "Knowledge graph infrastructure",
+      "description": "그래프 기반 컨텍스트와 책임 있는 AI 시스템을 위한 인프라스트럭처입니다.",
+      "domains": [
+        "AI/ML",
+        "Infrastructure"
+      ],
+      "roles": [
+        "Framework",
+        "Monitoring"
+      ],
       "language": "Python",
       "color": "#f5b414",
       "gained": "+970",
-      "stars": 4297,
-      "forks": 490,
+      "stars": 0,
+      "forks": 0,
       "url": "https://github.com/semantica-agi/semantica",
-      "updated_at": "2026-08-10T15:48:02Z"
+      "updated_at": "2026-08-11T05:15:55.493296+00:00"
     },
     {
       "full_name": "Comfy-Org/ComfyUI",
       "name": "Comfy-Org / ComfyUI",
-      "description": "ComfyUI는 블록 노드 기반 GUI와 API로 디퓨전 모델 워크플로를 구축하고 실행하는 모듈형 툴입니다.",
-      "category": "Diffusion model GUI",
+      "description": "확산 모델 GUI, API 및 백엔드를 위한 모듈식 그래프 노드 인터페이스입니다.",
+      "domains": [
+        "AI/ML",
+        "Web"
+      ],
+      "roles": [
+        "Framework"
+      ],
       "language": "Python",
       "color": "#f5b414",
       "gained": "+922",
-      "stars": 126456,
-      "forks": 14908,
+      "stars": 0,
+      "forks": 0,
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "updated_at": "2026-08-11T04:55:17Z"
+      "updated_at": "2026-08-11T05:15:55.493296+00:00"
     },
     {
       "full_name": "firecrawl/firecrawl",
       "name": "firecrawl / firecrawl",
-      "description": "Firecrawl은 웹 검색, 스크래핑, 상호작용을 위한 스케일러블 API를 제공하고 AI 에이전트에 적합한 마크다운 또는 JSON을 반환합니다.",
-      "category": "Web scraping API",
+      "description": "웹 검색, 스크래핑 및 대량 상호작용을 위한 컨텍스트 API입니다.",
+      "domains": [
+        "AI/ML",
+        "Web"
+      ],
+      "roles": [
+        "API",
+        "Automation"
+      ],
       "language": "TypeScript",
       "color": "#4778d7",
       "gained": "+835",
-      "stars": 165256,
-      "forks": 9297,
+      "stars": 0,
+      "forks": 0,
       "url": "https://github.com/firecrawl/firecrawl",
-      "updated_at": "2026-08-11T04:24:07Z"
+      "updated_at": "2026-08-11T05:15:55.493296+00:00"
     },
     {
       "full_name": "vitali87/code-graph-rag",
       "name": "vitali87 / code-graph-rag",
-      "description": "Code‑Graph‑RAG는 다중 언어 코드베이스를 파싱해 지식 그래프를 구축하고 자연어 질의, 수정, 최적화를 가능하게 합니다.",
-      "category": "Code RAG",
+      "description": "AI와 지식 그래프를 활용한 다국어 코드베이스 쿼리 및 편집을 위한 RAG 시스템입니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
+        "Model",
+        "Search"
+      ],
       "language": "Python",
       "color": "#f5b414",
       "gained": "+682",
-      "stars": 3598,
-      "forks": 550,
+      "stars": 0,
+      "forks": 0,
       "url": "https://github.com/vitali87/code-graph-rag",
-      "updated_at": "2026-08-11T00:55:53Z"
+      "updated_at": "2026-08-11T05:15:55.493296+00:00"
     },
     {
       "full_name": "addyosmani/agent-skills",
       "name": "addyosmani / agent-skills",
-      "description": "Agent Skills는 AI 코딩 에이전트가 최선의 개발 프로세스를 follow 하게 하는 생산‑급 엔지니어링 워크플로 명령을 제공합니다.",
-      "category": "AI agent skill library",
+      "description": "AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 스킬 라이브러리입니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
+        "SDK",
+        "Automation"
+      ],
       "language": "JavaScript",
       "color": "#f5b414",
       "gained": "+659",
-      "stars": 85853,
-      "forks": 9240,
+      "stars": 0,
+      "forks": 0,
       "url": "https://github.com/addyosmani/agent-skills",
-      "updated_at": "2026-08-08T21:05:57Z"
-    },
-    {
-      "full_name": "pingdotgg/t3code",
-      "name": "pingdotgg / t3code",
-      "description": "T3 Code는 Claude, Codex, Cursor 등 AI 에이전트를 모바일, 웹, 데스크톱 앱으로 관리할 수 있는 컨트롤Surface를 제공합니다.",
-      "category": "Agent control UI",
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+389",
-      "stars": 18085,
-      "forks": 4080,
-      "url": "https://github.com/pingdotgg/t3code",
-      "updated_at": "2026-08-11T03:54:12Z"
-    },
-    {
-      "full_name": "google-deepmind/weathernext",
-      "name": "google-deepmind / weathernext",
-      "description": "WeatherNext는 구글 DeepMind의 WeatherNext 2 전 세계 대기 및 사이클론 예보 모델의 소스 코드를 제공합니다.",
-      "category": "Scientific forecasting model",
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+325",
-      "stars": 7393,
-      "forks": 957,
-      "url": "https://github.com/google-deepmind/weathernext",
-      "updated_at": "2026-08-07T10:10:42Z"
+      "updated_at": "2026-08-11T05:15:55.493296+00:00"
     }
   ]
 }

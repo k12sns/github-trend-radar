@@ -74,7 +74,8 @@ def scrape_trending(period="daily"):
             continue
         description_match = re.search(r'<p[^>]*color-fg-muted[^>]*>(.*?)</p>', row, re.S)
         description = re.sub(r"<[^>]+>", " ", description_match.group(1)) if description_match else ""
-        trending.append({"full_name": full_name, "trend_stars": int(stars_match.group(1).replace(",", "")), "trend_period": period, "description": re.sub(r"\s+", " ", description).strip()})
+        language_match = re.search(r'itemprop="programmingLanguage">(.*?)</span>', row, re.S)
+        trending.append({"full_name": full_name, "trend_stars": int(stars_match.group(1).replace(",", "")), "trend_period": period, "description": re.sub(r"\s+", " ", description).strip(), "language": re.sub(r"<[^>]+>", "", language_match.group(1)).strip() if language_match else "Other"})
     return trending
 
 
@@ -122,14 +123,25 @@ def collect_candidates():
         result = github_get("/search/repositories", {"q": f"stars:>1000 forks:>20 pushed:>={since}", "sort": "updated", "order": "desc", "per_page": 30})
         trending = [{"full_name": repo["full_name"], "trend_stars": 0, "trend_period": "fallback", "description": repo.get("description", "")} for repo in result.get("items", [])]
     candidates = []
+    api_blocked = False
     for trend in trending[:20]:
-        repo = github_get(f"/repos/{trend['full_name']}")
+        if api_blocked:
+            repo = {"full_name": trend["full_name"], "name": trend["full_name"].split("/", 1)[-1], "description": trend.get("description", ""), "language": trend.get("language", "Other"), "stargazers_count": 0, "forks_count": 0, "size": 100, "archived": False, "fork": False, "html_url": f"https://github.com/{trend['full_name']}", "pushed_at": datetime.now(timezone.utc).isoformat(), "topics": []}
+        else:
+            try:
+                repo = github_get(f"/repos/{trend['full_name']}")
+            except requests.HTTPError as error:
+                if error.response is not None and error.response.status_code in (403, 429):
+                    api_blocked = True
+                    repo = {"full_name": trend["full_name"], "name": trend["full_name"].split("/", 1)[-1], "description": trend.get("description", ""), "language": trend.get("language", "Other"), "stargazers_count": 0, "forks_count": 0, "size": 100, "archived": False, "fork": False, "html_url": f"https://github.com/{trend['full_name']}", "pushed_at": datetime.now(timezone.utc).isoformat(), "topics": []}
+                else:
+                    raise
         haystack = f"{repo.get('full_name', '')} {repo.get('name', '')} {repo.get('description', '')}".lower()
         if repo.get("archived") or repo.get("fork") or repo.get("size", 0) < 20 or any(term in haystack for term in NOISE_TERMS):
             continue
         repo["trend_stars"] = trend["trend_stars"]
         repo["trend_period"] = trend["trend_period"]
-        excerpt = readme_excerpt(repo)
+        excerpt = readme_excerpt(repo) if not api_blocked else ""
         repo["readme_excerpt"] = excerpt
         repo["screen_score"] = deterministic_score(repo, excerpt)
         candidates.append(repo)
