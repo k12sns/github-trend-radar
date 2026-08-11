@@ -173,6 +173,10 @@ def previous_stars():
     latest = DATA / "latest.json"
     if not latest.exists():
         return {}
+    try:
+        return {item["full_name"]: item.get("stars", 0) for item in json.loads(latest.read_text(encoding="utf-8")).get("items", [])}
+    except (OSError, json.JSONDecodeError):
+        return {}
 
 
 def load_history(before_date):
@@ -201,12 +205,6 @@ def trend_windows(full_name, current_stars, history, current_date):
         recent = observations[-days:]
         windows[f"{days}d"] = {"stars": sum(item["stars"] for item in recent), "observed": len(recent), "days": days}
     return windows
-    try:
-        return {item["full_name"]: item.get("stars", 0) for item in json.loads(latest.read_text(encoding="utf-8")).get("items", [])}
-    except (OSError, json.JSONDecodeError):
-        return {}
-
-
 def build_public_items(candidates, descriptions, old_stars, history, current_date):
     items = []
     for repo in candidates:
