@@ -3,6 +3,5 @@ dist/
 .env
 .env.*
 !.env.example
-public/data/*.json
 __pycache__/
 *.pyc

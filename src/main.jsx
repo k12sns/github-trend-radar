@@ -1,8 +1,8 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import './styles.css';
 
-const repositories = [
+const fallbackRepositories = [
   { name: 'lancedb / lancedb', description: 'Modern vector database for LLM era', language: 'Rust', color: '#4778d7', gained: '+1,342', confidence: 93, stars: '23.4k', contributors: '1.9k', verdict: 'LanceDB is gaining strong developer adoption as a production-ready vector database with columnar storage, ACID transactions, and native multi-modal search. Momentum is driven by enterprise interest and integrations across the LLM stack.' },
   { name: 'astral-sh / uv', description: 'Extremely fast Python package installer', language: 'Rust', color: '#4778d7', gained: '+1,102', confidence: 91, stars: '42.8k', contributors: '736', verdict: 'uv continues to consolidate Python tooling with a fast, reliable workflow that replaces several legacy tools without adding operational complexity.' },
   { name: 'open-webui / open-webui', description: 'User-friendly WebUI for LLMs', language: 'Python', color: '#f5b414', gained: '+886', confidence: 89, stars: '65.1k', contributors: '511', verdict: 'Open WebUI shows durable usage signals across local and hosted model workflows, with clear evidence of an active contributor base.' },
@@ -21,9 +21,23 @@ function Icon({ type }) {
 }
 
 function App() {
+  const [repositories, setRepositories] = useState(fallbackRepositories);
   const [selected, setSelected] = useState(0);
   const [activeNav, setActiveNav] = useState('Overview');
   const [exported, setExported] = useState(false);
+  useEffect(() => {
+    fetch('/data/latest.json', { cache: 'no-store' })
+      .then((response) => response.ok ? response.json() : Promise.reject(new Error('No report yet')))
+      .then((data) => setRepositories(data.items.map((item) => ({
+        ...item,
+        gained: item.gained || '+0',
+        confidence: 0,
+        stars: item.stars >= 1000 ? `${(item.stars / 1000).toFixed(1)}k` : String(item.stars || 0),
+        contributors: '—',
+        verdict: item.description,
+      }))))
+      .catch(() => setRepositories(fallbackRepositories));
+  }, []);
   const repo = repositories[selected];
   const chartPoints = useMemo(() => '0,111 25,105 50,107 75,100 100,98 125,91 150,93 175,80 200,78 225,66 250,68 275,58 300,58 325,49 350,47 375,38 400,37 425,28 450,24 475,16 500,11', []);
 
