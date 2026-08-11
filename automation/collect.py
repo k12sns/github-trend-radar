@@ -156,7 +156,13 @@ def openrouter_descriptions(candidates):
     prompt = f"""You are the private screening, taxonomy, and description step for a Korean open-source technology trend directory. For each repository, first decide keep=true only when it is a real software project, library, framework, database, developer tool, infrastructure component, or technical research implementation with meaningful source code and engineering relevance. Set keep=false for games, content/news sites, link collections, filters, bots, trading/crypto projects, security blocklists, torrent tools, tutorials, prompt collections, obvious clones, and marketing-only repositories. This decision is private and must not appear in the user-facing summary. For keep=true items, explain only what it is and what role it serves; do not write impact scores, confidence, judgment, or why it is trending. Select at most two domain tags and at most two role tags from these fixed lists only. Domains: {', '.join(DOMAINS)}. Roles: {', '.join(ROLES)}. Return JSON only in this exact shape: {{\"items\":[{{\"repository\":\"owner/name\",\"keep\":true,\"domains\":[\"AI/ML\"],\"roles\":[\"Plugin\"],\"summary\":\"one or two natural Korean sentences, max 220 characters\"}}]}}. Never invent facts not present in the metadata or README."""
     response = requests.post(OPENROUTER_API, headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json", "HTTP-Referer": "https://github.com/k12sns/hermes-scout", "X-Title": "Hermes Scout"}, json={"model": os.getenv("OPENROUTER_MODEL", "openrouter/free"), "messages": [{"role": "system", "content": prompt}, {"role": "user", "content": json.dumps(compact, ensure_ascii=False)}], "temperature": 0.2, "max_tokens": 2200}, timeout=90)
     response.raise_for_status()
-    content = response.json()["choices"][0]["message"]["content"].strip()
+    message = response.json()["choices"][0].get("message", {})
+    content = message.get("content") or ""
+    if not isinstance(content, str):
+        content = "".join(part.get("text", "") for part in content if isinstance(part, dict))
+    if not content.strip():
+        raise ValueError("OpenRouter returned an empty content message")
+    content = content.strip()
     content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content).strip()
     parsed = json.loads(content)
     valid = {}

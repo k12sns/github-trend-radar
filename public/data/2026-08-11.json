@@ -1,124 +1,338 @@
 {
-  "generated_at": "2026-08-11T05:15:54.191727+00:00",
+  "generated_at": "2026-08-11T05:34:42.905559+00:00",
   "items": [
     {
       "full_name": "PrimeIntellect-ai/prime-agent",
       "name": "PrimeIntellect-ai / prime-agent",
-      "description": "자율적인 코딩 워크플로우와 장기 실행 작업을 위한 자기 개선형 RLM 에이전트입니다.",
+      "description": "자체 개선형 RLM 에이전트로, 코딩 워크플로와 장기 실행 자동화 작업을 수행합니다.",
       "domains": [
         "AI/ML",
         "Developer Tools"
       ],
       "roles": [
         "Agent",
-        "Workflow"
+        "SDK"
       ],
       "language": "TypeScript",
       "color": "#4778d7",
       "gained": "+2,642",
+      "trend_windows": {
+        "3d": {
+          "stars": 2642,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2642,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2642,
+          "observed": 1,
+          "days": 7
+        }
+      },
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "updated_at": "2026-08-11T05:15:55.493296+00:00"
+      "updated_at": "2026-08-11T05:34:44.237437+00:00"
+    },
+    {
+      "full_name": "msitarzewski/agency-agents",
+      "name": "msitarzewski / agency-agents",
+      "description": "프론트엔드 마법사부터 Reddit 커뮤니티 닌자까지 다양한 전문 에이전트를 포함한 완전한 AI 에이전시를 제공합니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+1,349",
+      "trend_windows": {
+        "3d": {
+          "stars": 1349,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1349,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1349,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "updated_at": "2026-08-11T05:34:44.237437+00:00"
     },
     {
       "full_name": "semantica-agi/semantica",
       "name": "semantica-agi / semantica",
-      "description": "그래프 기반 컨텍스트와 책임 있는 AI 시스템을 위한 인프라스트럭처입니다.",
+      "description": "컨텍스트와 책임감 있는 AI 시스템을 위한 그래프 기반 인프라스트럭처를 제공합니다.",
       "domains": [
         "AI/ML",
         "Infrastructure"
       ],
       "roles": [
         "Framework",
-        "Monitoring"
+        "Runtime"
       ],
       "language": "Python",
       "color": "#f5b414",
       "gained": "+970",
+      "trend_windows": {
+        "3d": {
+          "stars": 970,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 970,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 970,
+          "observed": 1,
+          "days": 7
+        }
+      },
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/semantica-agi/semantica",
-      "updated_at": "2026-08-11T05:15:55.493296+00:00"
+      "updated_at": "2026-08-11T05:34:44.237437+00:00"
     },
     {
       "full_name": "Comfy-Org/ComfyUI",
       "name": "Comfy-Org / ComfyUI",
-      "description": "확산 모델 GUI, API 및 백엔드를 위한 모듈식 그래프 노드 인터페이스입니다.",
-      "domains": [
-        "AI/ML",
-        "Web"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+922",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "updated_at": "2026-08-11T05:15:55.493296+00:00"
-    },
-    {
-      "full_name": "firecrawl/firecrawl",
-      "name": "firecrawl / firecrawl",
-      "description": "웹 검색, 스크래핑 및 대량 상호작용을 위한 컨텍스트 API입니다.",
-      "domains": [
-        "AI/ML",
-        "Web"
-      ],
-      "roles": [
-        "API",
-        "Automation"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+835",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/firecrawl/firecrawl",
-      "updated_at": "2026-08-11T05:15:55.493296+00:00"
-    },
-    {
-      "full_name": "vitali87/code-graph-rag",
-      "name": "vitali87 / code-graph-rag",
-      "description": "AI와 지식 그래프를 활용한 다국어 코드베이스 쿼리 및 편집을 위한 RAG 시스템입니다.",
-      "domains": [
-        "AI/ML",
-        "Developer Tools"
-      ],
-      "roles": [
-        "Model",
-        "Search"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+682",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "updated_at": "2026-08-11T05:15:55.493296+00:00"
-    },
-    {
-      "full_name": "addyosmani/agent-skills",
-      "name": "addyosmani / agent-skills",
-      "description": "AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 스킬 라이브러리입니다.",
+      "description": "그래프/노드 인터페이스를 갖는 가장 강력하고 모듈화된 확산 모델 GUI, API 및 백엔드입니다.",
       "domains": [
         "AI/ML",
         "Developer Tools"
       ],
       "roles": [
         "SDK",
-        "Automation"
+        "API"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+922",
+      "trend_windows": {
+        "3d": {
+          "stars": 922,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 922,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 922,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "updated_at": "2026-08-11T05:34:44.237437+00:00"
+    },
+    {
+      "full_name": "firecrawl/firecrawl",
+      "name": "firecrawl / firecrawl",
+      "description": "규모 기반으로 웹 검색, 스크래핑 및 상호작용을 위한 컨텍스트 API를 제공합니다.",
+      "domains": [
+        "Developer Tools",
+        "Data"
+      ],
+      "roles": [
+        "API",
+        "SDK"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+835",
+      "trend_windows": {
+        "3d": {
+          "stars": 835,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 835,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 835,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/firecrawl/firecrawl",
+      "updated_at": "2026-08-11T05:34:44.237437+00:00"
+    },
+    {
+      "full_name": "vitali87/code-graph-rag",
+      "name": "vitali87 / code-graph-rag",
+      "description": "멀티 언어 코드베이스를 쿼리, 이해 및 편집하는 데 AI와 지식 그래프의 힘을 활용하는 RAG 솔루션입니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
+        "SDK",
+        "API"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+682",
+      "trend_windows": {
+        "3d": {
+          "stars": 682,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 682,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 682,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "updated_at": "2026-08-11T05:34:44.237437+00:00"
+    },
+    {
+      "full_name": "addyosmani/agent-skills",
+      "name": "addyosmani / agent-skills",
+      "description": "AI 코딩 에이전트를 위한 프로덕션 수준 엔지니어링 스킬을 제공합니다.",
+      "domains": [
+        "Developer Tools",
+        "AI/ML"
+      ],
+      "roles": [
+        "SDK",
+        "Plugin"
       ],
       "language": "JavaScript",
       "color": "#f5b414",
       "gained": "+659",
+      "trend_windows": {
+        "3d": {
+          "stars": 659,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 659,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 659,
+          "observed": 1,
+          "days": 7
+        }
+      },
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/addyosmani/agent-skills",
-      "updated_at": "2026-08-11T05:15:55.493296+00:00"
+      "updated_at": "2026-08-11T05:34:44.237437+00:00"
+    },
+    {
+      "full_name": "pingdotgg/t3code",
+      "name": "pingdotgg / t3code",
+      "description": "T3 스택 기반의 AI 코드 생성 및 관리를 위한 프레임워크입니다.",
+      "domains": [
+        "Developer Tools",
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework",
+        "SDK"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+389",
+      "trend_windows": {
+        "3d": {
+          "stars": 389,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 389,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 389,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/pingdotgg/t3code",
+      "updated_at": "2026-08-11T05:34:44.237437+00:00"
+    },
+    {
+      "full_name": "google-deepmind/weathernext",
+      "name": "google-deepmind / weathernext",
+      "description": "기상 예측을 위한 차세대 AI 기반 기상 모델과 데이터 파이프라인을 제공합니다.",
+      "domains": [
+        "AI/ML",
+        "Data"
+      ],
+      "roles": [
+        "Model",
+        "SDK"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+325",
+      "trend_windows": {
+        "3d": {
+          "stars": 325,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 325,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 325,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/google-deepmind/weathernext",
+      "updated_at": "2026-08-11T05:34:44.237437+00:00"
     }
   ]
 }
