@@ -3,8 +3,8 @@ import { createRoot } from 'react-dom/client';
 import './styles.css';
 
 const demoItems = [
-  { full_name: 'example/fast-tool', name: 'example / fast-tool', category: 'Developer Tools / Runtime', description: 'A small, fast runtime for modern JavaScript workloads.', language: 'Rust', gained: '+1,248', stars: 12400, url: 'https://github.com' },
-  { full_name: 'example/vector-store', name: 'example / vector-store', category: 'Data / Search', description: 'An embedded vector store for applications that need local semantic search.', language: 'Python', gained: '+842', stars: 9200, url: 'https://github.com' },
+  { full_name: 'example/fast-tool', name: 'example / fast-tool', domains: ['Developer Tools'], roles: ['Runtime'], description: 'A small, fast runtime for modern JavaScript workloads.', language: 'Rust', gained: '+1,248', stars: 12400, url: 'https://github.com' },
+  { full_name: 'example/vector-store', name: 'example / vector-store', domains: ['Data'], roles: ['Search'], description: 'An embedded vector store for applications that need local semantic search.', language: 'Python', gained: '+842', stars: 9200, url: 'https://github.com' },
 ];
 
 function formatStars(value) {
@@ -26,6 +26,7 @@ function App() {
   const displayItems = items.length ? items : (loaded ? [] : demoItems);
   const selectedItem = displayItems[selected] || displayItems[0];
   const reportDate = new Date().toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' }).toUpperCase();
+  const tagsFor = (item) => [...(item?.domains || []), ...(item?.roles || [])];
 
   return <div className="site-shell">
     <header className="masthead">
@@ -46,7 +47,7 @@ function App() {
           {displayItems.map((item, index) => <button className={`trend-row ${selected === index ? 'is-selected' : ''}`} key={item.full_name} onClick={() => setSelected(index)}>
             <span className="rank">{index + 1}</span>
             <span className="repository"><strong>{item.name || item.full_name}</strong><small>{item.language || 'Open source'}</small></span>
-            <span className="category">{item.category || item.language || 'Open Source'}</span>
+            <span className="category">{tagsFor(item).join(' · ') || item.language || 'Open Source'}</span>
             <span className="description">{item.description}</span>
             <span className="stars"><strong>{item.gained || '+0'}</strong><small>↑</small></span>
           </button>)}
@@ -54,7 +55,7 @@ function App() {
         {selectedItem && <aside className="detail">
           <div className="detail-label">SELECTED REPOSITORY</div>
           <h2>{selectedItem.name || selectedItem.full_name}</h2>
-          <div className="detail-category">{selectedItem.category || selectedItem.language || 'OPEN SOURCE'}</div>
+          <div className="detail-category">{tagsFor(selectedItem).join(' · ') || selectedItem.language || 'OPEN SOURCE'}</div>
           <p className="detail-description">{selectedItem.description}</p>
           <dl>
             <div><dt>TOTAL STARS</dt><dd>{formatStars(selectedItem.stars)}</dd></div>
