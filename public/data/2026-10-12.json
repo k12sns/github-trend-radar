@@ -1,0 +1,288 @@
+{
+  "generated_at": "2026-10-12T02:18:44.638354+00:00",
+  "items": [
+    {
+      "full_name": "morluto/rea",
+      "name": "morluto / rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+25,599",
+      "trend_windows": {
+        "3d": {
+          "stars": 66319,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 78712,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 81668,
+          "observed": 6,
+          "days": 7
+        }
+      },
+      "stars": 108677,
+      "forks": 24084,
+      "url": "https://github.com/morluto/rea",
+      "updated_at": "2026-10-12T02:10:51Z"
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "name": "boykopovar / AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "SDK"
+      ],
+      "language": "C++",
+      "color": "#b23ad5",
+      "gained": "+3,952",
+      "trend_windows": {
+        "3d": {
+          "stars": 15625,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 23010,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 24956,
+          "observed": 7,
+          "days": 7
+        }
+      },
+      "stars": 30320,
+      "forks": 2607,
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "updated_at": "2026-10-12T02:00:56Z"
+    },
+    {
+      "full_name": "storytold/artcraft",
+      "name": "storytold / artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+2,957",
+      "trend_windows": {
+        "3d": {
+          "stars": 8282,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 8282,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 8282,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 18185,
+      "forks": 2976,
+      "url": "https://github.com/storytold/artcraft",
+      "updated_at": "2026-10-11T13:47:59Z"
+    },
+    {
+      "full_name": "cathrynlavery/diagram-design",
+      "name": "cathrynlavery / diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "HTML",
+      "color": "#77736b",
+      "gained": "+1,083",
+      "trend_windows": {
+        "3d": {
+          "stars": 3982,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4807,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4807,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 50489,
+      "forks": 3206,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "updated_at": "2026-10-10T21:10:14Z"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "name": "bilawalsidhu / gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+886",
+      "trend_windows": {
+        "3d": {
+          "stars": 886,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 886,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 886,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 51803,
+      "forks": 10395,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "updated_at": "2026-10-10T03:59:46Z"
+    },
+    {
+      "full_name": "lyogavin/airllm",
+      "name": "lyogavin / airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Jupyter Notebook",
+      "color": "#77736b",
+      "gained": "+548",
+      "trend_windows": {
+        "3d": {
+          "stars": 548,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 548,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 548,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 36550,
+      "forks": 3820,
+      "url": "https://github.com/lyogavin/airllm",
+      "updated_at": "2026-10-11T06:19:49Z"
+    },
+    {
+      "full_name": "chrislgarry/Apollo-11",
+      "name": "chrislgarry / Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Assembly",
+      "color": "#77736b",
+      "gained": "+466",
+      "trend_windows": {
+        "3d": {
+          "stars": 466,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 466,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 466,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 74289,
+      "forks": 8108,
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "updated_at": "2026-07-15T02:29:53Z"
+    },
+    {
+      "full_name": "pytorch/pytorch",
+      "name": "pytorch / pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+315",
+      "trend_windows": {
+        "3d": {
+          "stars": 315,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 315,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 315,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 104536,
+      "forks": 32139,
+      "url": "https://github.com/pytorch/pytorch",
+      "updated_at": "2026-10-12T02:13:41Z"
+    }
+  ]
+}

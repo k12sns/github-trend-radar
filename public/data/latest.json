@@ -1,227 +1,288 @@
 {
-  "generated_at": "2026-10-11T01:49:22.145365+00:00",
+  "generated_at": "2026-10-12T02:18:44.638354+00:00",
   "items": [
     {
       "full_name": "morluto/rea",
       "name": "morluto / rea",
-      "description": "AI 에이전트와 MCP를 활용해 바이너리, 애플리케이션, 런타임 동작을 분석하는 리버스 엔지니어링 도구입니다.",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "domains": [
-        "Developer Tools",
-        "Security"
+        "AI/ML"
       ],
       "roles": [
-        "CLI",
-        "Agent"
+        "Agent",
+        "Plugin"
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+25,793",
+      "gained": "+25,599",
       "trend_windows": {
         "3d": {
-          "stars": 48458,
+          "stars": 66319,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 56069,
+          "stars": 78712,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 56069,
-          "observed": 5,
-          "days": 7
-        }
-      },
-      "stars": 73733,
-      "forks": 15588,
-      "url": "https://github.com/morluto/rea",
-      "updated_at": "2026-10-11T01:49:12Z"
-    },
-    {
-      "full_name": "boykopovar/AnyPS5",
-      "name": "boykopovar / AnyPS5",
-      "description": "PS5 실행 파일을 리눅스와 윈도우 네이티브 포맷으로 자동 변환하는 포팅 도구입니다.",
-      "domains": [
-        "Developer Tools",
-        "Mobile"
-      ],
-      "roles": [
-        "CLI",
-        "Runtime"
-      ],
-      "language": "C++",
-      "color": "#b23ad5",
-      "gained": "+5,805",
-      "trend_windows": {
-        "3d": {
-          "stars": 16342,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 20007,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 21004,
+          "stars": 81668,
           "observed": 6,
           "days": 7
         }
       },
-      "stars": 26983,
-      "forks": 2264,
+      "stars": 108677,
+      "forks": 24084,
+      "url": "https://github.com/morluto/rea",
+      "updated_at": "2026-10-12T02:10:51Z"
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "name": "boykopovar / AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "SDK"
+      ],
+      "language": "C++",
+      "color": "#b23ad5",
+      "gained": "+3,952",
+      "trend_windows": {
+        "3d": {
+          "stars": 15625,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 23010,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 24956,
+          "observed": 7,
+          "days": 7
+        }
+      },
+      "stars": 30320,
+      "forks": 2607,
       "url": "https://github.com/boykopovar/AnyPS5",
-      "updated_at": "2026-10-11T01:20:57Z"
+      "updated_at": "2026-10-12T02:00:56Z"
     },
     {
       "full_name": "storytold/artcraft",
       "name": "storytold / artcraft",
-      "description": "아티스트와 영화 제작자를 위한 AI 이미지·비디오 크래프팅 IDE로, 2D 컴포지션과 3D 씬 스테이징을 지원합니다.",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "domains": [
         "AI/ML",
         "UI/UX"
       ],
       "roles": [
-        "Editor",
         "Framework"
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+3,222",
+      "gained": "+2,957",
       "trend_windows": {
         "3d": {
-          "stars": 5325,
-          "observed": 2,
+          "stars": 8282,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 5325,
-          "observed": 2,
+          "stars": 8282,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 5325,
-          "observed": 2,
+          "stars": 8282,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 14591,
-      "forks": 2304,
+      "stars": 18185,
+      "forks": 2976,
       "url": "https://github.com/storytold/artcraft",
-      "updated_at": "2026-10-10T19:03:53Z"
+      "updated_at": "2026-10-11T13:47:59Z"
     },
     {
-      "full_name": "hugohe3/ppt-master",
-      "name": "hugohe3 / ppt-master",
-      "description": "문서나 주제로부터 네이티브 파워포인트(PPTX)를 자동 생성하는 AI 도구로, 차트, 애니메이션, 템플릿을 지원합니다.",
+      "full_name": "cathrynlavery/diagram-design",
+      "name": "cathrynlavery / diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "domains": [
         "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "HTML",
+      "color": "#77736b",
+      "gained": "+1,083",
+      "trend_windows": {
+        "3d": {
+          "stars": 3982,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4807,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4807,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 50489,
+      "forks": 3206,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "updated_at": "2026-10-10T21:10:14Z"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "name": "bilawalsidhu / gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "domains": [
         "Developer Tools"
       ],
       "roles": [
-        "CLI",
-        "API"
+        "Framework"
       ],
-      "language": "Python",
+      "language": "JavaScript",
       "color": "#f5b414",
-      "gained": "+461",
+      "gained": "+886",
       "trend_windows": {
         "3d": {
-          "stars": 461,
+          "stars": 886,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 461,
+          "stars": 886,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 461,
+          "stars": 886,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 59503,
-      "forks": 4689,
-      "url": "https://github.com/hugohe3/ppt-master",
-      "updated_at": "2026-10-08T07:45:46Z"
+      "stars": 51803,
+      "forks": 10395,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "updated_at": "2026-10-10T03:59:46Z"
     },
     {
-      "full_name": "mksglu/context-mode",
-      "name": "mksglu / context-mode",
-      "description": "AI 코딩 에이전트의 컨텍스트 윈도우를 최적화하는 MCP 서버로, 도구 출력을 샌드박싱하고 세션 메모리를 지속합니다.",
+      "full_name": "lyogavin/airllm",
+      "name": "lyogavin / airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
       "domains": [
-        "Developer Tools",
         "AI/ML"
       ],
       "roles": [
-        "Plugin",
-        "Automation"
+        "Framework"
       ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+178",
+      "language": "Jupyter Notebook",
+      "color": "#77736b",
+      "gained": "+548",
       "trend_windows": {
         "3d": {
-          "stars": 434,
-          "observed": 2,
+          "stars": 548,
+          "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 434,
-          "observed": 2,
+          "stars": 548,
+          "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 434,
-          "observed": 2,
+          "stars": 548,
+          "observed": 1,
           "days": 7
         }
       },
-      "stars": 26337,
-      "forks": 1894,
-      "url": "https://github.com/mksglu/context-mode",
-      "updated_at": "2026-10-11T00:15:03Z"
+      "stars": 36550,
+      "forks": 3820,
+      "url": "https://github.com/lyogavin/airllm",
+      "updated_at": "2026-10-11T06:19:49Z"
     },
     {
-      "full_name": "flutter/flutter",
-      "name": "flutter / flutter",
-      "description": "단일 코드베이스로 모바일, 웹, 데스크톱 앱을 구축하는 구글의 크로스 플랫폼 UI 프레임워크입니다.",
+      "full_name": "chrislgarry/Apollo-11",
+      "name": "chrislgarry / Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "domains": [
-        "Mobile",
-        "Web"
+        "UI/UX"
       ],
       "roles": [
-        "Framework",
-        "SDK"
+        "Framework"
       ],
-      "language": "Dart",
+      "language": "Assembly",
       "color": "#77736b",
-      "gained": "+88",
+      "gained": "+466",
       "trend_windows": {
         "3d": {
-          "stars": 88,
+          "stars": 466,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 88,
+          "stars": 466,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 88,
+          "stars": 466,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 179537,
-      "forks": 33601,
-      "url": "https://github.com/flutter/flutter",
-      "updated_at": "2026-10-11T00:14:58Z"
+      "stars": 74289,
+      "forks": 8108,
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "updated_at": "2026-07-15T02:29:53Z"
+    },
+    {
+      "full_name": "pytorch/pytorch",
+      "name": "pytorch / pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+315",
+      "trend_windows": {
+        "3d": {
+          "stars": 315,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 315,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 315,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 104536,
+      "forks": 32139,
+      "url": "https://github.com/pytorch/pytorch",
+      "updated_at": "2026-10-12T02:13:41Z"
     }
   ]
 }
