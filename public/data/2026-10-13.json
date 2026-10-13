@@ -1,0 +1,290 @@
+{
+  "generated_at": "2026-10-13T03:30:15.753818+00:00",
+  "items": [
+    {
+      "full_name": "morluto/rea",
+      "name": "morluto / rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+45,327",
+      "trend_windows": {
+        "3d": {
+          "stars": 96719,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 119384,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 126995,
+          "observed": 7,
+          "days": 7
+        }
+      },
+      "stars": 165334,
+      "forks": 39064,
+      "url": "https://github.com/morluto/rea",
+      "updated_at": "2026-10-13T03:28:19Z"
+    },
+    {
+      "full_name": "storytold/artcraft",
+      "name": "storytold / artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+4,095",
+      "trend_windows": {
+        "3d": {
+          "stars": 10274,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 12377,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 12377,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 22518,
+      "forks": 3620,
+      "url": "https://github.com/storytold/artcraft",
+      "updated_at": "2026-10-11T13:47:59Z"
+    },
+    {
+      "full_name": "cathrynlavery/diagram-design",
+      "name": "cathrynlavery / diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "HTML",
+      "color": "#77736b",
+      "gained": "+2,081",
+      "trend_windows": {
+        "3d": {
+          "stars": 4903,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6888,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6888,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 52843,
+      "forks": 3341,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "updated_at": "2026-10-13T02:48:45Z"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "name": "bilawalsidhu / gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+1,895",
+      "trend_windows": {
+        "3d": {
+          "stars": 2781,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2781,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2781,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 53889,
+      "forks": 10630,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "updated_at": "2026-10-12T14:15:33Z"
+    },
+    {
+      "full_name": "lyogavin/airllm",
+      "name": "lyogavin / airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Jupyter Notebook",
+      "color": "#77736b",
+      "gained": "+879",
+      "trend_windows": {
+        "3d": {
+          "stars": 1427,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1427,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1427,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 37639,
+      "forks": 3879,
+      "url": "https://github.com/lyogavin/airllm",
+      "updated_at": "2026-10-12T06:31:50Z"
+    },
+    {
+      "full_name": "mksglu/context-mode",
+      "name": "mksglu / context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+246",
+      "trend_windows": {
+        "3d": {
+          "stars": 424,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 424,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 424,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 27410,
+      "forks": 1952,
+      "url": "https://github.com/mksglu/context-mode",
+      "updated_at": "2026-10-12T18:05:18Z"
+    },
+    {
+      "full_name": "open-webui/open-webui",
+      "name": "open-webui / open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "API"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+157",
+      "trend_windows": {
+        "3d": {
+          "stars": 157,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 157,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 157,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 155158,
+      "forks": 22653,
+      "url": "https://github.com/open-webui/open-webui",
+      "updated_at": "2026-10-12T22:13:08Z"
+    },
+    {
+      "full_name": "microsoft/BitNet",
+      "name": "microsoft / BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C++",
+      "color": "#b23ad5",
+      "gained": "+97",
+      "trend_windows": {
+        "3d": {
+          "stars": 97,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 97,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 97,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 40955,
+      "forks": 3815,
+      "url": "https://github.com/microsoft/BitNet",
+      "updated_at": "2026-07-27T05:52:06Z"
+    }
+  ]
+}

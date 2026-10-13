@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T02:18:44.638354+00:00",
+  "generated_at": "2026-10-13T03:30:15.753818+00:00",
   "items": [
     {
       "full_name": "morluto/rea",
@@ -14,63 +14,28 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+25,599",
+      "gained": "+45,327",
       "trend_windows": {
         "3d": {
-          "stars": 66319,
+          "stars": 96719,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 78712,
+          "stars": 119384,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 81668,
-          "observed": 6,
-          "days": 7
-        }
-      },
-      "stars": 108677,
-      "forks": 24084,
-      "url": "https://github.com/morluto/rea",
-      "updated_at": "2026-10-12T02:10:51Z"
-    },
-    {
-      "full_name": "boykopovar/AnyPS5",
-      "name": "boykopovar / AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "domains": [
-        "UI/UX"
-      ],
-      "roles": [
-        "SDK"
-      ],
-      "language": "C++",
-      "color": "#b23ad5",
-      "gained": "+3,952",
-      "trend_windows": {
-        "3d": {
-          "stars": 15625,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 23010,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 24956,
+          "stars": 126995,
           "observed": 7,
           "days": 7
         }
       },
-      "stars": 30320,
-      "forks": 2607,
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "updated_at": "2026-10-12T02:00:56Z"
+      "stars": 165334,
+      "forks": 39064,
+      "url": "https://github.com/morluto/rea",
+      "updated_at": "2026-10-13T03:28:19Z"
     },
     {
       "full_name": "storytold/artcraft",
@@ -85,26 +50,26 @@
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+2,957",
+      "gained": "+4,095",
       "trend_windows": {
         "3d": {
-          "stars": 8282,
+          "stars": 10274,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 8282,
-          "observed": 3,
+          "stars": 12377,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 8282,
-          "observed": 3,
+          "stars": 12377,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 18185,
-      "forks": 2976,
+      "stars": 22518,
+      "forks": 3620,
       "url": "https://github.com/storytold/artcraft",
       "updated_at": "2026-10-11T13:47:59Z"
     },
@@ -121,28 +86,28 @@
       ],
       "language": "HTML",
       "color": "#77736b",
-      "gained": "+1,083",
+      "gained": "+2,081",
       "trend_windows": {
         "3d": {
-          "stars": 3982,
+          "stars": 4903,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 4807,
-          "observed": 4,
+          "stars": 6888,
+          "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 4807,
-          "observed": 4,
+          "stars": 6888,
+          "observed": 5,
           "days": 7
         }
       },
-      "stars": 50489,
-      "forks": 3206,
+      "stars": 52843,
+      "forks": 3341,
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "updated_at": "2026-10-10T21:10:14Z"
+      "updated_at": "2026-10-13T02:48:45Z"
     },
     {
       "full_name": "bilawalsidhu/gods-eye-view",
@@ -156,33 +121,33 @@
       ],
       "language": "JavaScript",
       "color": "#f5b414",
-      "gained": "+886",
+      "gained": "+1,895",
       "trend_windows": {
         "3d": {
-          "stars": 886,
-          "observed": 1,
+          "stars": 2781,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 886,
-          "observed": 1,
+          "stars": 2781,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 886,
-          "observed": 1,
+          "stars": 2781,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 51803,
-      "forks": 10395,
+      "stars": 53889,
+      "forks": 10630,
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "updated_at": "2026-10-10T03:59:46Z"
+      "updated_at": "2026-10-12T14:15:33Z"
     },
     {
       "full_name": "lyogavin/airllm",
       "name": "lyogavin / airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "domains": [
         "AI/ML"
       ],
@@ -191,98 +156,135 @@
       ],
       "language": "Jupyter Notebook",
       "color": "#77736b",
-      "gained": "+548",
+      "gained": "+879",
       "trend_windows": {
         "3d": {
-          "stars": 548,
-          "observed": 1,
+          "stars": 1427,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 548,
-          "observed": 1,
+          "stars": 1427,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 548,
-          "observed": 1,
+          "stars": 1427,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 36550,
-      "forks": 3820,
+      "stars": 37639,
+      "forks": 3879,
       "url": "https://github.com/lyogavin/airllm",
-      "updated_at": "2026-10-11T06:19:49Z"
+      "updated_at": "2026-10-12T06:31:50Z"
     },
     {
-      "full_name": "chrislgarry/Apollo-11",
-      "name": "chrislgarry / Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "full_name": "mksglu/context-mode",
+      "name": "mksglu / context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+246",
+      "trend_windows": {
+        "3d": {
+          "stars": 424,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 424,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 424,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 27410,
+      "forks": 1952,
+      "url": "https://github.com/mksglu/context-mode",
+      "updated_at": "2026-10-12T18:05:18Z"
+    },
+    {
+      "full_name": "open-webui/open-webui",
+      "name": "open-webui / open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "domains": [
+        "AI/ML",
         "UI/UX"
       ],
       "roles": [
-        "Framework"
+        "API"
       ],
-      "language": "Assembly",
-      "color": "#77736b",
-      "gained": "+466",
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+157",
       "trend_windows": {
         "3d": {
-          "stars": 466,
+          "stars": 157,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 466,
+          "stars": 157,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 466,
+          "stars": 157,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 74289,
-      "forks": 8108,
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "updated_at": "2026-07-15T02:29:53Z"
+      "stars": 155158,
+      "forks": 22653,
+      "url": "https://github.com/open-webui/open-webui",
+      "updated_at": "2026-10-12T22:13:08Z"
     },
     {
-      "full_name": "pytorch/pytorch",
-      "name": "pytorch / pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "full_name": "microsoft/BitNet",
+      "name": "microsoft / BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
       "domains": [
         "AI/ML"
       ],
       "roles": [
         "Framework"
       ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+315",
+      "language": "C++",
+      "color": "#b23ad5",
+      "gained": "+97",
       "trend_windows": {
         "3d": {
-          "stars": 315,
+          "stars": 97,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 315,
+          "stars": 97,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 315,
+          "stars": 97,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 104536,
-      "forks": 32139,
-      "url": "https://github.com/pytorch/pytorch",
-      "updated_at": "2026-10-12T02:13:41Z"
+      "stars": 40955,
+      "forks": 3815,
+      "url": "https://github.com/microsoft/BitNet",
+      "updated_at": "2026-07-27T05:52:06Z"
     }
   ]
 }
