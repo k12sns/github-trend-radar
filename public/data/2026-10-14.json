@@ -1,0 +1,326 @@
+{
+  "generated_at": "2026-10-14T01:50:25.597207+00:00",
+  "items": [
+    {
+      "full_name": "morluto/rea",
+      "name": "morluto / rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+54,679",
+      "trend_windows": {
+        "3d": {
+          "stars": 125605,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 166325,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 178718,
+          "observed": 7,
+          "days": 7
+        }
+      },
+      "stars": 209292,
+      "forks": 51242,
+      "url": "https://github.com/morluto/rea",
+      "updated_at": "2026-10-14T01:42:05Z"
+    },
+    {
+      "full_name": "storytold/artcraft",
+      "name": "storytold / artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+4,081",
+      "trend_windows": {
+        "3d": {
+          "stars": 11133,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 16458,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 16458,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 25788,
+      "forks": 4041,
+      "url": "https://github.com/storytold/artcraft",
+      "updated_at": "2026-10-11T13:47:59Z"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "name": "bilawalsidhu / gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+1,961",
+      "trend_windows": {
+        "3d": {
+          "stars": 4742,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4742,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4742,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 55478,
+      "forks": 10839,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "updated_at": "2026-10-13T23:03:44Z"
+    },
+    {
+      "full_name": "cathrynlavery/diagram-design",
+      "name": "cathrynlavery / diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "HTML",
+      "color": "#77736b",
+      "gained": "+1,815",
+      "trend_windows": {
+        "3d": {
+          "stars": 4979,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 7878,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 8703,
+          "observed": 6,
+          "days": 7
+        }
+      },
+      "stars": 54202,
+      "forks": 3439,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "updated_at": "2026-10-13T21:48:36Z"
+    },
+    {
+      "full_name": "debpalash/VoiceStudio",
+      "name": "debpalash / VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,748",
+      "trend_windows": {
+        "3d": {
+          "stars": 1748,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1748,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1748,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 63440,
+      "forks": 7053,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "updated_at": "2026-10-14T01:24:15Z"
+    },
+    {
+      "full_name": "xtool-org/xtool",
+      "name": "xtool-org / xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "domains": [
+        "UI/UX",
+        "DevOps"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Swift",
+      "color": "#77736b",
+      "gained": "+1,198",
+      "trend_windows": {
+        "3d": {
+          "stars": 1198,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1198,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1198,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 9453,
+      "forks": 402,
+      "url": "https://github.com/xtool-org/xtool",
+      "updated_at": "2026-10-14T00:11:42Z"
+    },
+    {
+      "full_name": "lyogavin/airllm",
+      "name": "lyogavin / airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Jupyter Notebook",
+      "color": "#77736b",
+      "gained": "+1,001",
+      "trend_windows": {
+        "3d": {
+          "stars": 2428,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2428,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2428,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 38360,
+      "forks": 3923,
+      "url": "https://github.com/lyogavin/airllm",
+      "updated_at": "2026-10-13T06:24:34Z"
+    },
+    {
+      "full_name": "mksglu/context-mode",
+      "name": "mksglu / context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+969",
+      "trend_windows": {
+        "3d": {
+          "stars": 1393,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1393,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1393,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 28277,
+      "forks": 1995,
+      "url": "https://github.com/mksglu/context-mode",
+      "updated_at": "2026-10-14T01:45:39Z"
+    },
+    {
+      "full_name": "vercel-labs/skills",
+      "name": "vercel-labs / skills",
+      "description": "The open agent skills tool - npx skills",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+190",
+      "trend_windows": {
+        "3d": {
+          "stars": 190,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 190,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 190,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 34545,
+      "forks": 2953,
+      "url": "https://github.com/vercel-labs/skills",
+      "updated_at": "2026-10-09T17:54:47Z"
+    }
+  ]
+}

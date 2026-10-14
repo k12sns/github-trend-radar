@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:30:15.753818+00:00",
+  "generated_at": "2026-10-14T01:50:25.597207+00:00",
   "items": [
     {
       "full_name": "morluto/rea",
@@ -14,28 +14,28 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+45,327",
+      "gained": "+54,679",
       "trend_windows": {
         "3d": {
-          "stars": 96719,
+          "stars": 125605,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 119384,
+          "stars": 166325,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 126995,
+          "stars": 178718,
           "observed": 7,
           "days": 7
         }
       },
-      "stars": 165334,
-      "forks": 39064,
+      "stars": 209292,
+      "forks": 51242,
       "url": "https://github.com/morluto/rea",
-      "updated_at": "2026-10-13T03:28:19Z"
+      "updated_at": "2026-10-14T01:42:05Z"
     },
     {
       "full_name": "storytold/artcraft",
@@ -50,28 +50,63 @@
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+4,095",
+      "gained": "+4,081",
       "trend_windows": {
         "3d": {
-          "stars": 10274,
+          "stars": 11133,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 12377,
-          "observed": 4,
+          "stars": 16458,
+          "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 12377,
-          "observed": 4,
+          "stars": 16458,
+          "observed": 5,
           "days": 7
         }
       },
-      "stars": 22518,
-      "forks": 3620,
+      "stars": 25788,
+      "forks": 4041,
       "url": "https://github.com/storytold/artcraft",
       "updated_at": "2026-10-11T13:47:59Z"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "name": "bilawalsidhu / gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+1,961",
+      "trend_windows": {
+        "3d": {
+          "stars": 4742,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4742,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4742,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 55478,
+      "forks": 10839,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "updated_at": "2026-10-13T23:03:44Z"
     },
     {
       "full_name": "cathrynlavery/diagram-design",
@@ -86,63 +121,100 @@
       ],
       "language": "HTML",
       "color": "#77736b",
-      "gained": "+2,081",
+      "gained": "+1,815",
       "trend_windows": {
         "3d": {
-          "stars": 4903,
+          "stars": 4979,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 6888,
+          "stars": 7878,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 6888,
-          "observed": 5,
+          "stars": 8703,
+          "observed": 6,
           "days": 7
         }
       },
-      "stars": 52843,
-      "forks": 3341,
+      "stars": 54202,
+      "forks": 3439,
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "updated_at": "2026-10-13T02:48:45Z"
+      "updated_at": "2026-10-13T21:48:36Z"
     },
     {
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "name": "bilawalsidhu / gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "full_name": "debpalash/VoiceStudio",
+      "name": "debpalash / VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "domains": [
-        "Developer Tools"
+        "AI/ML",
+        "UI/UX"
       ],
       "roles": [
         "Framework"
       ],
-      "language": "JavaScript",
+      "language": "Python",
       "color": "#f5b414",
-      "gained": "+1,895",
+      "gained": "+1,748",
       "trend_windows": {
         "3d": {
-          "stars": 2781,
-          "observed": 2,
+          "stars": 1748,
+          "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 2781,
-          "observed": 2,
+          "stars": 1748,
+          "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 2781,
-          "observed": 2,
+          "stars": 1748,
+          "observed": 1,
           "days": 7
         }
       },
-      "stars": 53889,
-      "forks": 10630,
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "updated_at": "2026-10-12T14:15:33Z"
+      "stars": 63440,
+      "forks": 7053,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "updated_at": "2026-10-14T01:24:15Z"
+    },
+    {
+      "full_name": "xtool-org/xtool",
+      "name": "xtool-org / xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "domains": [
+        "UI/UX",
+        "DevOps"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Swift",
+      "color": "#77736b",
+      "gained": "+1,198",
+      "trend_windows": {
+        "3d": {
+          "stars": 1198,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1198,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1198,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 9453,
+      "forks": 402,
+      "url": "https://github.com/xtool-org/xtool",
+      "updated_at": "2026-10-14T00:11:42Z"
     },
     {
       "full_name": "lyogavin/airllm",
@@ -156,28 +228,28 @@
       ],
       "language": "Jupyter Notebook",
       "color": "#77736b",
-      "gained": "+879",
+      "gained": "+1,001",
       "trend_windows": {
         "3d": {
-          "stars": 1427,
-          "observed": 2,
+          "stars": 2428,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 1427,
-          "observed": 2,
+          "stars": 2428,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 1427,
-          "observed": 2,
+          "stars": 2428,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 37639,
-      "forks": 3879,
+      "stars": 38360,
+      "forks": 3923,
       "url": "https://github.com/lyogavin/airllm",
-      "updated_at": "2026-10-12T06:31:50Z"
+      "updated_at": "2026-10-13T06:24:34Z"
     },
     {
       "full_name": "mksglu/context-mode",
@@ -192,99 +264,63 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+246",
+      "gained": "+969",
       "trend_windows": {
         "3d": {
-          "stars": 424,
-          "observed": 2,
+          "stars": 1393,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 424,
-          "observed": 2,
+          "stars": 1393,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 424,
-          "observed": 2,
+          "stars": 1393,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 27410,
-      "forks": 1952,
+      "stars": 28277,
+      "forks": 1995,
       "url": "https://github.com/mksglu/context-mode",
-      "updated_at": "2026-10-12T18:05:18Z"
+      "updated_at": "2026-10-14T01:45:39Z"
     },
     {
-      "full_name": "open-webui/open-webui",
-      "name": "open-webui / open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "full_name": "vercel-labs/skills",
+      "name": "vercel-labs / skills",
+      "description": "The open agent skills tool - npx skills",
       "domains": [
-        "AI/ML",
-        "UI/UX"
+        "Developer Tools"
       ],
       "roles": [
-        "API"
+        "Agent"
       ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+157",
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+190",
       "trend_windows": {
         "3d": {
-          "stars": 157,
+          "stars": 190,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 157,
+          "stars": 190,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 157,
+          "stars": 190,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 155158,
-      "forks": 22653,
-      "url": "https://github.com/open-webui/open-webui",
-      "updated_at": "2026-10-12T22:13:08Z"
-    },
-    {
-      "full_name": "microsoft/BitNet",
-      "name": "microsoft / BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "C++",
-      "color": "#b23ad5",
-      "gained": "+97",
-      "trend_windows": {
-        "3d": {
-          "stars": 97,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 97,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 97,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 40955,
-      "forks": 3815,
-      "url": "https://github.com/microsoft/BitNet",
-      "updated_at": "2026-07-27T05:52:06Z"
+      "stars": 34545,
+      "forks": 2953,
+      "url": "https://github.com/vercel-labs/skills",
+      "updated_at": "2026-10-09T17:54:47Z"
     }
   ]
 }
