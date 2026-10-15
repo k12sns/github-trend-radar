@@ -1,0 +1,362 @@
+{
+  "generated_at": "2026-10-15T01:25:08.840431+00:00",
+  "items": [
+    {
+      "full_name": "morluto/rea",
+      "name": "morluto / rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+41,034",
+      "trend_windows": {
+        "3d": {
+          "stars": 141040,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 192432,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 215097,
+          "observed": 7,
+          "days": 7
+        }
+      },
+      "stars": 242985,
+      "forks": 60579,
+      "url": "https://github.com/morluto/rea",
+      "updated_at": "2026-10-15T01:24:17Z"
+    },
+    {
+      "full_name": "debpalash/VoiceStudio",
+      "name": "debpalash / VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+3,538",
+      "trend_windows": {
+        "3d": {
+          "stars": 5286,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 5286,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 5286,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 66420,
+      "forks": 7321,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "updated_at": "2026-10-14T22:26:47Z"
+    },
+    {
+      "full_name": "ifixai-ai/iFixAi",
+      "name": "ifixai-ai / iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+2,109",
+      "trend_windows": {
+        "3d": {
+          "stars": 2109,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2109,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2109,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 27445,
+      "forks": 1504,
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "updated_at": "2026-10-14T23:04:34Z"
+    },
+    {
+      "full_name": "xtool-org/xtool",
+      "name": "xtool-org / xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "domains": [
+        "UI/UX",
+        "DevOps"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Swift",
+      "color": "#77736b",
+      "gained": "+1,502",
+      "trend_windows": {
+        "3d": {
+          "stars": 2700,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2700,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2700,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 10857,
+      "forks": 492,
+      "url": "https://github.com/xtool-org/xtool",
+      "updated_at": "2026-10-14T04:44:37Z"
+    },
+    {
+      "full_name": "vxcontrol/pentagi",
+      "name": "vxcontrol / pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Go",
+      "color": "#f26e1e",
+      "gained": "+1,025",
+      "trend_windows": {
+        "3d": {
+          "stars": 1025,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1025,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1025,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 29512,
+      "forks": 4430,
+      "url": "https://github.com/vxcontrol/pentagi",
+      "updated_at": "2026-10-09T20:54:31Z"
+    },
+    {
+      "full_name": "NationalSecurityAgency/ghidra",
+      "name": "NationalSecurityAgency / ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Java",
+      "color": "#77736b",
+      "gained": "+1,008",
+      "trend_windows": {
+        "3d": {
+          "stars": 1008,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1008,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1008,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 87548,
+      "forks": 9771,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "updated_at": "2026-10-13T17:14:10Z"
+    },
+    {
+      "full_name": "mksglu/context-mode",
+      "name": "mksglu / context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+947",
+      "trend_windows": {
+        "3d": {
+          "stars": 2162,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2340,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2340,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 29146,
+      "forks": 2046,
+      "url": "https://github.com/mksglu/context-mode",
+      "updated_at": "2026-10-14T22:18:40Z"
+    },
+    {
+      "full_name": "rust-lang/rust",
+      "name": "rust-lang / rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+207",
+      "trend_windows": {
+        "3d": {
+          "stars": 207,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 207,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 207,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 120045,
+      "forks": 18701,
+      "url": "https://github.com/rust-lang/rust",
+      "updated_at": "2026-10-14T23:41:32Z"
+    },
+    {
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "name": "K-Dense-AI / scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discove",
+      "domains": [
+        "AI/ML",
+        "Database"
+      ],
+      "roles": [
+        "Agent",
+        "SDK"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+163",
+      "trend_windows": {
+        "3d": {
+          "stars": 163,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 163,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 163,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 49365,
+      "forks": 4422,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "updated_at": "2026-10-12T09:43:31Z"
+    },
+    {
+      "full_name": "ntdevlabs/tiny11builder",
+      "name": "ntdevlabs / tiny11builder",
+      "description": "WinUI app for building smaller, customized Windows 11 images.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C#",
+      "color": "#77736b",
+      "gained": "+139",
+      "trend_windows": {
+        "3d": {
+          "stars": 139,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 139,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 139,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 20246,
+      "forks": 1556,
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "updated_at": "2026-10-12T20:32:09Z"
+    }
+  ]
+}
