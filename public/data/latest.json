@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:15:44.968588+00:00",
+  "generated_at": "2026-10-18T00:57:22.088342+00:00",
   "items": [
     {
       "full_name": "debpalash/VoiceStudio",
@@ -14,28 +14,28 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+2,301",
+      "gained": "+2,125",
       "trend_windows": {
         "3d": {
-          "stars": 8863,
+          "stars": 7450,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 10611,
-          "observed": 4,
+          "stars": 12736,
+          "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 10611,
-          "observed": 4,
+          "stars": 12736,
+          "observed": 5,
           "days": 7
         }
       },
-      "stars": 71241,
-      "forks": 7792,
+      "stars": 73389,
+      "forks": 8033,
       "url": "https://github.com/debpalash/VoiceStudio",
-      "updated_at": "2026-10-16T14:33:40Z"
+      "updated_at": "2026-10-18T00:01:21Z"
     },
     {
       "full_name": "anthropics/claude-plugins-official",
@@ -49,136 +49,28 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+1,552",
+      "gained": "+1,397",
       "trend_windows": {
         "3d": {
-          "stars": 1859,
-          "observed": 2,
+          "stars": 3256,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 1859,
-          "observed": 2,
+          "stars": 3256,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 1859,
-          "observed": 2,
+          "stars": 3256,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 40584,
-      "forks": 4401,
+      "stars": 41762,
+      "forks": 4465,
       "url": "https://github.com/anthropics/claude-plugins-official",
-      "updated_at": "2026-10-16T16:36:46Z"
-    },
-    {
-      "full_name": "K-Dense-AI/scientific-agent-skills",
-      "name": "K-Dense-AI / scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discove",
-      "domains": [
-        "AI/ML",
-        "Database"
-      ],
-      "roles": [
-        "Agent",
-        "SDK"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+1,158",
-      "trend_windows": {
-        "3d": {
-          "stars": 2412,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2412,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2412,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 51519,
-      "forks": 4564,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "updated_at": "2026-10-15T23:57:39Z"
-    },
-    {
-      "full_name": "affaan-m/ECC",
-      "name": "affaan-m / ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+1,057",
-      "trend_windows": {
-        "3d": {
-          "stars": 2070,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2070,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2070,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 281529,
-      "forks": 41856,
-      "url": "https://github.com/affaan-m/ECC",
-      "updated_at": "2026-10-15T19:17:01Z"
-    },
-    {
-      "full_name": "obra/superpowers",
-      "name": "obra / superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent",
-        "Framework"
-      ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+973",
-      "trend_windows": {
-        "3d": {
-          "stars": 1555,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1555,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1555,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 300687,
-      "forks": 26844,
-      "url": "https://github.com/obra/superpowers",
-      "updated_at": "2026-10-10T03:03:30Z"
+      "updated_at": "2026-10-17T16:41:00Z"
     },
     {
       "full_name": "MadsLorentzen/ai-job-search",
@@ -194,28 +86,171 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+898",
+      "gained": "+1,365",
       "trend_windows": {
         "3d": {
-          "stars": 898,
+          "stars": 2263,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2263,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2263,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 50410,
+      "forks": 16938,
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "updated_at": "2026-10-17T18:12:49Z"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "name": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+1,145",
+      "trend_windows": {
+        "3d": {
+          "stars": 3215,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3215,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3215,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 282513,
+      "forks": 41987,
+      "url": "https://github.com/affaan-m/ECC",
+      "updated_at": "2026-10-15T19:17:01Z"
+    },
+    {
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "name": "K-Dense-AI / scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discove",
+      "domains": [
+        "AI/ML",
+        "Database"
+      ],
+      "roles": [
+        "Agent",
+        "SDK"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+878",
+      "trend_windows": {
+        "3d": {
+          "stars": 3127,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3290,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3290,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 52252,
+      "forks": 4630,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "updated_at": "2026-10-15T23:57:39Z"
+    },
+    {
+      "full_name": "HKUDS/CLI-Anything",
+      "name": "HKUDS / CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+574",
+      "trend_windows": {
+        "3d": {
+          "stars": 574,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 898,
+          "stars": 574,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 898,
+          "stars": 574,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 48531,
-      "forks": 16638,
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "updated_at": "2026-10-15T16:16:00Z"
+      "stars": 54060,
+      "forks": 4905,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "updated_at": "2026-09-22T02:01:29Z"
+    },
+    {
+      "full_name": "anomalyco/opencode",
+      "name": "anomalyco / opencode",
+      "description": "The open source coding agent.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+438",
+      "trend_windows": {
+        "3d": {
+          "stars": 438,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 438,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 438,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 215333,
+      "forks": 28866,
+      "url": "https://github.com/anomalyco/opencode",
+      "updated_at": "2026-10-18T00:45:25Z"
     },
     {
       "full_name": "ruvnet/ruflo",
@@ -231,134 +266,98 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+672",
+      "gained": "+420",
       "trend_windows": {
         "3d": {
-          "stars": 819,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 819,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 819,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 75641,
-      "forks": 8966,
-      "url": "https://github.com/ruvnet/ruflo",
-      "updated_at": "2026-10-16T11:04:29Z"
-    },
-    {
-      "full_name": "hmjz100/LinkSwift",
-      "name": "hmjz100 / LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+538",
-      "trend_windows": {
-        "3d": {
-          "stars": 538,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 538,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 538,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 23712,
-      "forks": 1437,
-      "url": "https://github.com/hmjz100/LinkSwift",
-      "updated_at": "2026-09-10T04:10:04Z"
-    },
-    {
-      "full_name": "mksglu/context-mode",
-      "name": "mksglu / context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent",
-        "Plugin"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+449",
-      "trend_windows": {
-        "3d": {
-          "stars": 2300,
+          "stars": 1239,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 3515,
-          "observed": 5,
+          "stars": 1239,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 3693,
-          "observed": 6,
+          "stars": 1239,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 30240,
-      "forks": 2127,
-      "url": "https://github.com/mksglu/context-mode",
-      "updated_at": "2026-10-17T01:12:35Z"
+      "stars": 76071,
+      "forks": 9002,
+      "url": "https://github.com/ruvnet/ruflo",
+      "updated_at": "2026-10-18T00:47:58Z"
     },
     {
-      "full_name": "cursor/plugins",
-      "name": "cursor / plugins",
-      "description": "Cursor plugin specification and official plugins",
+      "full_name": "android/skills",
+      "name": "android / skills",
+      "description": "Kotlin 프로젝트입니다.",
       "domains": [
         "Developer Tools"
       ],
       "roles": [
-        "Plugin"
+        "Framework"
       ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+278",
+      "language": "Kotlin",
+      "color": "#77736b",
+      "gained": "+355",
       "trend_windows": {
         "3d": {
-          "stars": 278,
+          "stars": 355,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 278,
+          "stars": 355,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 278,
+          "stars": 355,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 11958,
-      "forks": 1162,
-      "url": "https://github.com/cursor/plugins",
-      "updated_at": "2026-10-17T01:13:58Z"
+      "stars": 8428,
+      "forks": 555,
+      "url": "https://github.com/android/skills",
+      "updated_at": "2026-10-16T10:07:27Z"
+    },
+    {
+      "full_name": "anthropics/claude-code",
+      "name": "anthropics / claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+179",
+      "trend_windows": {
+        "3d": {
+          "stars": 179,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 179,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 179,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 151754,
+      "forks": 26877,
+      "url": "https://github.com/anthropics/claude-code",
+      "updated_at": "2026-10-17T23:14:51Z"
     }
   ]
 }
