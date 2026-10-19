@@ -1,77 +1,6 @@
 {
-  "generated_at": "2026-10-18T00:57:22.088342+00:00",
+  "generated_at": "2026-10-19T01:08:59.521226+00:00",
   "items": [
-    {
-      "full_name": "debpalash/VoiceStudio",
-      "name": "debpalash / VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+2,125",
-      "trend_windows": {
-        "3d": {
-          "stars": 7450,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 12736,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 12736,
-          "observed": 5,
-          "days": 7
-        }
-      },
-      "stars": 73389,
-      "forks": 8033,
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "updated_at": "2026-10-18T00:01:21Z"
-    },
-    {
-      "full_name": "anthropics/claude-plugins-official",
-      "name": "anthropics / claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Plugin"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+1,397",
-      "trend_windows": {
-        "3d": {
-          "stars": 3256,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 3256,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 3256,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 41762,
-      "forks": 4465,
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "updated_at": "2026-10-17T16:41:00Z"
-    },
     {
       "full_name": "MadsLorentzen/ai-job-search",
       "name": "MadsLorentzen / ai-job-search",
@@ -86,100 +15,134 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+1,365",
+      "gained": "+2,232",
       "trend_windows": {
         "3d": {
-          "stars": 2263,
-          "observed": 2,
+          "stars": 4495,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 2263,
-          "observed": 2,
+          "stars": 4495,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 2263,
-          "observed": 2,
+          "stars": 4495,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 50410,
-      "forks": 16938,
+      "stars": 53233,
+      "forks": 17386,
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "updated_at": "2026-10-17T18:12:49Z"
+      "updated_at": "2026-10-18T19:38:41Z"
     },
     {
-      "full_name": "affaan-m/ECC",
-      "name": "affaan-m / ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "full_name": "debpalash/VoiceStudio",
+      "name": "debpalash / VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "domains": [
-        "AI/ML"
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+2,082",
+      "trend_windows": {
+        "3d": {
+          "stars": 6508,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 13070,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 14818,
+          "observed": 6,
+          "days": 7
+        }
+      },
+      "stars": 75408,
+      "forks": 8256,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "updated_at": "2026-10-18T21:56:49Z"
+    },
+    {
+      "full_name": "anomalyco/opencode",
+      "name": "anomalyco / opencode",
+      "description": "The open source coding agent.",
+      "domains": [
+        "Developer Tools"
       ],
       "roles": [
         "Agent"
       ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+1,145",
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,414",
       "trend_windows": {
         "3d": {
-          "stars": 3215,
-          "observed": 3,
+          "stars": 1852,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 3215,
-          "observed": 3,
+          "stars": 1852,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 3215,
-          "observed": 3,
+          "stars": 1852,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 282513,
-      "forks": 41987,
-      "url": "https://github.com/affaan-m/ECC",
-      "updated_at": "2026-10-15T19:17:01Z"
+      "stars": 216611,
+      "forks": 29002,
+      "url": "https://github.com/anomalyco/opencode",
+      "updated_at": "2026-10-19T00:48:25Z"
     },
     {
-      "full_name": "K-Dense-AI/scientific-agent-skills",
-      "name": "K-Dense-AI / scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discove",
+      "full_name": "anthropics/claude-plugins-official",
+      "name": "anthropics / claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "domains": [
-        "AI/ML",
-        "Database"
+        "Developer Tools"
       ],
       "roles": [
-        "Agent",
-        "SDK"
+        "Plugin"
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+878",
+      "gained": "+1,175",
       "trend_windows": {
         "3d": {
-          "stars": 3127,
+          "stars": 4124,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 3290,
+          "stars": 4431,
           "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 3290,
+          "stars": 4431,
           "observed": 4,
           "days": 7
         }
       },
-      "stars": 52252,
-      "forks": 4630,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "updated_at": "2026-10-15T23:57:39Z"
+      "stars": 42702,
+      "forks": 4535,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "updated_at": "2026-10-18T17:04:56Z"
     },
     {
       "full_name": "HKUDS/CLI-Anything",
@@ -194,63 +157,28 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+574",
+      "gained": "+589",
       "trend_windows": {
         "3d": {
-          "stars": 574,
-          "observed": 1,
+          "stars": 1163,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 574,
-          "observed": 1,
+          "stars": 1163,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 574,
-          "observed": 1,
+          "stars": 1163,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 54060,
-      "forks": 4905,
+      "stars": 54594,
+      "forks": 4946,
       "url": "https://github.com/HKUDS/CLI-Anything",
       "updated_at": "2026-09-22T02:01:29Z"
-    },
-    {
-      "full_name": "anomalyco/opencode",
-      "name": "anomalyco / opencode",
-      "description": "The open source coding agent.",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+438",
-      "trend_windows": {
-        "3d": {
-          "stars": 438,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 438,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 438,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 215333,
-      "forks": 28866,
-      "url": "https://github.com/anomalyco/opencode",
-      "updated_at": "2026-10-18T00:45:25Z"
     },
     {
       "full_name": "ruvnet/ruflo",
@@ -266,28 +194,64 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+420",
+      "gained": "+513",
       "trend_windows": {
         "3d": {
-          "stars": 1239,
+          "stars": 1605,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 1239,
-          "observed": 3,
+          "stars": 1752,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 1239,
-          "observed": 3,
+          "stars": 1752,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 76071,
-      "forks": 9002,
+      "stars": 76525,
+      "forks": 9050,
       "url": "https://github.com/ruvnet/ruflo",
-      "updated_at": "2026-10-18T00:47:58Z"
+      "updated_at": "2026-10-18T11:13:04Z"
+    },
+    {
+      "full_name": "akitaonrails/ai-memory",
+      "name": "akitaonrails / ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+512",
+      "trend_windows": {
+        "3d": {
+          "stars": 512,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 512,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 512,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 10495,
+      "forks": 749,
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "updated_at": "2026-10-19T00:51:45Z"
     },
     {
       "full_name": "android/skills",
@@ -301,63 +265,99 @@
       ],
       "language": "Kotlin",
       "color": "#77736b",
-      "gained": "+355",
+      "gained": "+375",
       "trend_windows": {
         "3d": {
-          "stars": 355,
-          "observed": 1,
+          "stars": 730,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 355,
-          "observed": 1,
+          "stars": 730,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 355,
-          "observed": 1,
+          "stars": 730,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 8428,
-      "forks": 555,
+      "stars": 8775,
+      "forks": 568,
       "url": "https://github.com/android/skills",
       "updated_at": "2026-10-16T10:07:27Z"
     },
     {
-      "full_name": "anthropics/claude-code",
-      "name": "anthropics / claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "full_name": "cursor/plugins",
+      "name": "cursor / plugins",
+      "description": "Cursor plugin specification and official plugins",
       "domains": [
-        "AI/ML"
+        "Developer Tools"
       ],
       "roles": [
-        "Agent"
+        "Plugin"
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+179",
+      "gained": "+350",
       "trend_windows": {
         "3d": {
-          "stars": 179,
+          "stars": 628,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 628,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 628,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 12748,
+      "forks": 1255,
+      "url": "https://github.com/cursor/plugins",
+      "updated_at": "2026-10-19T00:02:08Z"
+    },
+    {
+      "full_name": "Comfy-Org/ComfyUI",
+      "name": "Comfy-Org / ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "API"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+154",
+      "trend_windows": {
+        "3d": {
+          "stars": 154,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 179,
+          "stars": 154,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 179,
+          "stars": 154,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 151754,
-      "forks": 26877,
-      "url": "https://github.com/anthropics/claude-code",
-      "updated_at": "2026-10-17T23:14:51Z"
+      "stars": 138624,
+      "forks": 16503,
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "updated_at": "2026-10-19T00:42:24Z"
     }
   ]
 }
