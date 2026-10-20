@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:08:59.521226+00:00",
+  "generated_at": "2026-10-20T01:45:15.824788+00:00",
   "items": [
     {
       "full_name": "MadsLorentzen/ai-job-search",
@@ -15,64 +15,28 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+2,232",
+      "gained": "+3,856",
       "trend_windows": {
         "3d": {
-          "stars": 4495,
+          "stars": 7453,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 4495,
-          "observed": 3,
+          "stars": 8351,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 4495,
-          "observed": 3,
+          "stars": 8351,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 53233,
-      "forks": 17386,
+      "stars": 57406,
+      "forks": 18223,
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "updated_at": "2026-10-18T19:38:41Z"
-    },
-    {
-      "full_name": "debpalash/VoiceStudio",
-      "name": "debpalash / VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+2,082",
-      "trend_windows": {
-        "3d": {
-          "stars": 6508,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 13070,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 14818,
-          "observed": 6,
-          "days": 7
-        }
-      },
-      "stars": 75408,
-      "forks": 8256,
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "updated_at": "2026-10-18T21:56:49Z"
+      "updated_at": "2026-10-19T19:46:48Z"
     },
     {
       "full_name": "anomalyco/opencode",
@@ -86,63 +50,100 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+1,414",
+      "gained": "+1,311",
       "trend_windows": {
         "3d": {
-          "stars": 1852,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1852,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1852,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 216611,
-      "forks": 29002,
-      "url": "https://github.com/anomalyco/opencode",
-      "updated_at": "2026-10-19T00:48:25Z"
-    },
-    {
-      "full_name": "anthropics/claude-plugins-official",
-      "name": "anthropics / claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Plugin"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+1,175",
-      "trend_windows": {
-        "3d": {
-          "stars": 4124,
+          "stars": 3163,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 4431,
-          "observed": 4,
+          "stars": 3163,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 4431,
-          "observed": 4,
+          "stars": 3163,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 42702,
-      "forks": 4535,
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "updated_at": "2026-10-18T17:04:56Z"
+      "stars": 217860,
+      "forks": 29115,
+      "url": "https://github.com/anomalyco/opencode",
+      "updated_at": "2026-10-20T01:44:25Z"
+    },
+    {
+      "full_name": "Comfy-Org/ComfyUI",
+      "name": "Comfy-Org / ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "API"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,011",
+      "trend_windows": {
+        "3d": {
+          "stars": 1165,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1165,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1165,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 139768,
+      "forks": 16585,
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "updated_at": "2026-10-20T01:30:59Z"
+    },
+    {
+      "full_name": "akitaonrails/ai-memory",
+      "name": "akitaonrails / ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+666",
+      "trend_windows": {
+        "3d": {
+          "stars": 1178,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1178,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1178,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 11381,
+      "forks": 810,
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "updated_at": "2026-10-19T23:29:24Z"
     },
     {
       "full_name": "HKUDS/CLI-Anything",
@@ -157,26 +158,26 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+589",
+      "gained": "+606",
       "trend_windows": {
         "3d": {
-          "stars": 1163,
-          "observed": 2,
+          "stars": 1769,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 1163,
-          "observed": 2,
+          "stars": 1769,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 1163,
-          "observed": 2,
+          "stars": 1769,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 54594,
-      "forks": 4946,
+      "stars": 55264,
+      "forks": 4986,
       "url": "https://github.com/HKUDS/CLI-Anything",
       "updated_at": "2026-09-22T02:01:29Z"
     },
@@ -194,170 +195,168 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+513",
+      "gained": "+564",
       "trend_windows": {
         "3d": {
-          "stars": 1605,
+          "stars": 1497,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 1752,
-          "observed": 4,
+          "stars": 2316,
+          "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 1752,
-          "observed": 4,
+          "stars": 2316,
+          "observed": 5,
           "days": 7
         }
       },
-      "stars": 76525,
-      "forks": 9050,
+      "stars": 77216,
+      "forks": 9105,
       "url": "https://github.com/ruvnet/ruflo",
-      "updated_at": "2026-10-18T11:13:04Z"
+      "updated_at": "2026-10-20T01:45:17Z"
     },
     {
-      "full_name": "akitaonrails/ai-memory",
-      "name": "akitaonrails / ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent",
-        "CLI"
-      ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+512",
-      "trend_windows": {
-        "3d": {
-          "stars": 512,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 512,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 512,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 10495,
-      "forks": 749,
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "updated_at": "2026-10-19T00:51:45Z"
-    },
-    {
-      "full_name": "android/skills",
-      "name": "android / skills",
-      "description": "Kotlin 프로젝트입니다.",
+      "full_name": "Kruk2/jasna",
+      "name": "Kruk2 / jasna",
+      "description": "Video restoration tool",
       "domains": [
         "Developer Tools"
       ],
       "roles": [
         "Framework"
       ],
-      "language": "Kotlin",
-      "color": "#77736b",
-      "gained": "+375",
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+498",
       "trend_windows": {
         "3d": {
-          "stars": 730,
-          "observed": 2,
+          "stars": 498,
+          "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 730,
-          "observed": 2,
+          "stars": 498,
+          "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 730,
-          "observed": 2,
+          "stars": 498,
+          "observed": 1,
           "days": 7
         }
       },
-      "stars": 8775,
-      "forks": 568,
-      "url": "https://github.com/android/skills",
-      "updated_at": "2026-10-16T10:07:27Z"
+      "stars": 2916,
+      "forks": 211,
+      "url": "https://github.com/Kruk2/jasna",
+      "updated_at": "2026-10-18T11:43:28Z"
     },
     {
-      "full_name": "cursor/plugins",
-      "name": "cursor / plugins",
-      "description": "Cursor plugin specification and official plugins",
+      "full_name": "shiyu-coder/Kronos",
+      "name": "shiyu-coder / Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+363",
+      "trend_windows": {
+        "3d": {
+          "stars": 363,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 363,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 363,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 41699,
+      "forks": 6929,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "updated_at": "2026-04-13T12:38:49Z"
+    },
+    {
+      "full_name": "withmarbleapp/os-taxonomy",
+      "name": "withmarbleapp / os-taxonomy",
+      "description": "JavaScript 프로젝트입니다.",
       "domains": [
         "Developer Tools"
       ],
       "roles": [
-        "Plugin"
+        "Framework"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+284",
+      "trend_windows": {
+        "3d": {
+          "stars": 284,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 284,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 284,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 6155,
+      "forks": 1004,
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "updated_at": "2026-10-19T20:52:26Z"
+    },
+    {
+      "full_name": "anthropics/claude-code",
+      "name": "anthropics / claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+350",
+      "gained": "+167",
       "trend_windows": {
         "3d": {
-          "stars": 628,
+          "stars": 346,
           "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 628,
+          "stars": 346,
           "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 628,
+          "stars": 346,
           "observed": 2,
           "days": 7
         }
       },
-      "stars": 12748,
-      "forks": 1255,
-      "url": "https://github.com/cursor/plugins",
-      "updated_at": "2026-10-19T00:02:08Z"
-    },
-    {
-      "full_name": "Comfy-Org/ComfyUI",
-      "name": "Comfy-Org / ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "API"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+154",
-      "trend_windows": {
-        "3d": {
-          "stars": 154,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 154,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 154,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 138624,
-      "forks": 16503,
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "updated_at": "2026-10-19T00:42:24Z"
+      "stars": 152671,
+      "forks": 27143,
+      "url": "https://github.com/anthropics/claude-code",
+      "updated_at": "2026-10-19T23:06:46Z"
     }
   ]
 }
