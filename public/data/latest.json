@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T01:45:15.824788+00:00",
+  "generated_at": "2026-10-21T01:30:25.375705+00:00",
   "items": [
     {
       "full_name": "MadsLorentzen/ai-job-search",
@@ -15,28 +15,63 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+3,856",
+      "gained": "+3,861",
       "trend_windows": {
         "3d": {
-          "stars": 7453,
+          "stars": 9949,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 8351,
-          "observed": 4,
+          "stars": 12212,
+          "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 8351,
-          "observed": 4,
+          "stars": 12212,
+          "observed": 5,
           "days": 7
         }
       },
-      "stars": 57406,
-      "forks": 18223,
+      "stars": 60669,
+      "forks": 18907,
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "updated_at": "2026-10-19T19:46:48Z"
+      "updated_at": "2026-10-20T19:02:25Z"
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "name": "cloudflare / security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "domains": [
+        "DevOps"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+1,712",
+      "trend_windows": {
+        "3d": {
+          "stars": 1712,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1712,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1712,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 34292,
+      "forks": 2143,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "updated_at": "2026-09-14T19:29:02Z"
     },
     {
       "full_name": "anomalyco/opencode",
@@ -50,28 +85,64 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+1,311",
+      "gained": "+1,240",
       "trend_windows": {
         "3d": {
-          "stars": 3163,
+          "stars": 3965,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 3163,
-          "observed": 3,
+          "stars": 4403,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 3163,
-          "observed": 3,
+          "stars": 4403,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 217860,
-      "forks": 29115,
+      "stars": 218960,
+      "forks": 29211,
       "url": "https://github.com/anomalyco/opencode",
-      "updated_at": "2026-10-20T01:44:25Z"
+      "updated_at": "2026-10-21T01:29:37Z"
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "name": "DietrichGebert / ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+1,208",
+      "trend_windows": {
+        "3d": {
+          "stars": 1208,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1208,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1208,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 169725,
+      "forks": 9230,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "updated_at": "2026-10-18T01:55:14Z"
     },
     {
       "full_name": "Comfy-Org/ComfyUI",
@@ -86,71 +157,36 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+1,011",
+      "gained": "+1,206",
       "trend_windows": {
         "3d": {
-          "stars": 1165,
-          "observed": 2,
+          "stars": 2371,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 1165,
-          "observed": 2,
+          "stars": 2371,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 1165,
-          "observed": 2,
+          "stars": 2371,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 139768,
-      "forks": 16585,
+      "stars": 140802,
+      "forks": 16665,
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "updated_at": "2026-10-20T01:30:59Z"
+      "updated_at": "2026-10-21T01:24:42Z"
     },
     {
-      "full_name": "akitaonrails/ai-memory",
-      "name": "akitaonrails / ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "full_name": "Graphify-Labs/graphify",
+      "name": "Graphify-Labs / graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent",
-        "CLI"
-      ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+666",
-      "trend_windows": {
-        "3d": {
-          "stars": 1178,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1178,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1178,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 11381,
-      "forks": 810,
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "updated_at": "2026-10-19T23:29:24Z"
-    },
-    {
-      "full_name": "HKUDS/CLI-Anything",
-      "name": "HKUDS / CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "domains": [
-        "Developer Tools"
+        "AI/ML",
+        "Database"
       ],
       "roles": [
         "Agent",
@@ -158,28 +194,63 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+606",
+      "gained": "+802",
       "trend_windows": {
         "3d": {
-          "stars": 1769,
-          "observed": 3,
+          "stars": 802,
+          "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 1769,
-          "observed": 3,
+          "stars": 802,
+          "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 1769,
-          "observed": 3,
+          "stars": 802,
+          "observed": 1,
           "days": 7
         }
       },
-      "stars": 55264,
-      "forks": 4986,
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "updated_at": "2026-09-22T02:01:29Z"
+      "stars": 130289,
+      "forks": 12544,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "updated_at": "2026-10-20T16:16:19Z"
+    },
+    {
+      "full_name": "shiyu-coder/Kronos",
+      "name": "shiyu-coder / Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+733",
+      "trend_windows": {
+        "3d": {
+          "stars": 1096,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1096,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1096,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 42365,
+      "forks": 7014,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "updated_at": "2026-04-13T12:38:49Z"
     },
     {
       "full_name": "ruvnet/ruflo",
@@ -195,168 +266,99 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+564",
+      "gained": "+684",
       "trend_windows": {
         "3d": {
-          "stars": 1497,
+          "stars": 1761,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 2316,
+          "stars": 2853,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 2316,
-          "observed": 5,
+          "stars": 3000,
+          "observed": 6,
           "days": 7
         }
       },
-      "stars": 77216,
-      "forks": 9105,
+      "stars": 77864,
+      "forks": 9161,
       "url": "https://github.com/ruvnet/ruflo",
-      "updated_at": "2026-10-20T01:45:17Z"
+      "updated_at": "2026-10-21T01:08:18Z"
     },
     {
-      "full_name": "Kruk2/jasna",
-      "name": "Kruk2 / jasna",
-      "description": "Video restoration tool",
+      "full_name": "msitarzewski/agency-agents",
+      "name": "msitarzewski / agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+498",
-      "trend_windows": {
-        "3d": {
-          "stars": 498,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 498,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 498,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 2916,
-      "forks": 211,
-      "url": "https://github.com/Kruk2/jasna",
-      "updated_at": "2026-10-18T11:43:28Z"
-    },
-    {
-      "full_name": "shiyu-coder/Kronos",
-      "name": "shiyu-coder / Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+363",
-      "trend_windows": {
-        "3d": {
-          "stars": 363,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 363,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 363,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 41699,
-      "forks": 6929,
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "updated_at": "2026-04-13T12:38:49Z"
-    },
-    {
-      "full_name": "withmarbleapp/os-taxonomy",
-      "name": "withmarbleapp / os-taxonomy",
-      "description": "JavaScript 프로젝트입니다.",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+284",
-      "trend_windows": {
-        "3d": {
-          "stars": 284,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 284,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 284,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 6155,
-      "forks": 1004,
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "updated_at": "2026-10-19T20:52:26Z"
-    },
-    {
-      "full_name": "anthropics/claude-code",
-      "name": "anthropics / claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "domains": [
-        "AI/ML"
+        "AI/ML",
+        "UI/UX"
       ],
       "roles": [
         "Agent"
       ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+167",
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+562",
       "trend_windows": {
         "3d": {
-          "stars": 346,
-          "observed": 2,
+          "stars": 562,
+          "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 346,
-          "observed": 2,
+          "stars": 562,
+          "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 346,
-          "observed": 2,
+          "stars": 562,
+          "observed": 1,
           "days": 7
         }
       },
-      "stars": 152671,
-      "forks": 27143,
-      "url": "https://github.com/anthropics/claude-code",
-      "updated_at": "2026-10-19T23:06:46Z"
+      "stars": 162376,
+      "forks": 26230,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "updated_at": "2026-10-19T16:48:24Z"
+    },
+    {
+      "full_name": "anthropics/knowledge-work-plugins",
+      "name": "anthropics / knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Plugin"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+267",
+      "trend_windows": {
+        "3d": {
+          "stars": 267,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 267,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 267,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 30805,
+      "forks": 3464,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "updated_at": "2026-10-20T23:09:26Z"
     }
   ]
 }
