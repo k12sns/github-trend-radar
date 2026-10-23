@@ -1,375 +1,264 @@
 {
-  "generated_at": "2026-10-22T01:27:15.231221+00:00",
+  "generated_at": "2026-10-23T01:26:31.278794+00:00",
   "items": [
-    {
-      "full_name": "DietrichGebert/ponytail",
-      "name": "DietrichGebert / ponytail",
-      "description": "AI 코딩 에이전트(Claude Code, Cursor 등)에 장착해 불필요한 코드를 줄이고 검증·보안·접근성을 유지하며 핵심 로직만 작성하게 하는 스킬 플러그인입니다.",
-      "domains": [
-        "AI/ML",
-        "Developer Tools"
-      ],
-      "roles": [
-        "Plugin",
-        "Agent"
-      ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+2,079",
-      "trend_windows": {
-        "3d": {
-          "stars": 3287,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 3287,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 3287,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 171683,
-      "forks": 9342,
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "updated_at": "2026-10-18T01:55:14Z"
-    },
     {
       "full_name": "cloudflare/security-audit-skill",
       "name": "cloudflare / security-audit-skill",
-      "description": "코딩 에이전트를 보안 감사자로 변환해 정찰·헌팅·검증·독립 검증·보고까지 6단계 구조화된 취약점 감사를 수행하는 스킬입니다.",
+      "description": "AI 코딩 에이전트를 보안 감사자로 변환하는 스킬로, 6단계 구조화된 감사 프로세스를 통해 기계 판독 가능한 취약점 발견 결과를 생성합니다.",
       "domains": [
         "Security",
         "Developer Tools"
       ],
       "roles": [
+        "Agent",
+        "Workflow"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+2,979",
+      "trend_windows": {
+        "3d": {
+          "stars": 6703,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6703,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6703,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 39623,
+      "forks": 2470,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "updated_at": "2026-09-14T19:29:02Z"
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "name": "DietrichGebert / ponytail",
+      "description": "AI 에이전트가 불필요한 코드를 작성하지 않고 검증·보안·접근성을 유지하며 최소한의 필요한 코드만 생성하도록 유도하는 클로드 코드용 스킬입니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
         "Plugin",
         "Agent"
       ],
       "language": "JavaScript",
       "color": "#f5b414",
-      "gained": "+2,012",
+      "gained": "+1,948",
       "trend_windows": {
         "3d": {
-          "stars": 3724,
-          "observed": 2,
+          "stars": 5235,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 3724,
-          "observed": 2,
+          "stars": 5235,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 3724,
-          "observed": 2,
+          "stars": 5235,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 36562,
-      "forks": 2282,
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "updated_at": "2026-09-14T19:29:02Z"
+      "stars": 173530,
+      "forks": 9443,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "updated_at": "2026-10-18T01:55:14Z"
     },
     {
       "full_name": "Graphify-Labs/graphify",
       "name": "Graphify-Labs / graphify",
-      "description": "코드베이스·문서·PDF 등을 트리시터 AST로 파싱해 벡터 저장소 없이 탐색 가능한 지식 그래프로 변환하는 다중 에디터용 스킬입니다.",
+      "description": "코드베이스·문서·SQL·PDF를 로컬 AST 파싱으로 지식 그래프로 변환해, 벡터 스토어 없이 그래프 탐색으로 코드 질의가 가능하게 하는 개발자 도구입니다.",
+      "domains": [
+        "Developer Tools",
+        "Data"
+      ],
+      "roles": [
+        "Plugin",
+        "Search"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,408",
+      "trend_windows": {
+        "3d": {
+          "stars": 3643,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3643,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3643,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 132983,
+      "forks": 12725,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "updated_at": "2026-10-22T16:19:38Z"
+    },
+    {
+      "full_name": "supabase/supabase",
+      "name": "supabase / supabase",
+      "description": "PostgreSQL 기반의 오픈소스 백엔드 플랫폼으로, 인증·실시간 구독·스토리지·에지 함수·벡터 임베딩 등 파이어베이스 대안 기능을 제공합니다.",
+      "domains": [
+        "Database",
+        "Infrastructure"
+      ],
+      "roles": [
+        "Database",
+        "API"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+693",
+      "trend_windows": {
+        "3d": {
+          "stars": 1197,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1197,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1197,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 113496,
+      "forks": 17001,
+      "url": "https://github.com/supabase/supabase",
+      "updated_at": "2026-10-23T01:15:48Z"
+    },
+    {
+      "full_name": "anthropics/knowledge-work-plugins",
+      "name": "anthropics / knowledge-work-plugins",
+      "description": "클로드 코워크·코드에서 지식 근로자 역할별(생산성·영업·지원·PM 등) 워크플로·커넥터·슬래시 명령어를 번들로 제공하는 플러그인 모음입니다.",
       "domains": [
         "AI/ML",
         "Developer Tools"
       ],
       "roles": [
         "Plugin",
-        "SDK"
+        "Workflow"
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+1,433",
+      "gained": "+303",
       "trend_windows": {
         "3d": {
-          "stars": 2235,
+          "stars": 570,
           "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 2235,
+          "stars": 570,
           "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 2235,
+          "stars": 570,
           "observed": 2,
           "days": 7
         }
       },
-      "stars": 131671,
-      "forks": 12640,
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "updated_at": "2026-10-21T15:23:36Z"
+      "stars": 31627,
+      "forks": 3534,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "updated_at": "2026-10-22T07:39:25Z"
     },
     {
-      "full_name": "Comfy-Org/ComfyUI",
-      "name": "Comfy-Org / ComfyUI",
-      "description": "그래프/노드 기반으로 확산 모델을 조합·실행하는 모듈형 GUI·API·백엔드로, 로컬 추론 속도와 확장성을 극대화한 엔진입니다.",
+      "full_name": "php/php-src",
+      "name": "php / php-src",
+      "description": "웹 개발에 특화된 범용 스크립트 언어 PHP의 공식 인터프리터 소스코드로, BSD-3-Clause 라이선스 하에 배포됩니다.",
       "domains": [
-        "AI/ML",
+        "Developer Tools",
         "Web"
-      ],
-      "roles": [
-        "Framework",
-        "Runtime"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+939",
-      "trend_windows": {
-        "3d": {
-          "stars": 3156,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 3310,
-          "observed": 4,
-          "days": 5
-        },
-        "7d": {
-          "stars": 3310,
-          "observed": 4,
-          "days": 7
-        }
-      },
-      "stars": 141539,
-      "forks": 16726,
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "updated_at": "2026-10-22T00:11:12Z"
-    },
-    {
-      "full_name": "shiyu-coder/Kronos",
-      "name": "shiyu-coder / Kronos",
-      "description": "전 세계 45개 거래소 캔들스틱 데이터로 사전학습된 금융 시계열 파운데이션 모델로, 토크나이저와 디코더 전용 트랜스포머로 구성됩니다.",
-      "domains": [
-        "AI/ML",
-        "Data"
-      ],
-      "roles": [
-        "Model",
-        "Framework"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+575",
-      "trend_windows": {
-        "3d": {
-          "stars": 1671,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1671,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1671,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 42840,
-      "forks": 7071,
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "updated_at": "2026-04-13T12:38:49Z"
-    },
-    {
-      "full_name": "supabase/supabase",
-      "name": "supabase / supabase",
-      "description": "PostgreSQL 기반으로 인증·실시간 구독·스토리지·에지 함수·벡터 임베딩까지 통합한 백엔드 플랫폼으로, Firebase 대안으로 설계되었습니다.",
-      "domains": [
-        "Database",
-        "Infrastructure"
-      ],
-      "roles": [
-        "Database",
-        "API"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+504",
-      "trend_windows": {
-        "3d": {
-          "stars": 504,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 504,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 504,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 113023,
-      "forks": 16937,
-      "url": "https://github.com/supabase/supabase",
-      "updated_at": "2026-10-22T01:25:33Z"
-    },
-    {
-      "full_name": "vllm-project/vllm",
-      "name": "vllm-project / vllm",
-      "description": "PagedAttention·연속 배칭·양자화·추측 디코딩 등으로 LLM 추론 처리량과 메모리 효율을 극대화한 고성능 서빙 엔진입니다.",
-      "domains": [
-        "AI/ML",
-        "Infrastructure"
       ],
       "roles": [
         "Runtime",
         "Framework"
       ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+441",
+      "language": "C",
+      "color": "#77736b",
+      "gained": "+287",
       "trend_windows": {
         "3d": {
-          "stars": 441,
+          "stars": 287,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 441,
+          "stars": 287,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 441,
+          "stars": 287,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 94888,
-      "forks": 23744,
-      "url": "https://github.com/vllm-project/vllm",
-      "updated_at": "2026-10-22T01:20:29Z"
+      "stars": 41172,
+      "forks": 8314,
+      "url": "https://github.com/php/php-src",
+      "updated_at": "2026-10-22T23:59:52Z"
     },
     {
-      "full_name": "strelov1/freehire",
-      "name": "strelov1 / freehire",
-      "description": "기업 커리어 페이지(ATS)에서 직접 330만 개 이상 채용 공고를 크롤링·정규화·중복 제거해 패싯 검색·API·CLI로 제공하는 오픈소스 잡 엔진입니다.",
+      "full_name": "fastapi/fastapi",
+      "name": "fastapi / fastapi",
+      "description": "파이썬 타입 힌트 기반의 고성능 비동기 웹 API 프레임워크로, OpenAPI·JSON Schema 자동 문서화와 Pydantic 검증을 기본 제공합니다.",
       "domains": [
         "Web",
-        "Data"
-      ],
-      "roles": [
-        "API",
-        "Search"
-      ],
-      "language": "Go",
-      "color": "#f26e1e",
-      "gained": "+360",
-      "trend_windows": {
-        "3d": {
-          "stars": 360,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 360,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 360,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 2408,
-      "forks": 245,
-      "url": "https://github.com/strelov1/freehire",
-      "updated_at": "2026-10-22T01:23:16Z"
-    },
-    {
-      "full_name": "akitaonrails/ai-memory",
-      "name": "akitaonrails / ai-memory",
-      "description": "여러 AI 코딩 에이전트(Claude Code, Codex, Cursor 등) 간에 장기 메모리와 핸드오프 프로토콜을 공유해 컨텍스트 연속성을 보장하는 러스트 기반 도구입니다.",
-      "domains": [
-        "AI/ML",
         "Developer Tools"
-      ],
-      "roles": [
-        "SDK",
-        "Automation"
-      ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+286",
-      "trend_windows": {
-        "3d": {
-          "stars": 1464,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1464,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1464,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 12347,
-      "forks": 873,
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "updated_at": "2026-10-22T01:13:14Z"
-    },
-    {
-      "full_name": "twentyhq/twenty",
-      "name": "twentyhq / twenty",
-      "description": "객체·필드·뷰를 코드로 정의하고 GraphQL/REST API·리액트 UI·에이전트 스킬로 확장 가능한 오픈소스 CRM 플랫폼입니다.",
-      "domains": [
-        "Web",
-        "Database"
       ],
       "roles": [
         "Framework",
         "API"
       ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+112",
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+101",
       "trend_windows": {
         "3d": {
-          "stars": 112,
+          "stars": 101,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 112,
+          "stars": 101,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 112,
+          "stars": 101,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 59187,
-      "forks": 9663,
-      "url": "https://github.com/twentyhq/twenty",
-      "updated_at": "2026-10-22T00:49:18Z"
+      "stars": 103765,
+      "forks": 10088,
+      "url": "https://github.com/fastapi/fastapi",
+      "updated_at": "2026-10-22T22:21:50Z"
     }
   ]
 }

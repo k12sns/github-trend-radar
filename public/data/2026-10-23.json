@@ -1,0 +1,264 @@
+{
+  "generated_at": "2026-10-23T01:26:31.278794+00:00",
+  "items": [
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "name": "cloudflare / security-audit-skill",
+      "description": "AI 코딩 에이전트를 보안 감사자로 변환하는 스킬로, 6단계 구조화된 감사 프로세스를 통해 기계 판독 가능한 취약점 발견 결과를 생성합니다.",
+      "domains": [
+        "Security",
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent",
+        "Workflow"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+2,979",
+      "trend_windows": {
+        "3d": {
+          "stars": 6703,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6703,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6703,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 39623,
+      "forks": 2470,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "updated_at": "2026-09-14T19:29:02Z"
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "name": "DietrichGebert / ponytail",
+      "description": "AI 에이전트가 불필요한 코드를 작성하지 않고 검증·보안·접근성을 유지하며 최소한의 필요한 코드만 생성하도록 유도하는 클로드 코드용 스킬입니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
+        "Plugin",
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+1,948",
+      "trend_windows": {
+        "3d": {
+          "stars": 5235,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 5235,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 5235,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 173530,
+      "forks": 9443,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "updated_at": "2026-10-18T01:55:14Z"
+    },
+    {
+      "full_name": "Graphify-Labs/graphify",
+      "name": "Graphify-Labs / graphify",
+      "description": "코드베이스·문서·SQL·PDF를 로컬 AST 파싱으로 지식 그래프로 변환해, 벡터 스토어 없이 그래프 탐색으로 코드 질의가 가능하게 하는 개발자 도구입니다.",
+      "domains": [
+        "Developer Tools",
+        "Data"
+      ],
+      "roles": [
+        "Plugin",
+        "Search"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,408",
+      "trend_windows": {
+        "3d": {
+          "stars": 3643,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3643,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3643,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 132983,
+      "forks": 12725,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "updated_at": "2026-10-22T16:19:38Z"
+    },
+    {
+      "full_name": "supabase/supabase",
+      "name": "supabase / supabase",
+      "description": "PostgreSQL 기반의 오픈소스 백엔드 플랫폼으로, 인증·실시간 구독·스토리지·에지 함수·벡터 임베딩 등 파이어베이스 대안 기능을 제공합니다.",
+      "domains": [
+        "Database",
+        "Infrastructure"
+      ],
+      "roles": [
+        "Database",
+        "API"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+693",
+      "trend_windows": {
+        "3d": {
+          "stars": 1197,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1197,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1197,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 113496,
+      "forks": 17001,
+      "url": "https://github.com/supabase/supabase",
+      "updated_at": "2026-10-23T01:15:48Z"
+    },
+    {
+      "full_name": "anthropics/knowledge-work-plugins",
+      "name": "anthropics / knowledge-work-plugins",
+      "description": "클로드 코워크·코드에서 지식 근로자 역할별(생산성·영업·지원·PM 등) 워크플로·커넥터·슬래시 명령어를 번들로 제공하는 플러그인 모음입니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
+        "Plugin",
+        "Workflow"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+303",
+      "trend_windows": {
+        "3d": {
+          "stars": 570,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 570,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 570,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 31627,
+      "forks": 3534,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "updated_at": "2026-10-22T07:39:25Z"
+    },
+    {
+      "full_name": "php/php-src",
+      "name": "php / php-src",
+      "description": "웹 개발에 특화된 범용 스크립트 언어 PHP의 공식 인터프리터 소스코드로, BSD-3-Clause 라이선스 하에 배포됩니다.",
+      "domains": [
+        "Developer Tools",
+        "Web"
+      ],
+      "roles": [
+        "Runtime",
+        "Framework"
+      ],
+      "language": "C",
+      "color": "#77736b",
+      "gained": "+287",
+      "trend_windows": {
+        "3d": {
+          "stars": 287,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 287,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 287,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 41172,
+      "forks": 8314,
+      "url": "https://github.com/php/php-src",
+      "updated_at": "2026-10-22T23:59:52Z"
+    },
+    {
+      "full_name": "fastapi/fastapi",
+      "name": "fastapi / fastapi",
+      "description": "파이썬 타입 힌트 기반의 고성능 비동기 웹 API 프레임워크로, OpenAPI·JSON Schema 자동 문서화와 Pydantic 검증을 기본 제공합니다.",
+      "domains": [
+        "Web",
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework",
+        "API"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+101",
+      "trend_windows": {
+        "3d": {
+          "stars": 101,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 101,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 101,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 103765,
+      "forks": 10088,
+      "url": "https://github.com/fastapi/fastapi",
+      "updated_at": "2026-10-22T22:21:50Z"
+    }
+  ]
+}
