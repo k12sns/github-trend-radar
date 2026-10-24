@@ -1,0 +1,251 @@
+{
+  "generated_at": "2026-10-24T01:31:38.718294+00:00",
+  "items": [
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "name": "cloudflare / security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "domains": [
+        "DevOps"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+2,716",
+      "trend_windows": {
+        "3d": {
+          "stars": 7707,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 9419,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 9419,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 42185,
+      "forks": 2636,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "updated_at": "2026-09-14T19:29:02Z"
+    },
+    {
+      "full_name": "NVIDIA/OpenShell",
+      "name": "NVIDIA / OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+1,119",
+      "trend_windows": {
+        "3d": {
+          "stars": 1119,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1119,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1119,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 18817,
+      "forks": 1886,
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "updated_at": "2026-10-24T00:42:43Z"
+    },
+    {
+      "full_name": "php/php-src",
+      "name": "php / php-src",
+      "description": "The PHP Interpreter",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C",
+      "color": "#77736b",
+      "gained": "+716",
+      "trend_windows": {
+        "3d": {
+          "stars": 1003,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1003,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1003,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 41570,
+      "forks": 8361,
+      "url": "https://github.com/php/php-src",
+      "updated_at": "2026-10-24T01:28:33Z"
+    },
+    {
+      "full_name": "anthropics/knowledge-work-plugins",
+      "name": "anthropics / knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Plugin"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+635",
+      "trend_windows": {
+        "3d": {
+          "stars": 1205,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1205,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1205,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 32236,
+      "forks": 3574,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "updated_at": "2026-10-23T07:38:30Z"
+    },
+    {
+      "full_name": "Renhuai123/ziwei-doushu",
+      "name": "Renhuai123 / ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+546",
+      "trend_windows": {
+        "3d": {
+          "stars": 546,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 546,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 546,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 6878,
+      "forks": 1411,
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "updated_at": "2026-10-20T08:20:05Z"
+    },
+    {
+      "full_name": "SnailSploit/Claude-Red",
+      "name": "SnailSploit / Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shell",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "SDK"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+226",
+      "trend_windows": {
+        "3d": {
+          "stars": 226,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 226,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 226,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 8509,
+      "forks": 1103,
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "updated_at": "2026-10-12T15:02:40Z"
+    },
+    {
+      "full_name": "nodejs/node",
+      "name": "nodejs / node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+66",
+      "trend_windows": {
+        "3d": {
+          "stars": 66,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 66,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 66,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 122880,
+      "forks": 39832,
+      "url": "https://github.com/nodejs/node",
+      "updated_at": "2026-10-24T00:09:23Z"
+    }
+  ]
+}

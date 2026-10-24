@@ -1,264 +1,251 @@
 {
-  "generated_at": "2026-10-23T01:26:31.278794+00:00",
+  "generated_at": "2026-10-24T01:31:38.718294+00:00",
   "items": [
     {
       "full_name": "cloudflare/security-audit-skill",
       "name": "cloudflare / security-audit-skill",
-      "description": "AI 코딩 에이전트를 보안 감사자로 변환하는 스킬로, 6단계 구조화된 감사 프로세스를 통해 기계 판독 가능한 취약점 발견 결과를 생성합니다.",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "domains": [
-        "Security",
-        "Developer Tools"
+        "DevOps"
       ],
       "roles": [
-        "Agent",
-        "Workflow"
-      ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+2,979",
-      "trend_windows": {
-        "3d": {
-          "stars": 6703,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 6703,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 6703,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 39623,
-      "forks": 2470,
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "updated_at": "2026-09-14T19:29:02Z"
-    },
-    {
-      "full_name": "DietrichGebert/ponytail",
-      "name": "DietrichGebert / ponytail",
-      "description": "AI 에이전트가 불필요한 코드를 작성하지 않고 검증·보안·접근성을 유지하며 최소한의 필요한 코드만 생성하도록 유도하는 클로드 코드용 스킬입니다.",
-      "domains": [
-        "AI/ML",
-        "Developer Tools"
-      ],
-      "roles": [
-        "Plugin",
         "Agent"
       ],
       "language": "JavaScript",
       "color": "#f5b414",
-      "gained": "+1,948",
+      "gained": "+2,716",
       "trend_windows": {
         "3d": {
-          "stars": 5235,
+          "stars": 7707,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 5235,
-          "observed": 3,
+          "stars": 9419,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 5235,
-          "observed": 3,
+          "stars": 9419,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 173530,
-      "forks": 9443,
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "updated_at": "2026-10-18T01:55:14Z"
+      "stars": 42185,
+      "forks": 2636,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "updated_at": "2026-09-14T19:29:02Z"
     },
     {
-      "full_name": "Graphify-Labs/graphify",
-      "name": "Graphify-Labs / graphify",
-      "description": "코드베이스·문서·SQL·PDF를 로컬 AST 파싱으로 지식 그래프로 변환해, 벡터 스토어 없이 그래프 탐색으로 코드 질의가 가능하게 하는 개발자 도구입니다.",
+      "full_name": "NVIDIA/OpenShell",
+      "name": "NVIDIA / OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "domains": [
-        "Developer Tools",
-        "Data"
+        "AI/ML"
       ],
       "roles": [
-        "Plugin",
-        "Search"
+        "Agent"
       ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+1,408",
-      "trend_windows": {
-        "3d": {
-          "stars": 3643,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 3643,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 3643,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 132983,
-      "forks": 12725,
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "updated_at": "2026-10-22T16:19:38Z"
-    },
-    {
-      "full_name": "supabase/supabase",
-      "name": "supabase / supabase",
-      "description": "PostgreSQL 기반의 오픈소스 백엔드 플랫폼으로, 인증·실시간 구독·스토리지·에지 함수·벡터 임베딩 등 파이어베이스 대안 기능을 제공합니다.",
-      "domains": [
-        "Database",
-        "Infrastructure"
-      ],
-      "roles": [
-        "Database",
-        "API"
-      ],
-      "language": "TypeScript",
+      "language": "Rust",
       "color": "#4778d7",
-      "gained": "+693",
+      "gained": "+1,119",
       "trend_windows": {
         "3d": {
-          "stars": 1197,
-          "observed": 2,
+          "stars": 1119,
+          "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 1197,
-          "observed": 2,
+          "stars": 1119,
+          "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 1197,
-          "observed": 2,
+          "stars": 1119,
+          "observed": 1,
           "days": 7
         }
       },
-      "stars": 113496,
-      "forks": 17001,
-      "url": "https://github.com/supabase/supabase",
-      "updated_at": "2026-10-23T01:15:48Z"
-    },
-    {
-      "full_name": "anthropics/knowledge-work-plugins",
-      "name": "anthropics / knowledge-work-plugins",
-      "description": "클로드 코워크·코드에서 지식 근로자 역할별(생산성·영업·지원·PM 등) 워크플로·커넥터·슬래시 명령어를 번들로 제공하는 플러그인 모음입니다.",
-      "domains": [
-        "AI/ML",
-        "Developer Tools"
-      ],
-      "roles": [
-        "Plugin",
-        "Workflow"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+303",
-      "trend_windows": {
-        "3d": {
-          "stars": 570,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 570,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 570,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 31627,
-      "forks": 3534,
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "updated_at": "2026-10-22T07:39:25Z"
+      "stars": 18817,
+      "forks": 1886,
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "updated_at": "2026-10-24T00:42:43Z"
     },
     {
       "full_name": "php/php-src",
       "name": "php / php-src",
-      "description": "웹 개발에 특화된 범용 스크립트 언어 PHP의 공식 인터프리터 소스코드로, BSD-3-Clause 라이선스 하에 배포됩니다.",
+      "description": "The PHP Interpreter",
       "domains": [
-        "Developer Tools",
-        "Web"
+        "Developer Tools"
       ],
       "roles": [
-        "Runtime",
         "Framework"
       ],
       "language": "C",
       "color": "#77736b",
-      "gained": "+287",
+      "gained": "+716",
       "trend_windows": {
         "3d": {
-          "stars": 287,
-          "observed": 1,
+          "stars": 1003,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 287,
-          "observed": 1,
+          "stars": 1003,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 287,
-          "observed": 1,
+          "stars": 1003,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 41172,
-      "forks": 8314,
+      "stars": 41570,
+      "forks": 8361,
       "url": "https://github.com/php/php-src",
-      "updated_at": "2026-10-22T23:59:52Z"
+      "updated_at": "2026-10-24T01:28:33Z"
     },
     {
-      "full_name": "fastapi/fastapi",
-      "name": "fastapi / fastapi",
-      "description": "파이썬 타입 힌트 기반의 고성능 비동기 웹 API 프레임워크로, OpenAPI·JSON Schema 자동 문서화와 Pydantic 검증을 기본 제공합니다.",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "name": "anthropics / knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "domains": [
-        "Web",
         "Developer Tools"
       ],
       "roles": [
-        "Framework",
-        "API"
+        "Plugin"
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+101",
+      "gained": "+635",
       "trend_windows": {
         "3d": {
-          "stars": 101,
+          "stars": 1205,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1205,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1205,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 32236,
+      "forks": 3574,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "updated_at": "2026-10-23T07:38:30Z"
+    },
+    {
+      "full_name": "Renhuai123/ziwei-doushu",
+      "name": "Renhuai123 / ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+546",
+      "trend_windows": {
+        "3d": {
+          "stars": 546,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 101,
+          "stars": 546,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 101,
+          "stars": 546,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 103765,
-      "forks": 10088,
-      "url": "https://github.com/fastapi/fastapi",
-      "updated_at": "2026-10-22T22:21:50Z"
+      "stars": 6878,
+      "forks": 1411,
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "updated_at": "2026-10-20T08:20:05Z"
+    },
+    {
+      "full_name": "SnailSploit/Claude-Red",
+      "name": "SnailSploit / Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shell",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "SDK"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+226",
+      "trend_windows": {
+        "3d": {
+          "stars": 226,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 226,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 226,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 8509,
+      "forks": 1103,
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "updated_at": "2026-10-12T15:02:40Z"
+    },
+    {
+      "full_name": "nodejs/node",
+      "name": "nodejs / node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+66",
+      "trend_windows": {
+        "3d": {
+          "stars": 66,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 66,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 66,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 122880,
+      "forks": 39832,
+      "url": "https://github.com/nodejs/node",
+      "updated_at": "2026-10-24T00:09:23Z"
     }
   ]
 }
