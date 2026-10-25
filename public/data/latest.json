@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:31:38.718294+00:00",
+  "generated_at": "2026-10-25T01:04:22.571381+00:00",
   "items": [
     {
       "full_name": "cloudflare/security-audit-skill",
@@ -13,26 +13,26 @@
       ],
       "language": "JavaScript",
       "color": "#f5b414",
-      "gained": "+2,716",
+      "gained": "+2,264",
       "trend_windows": {
         "3d": {
-          "stars": 7707,
+          "stars": 7959,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 9419,
-          "observed": 4,
+          "stars": 11683,
+          "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 9419,
-          "observed": 4,
+          "stars": 11683,
+          "observed": 5,
           "days": 7
         }
       },
-      "stars": 42185,
-      "forks": 2636,
+      "stars": 44577,
+      "forks": 2769,
       "url": "https://github.com/cloudflare/security-audit-skill",
       "updated_at": "2026-09-14T19:29:02Z"
     },
@@ -48,204 +48,278 @@
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+1,119",
+      "gained": "+896",
       "trend_windows": {
         "3d": {
-          "stars": 1119,
-          "observed": 1,
+          "stars": 2015,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 1119,
-          "observed": 1,
+          "stars": 2015,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 1119,
-          "observed": 1,
+          "stars": 2015,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 18817,
-      "forks": 1886,
+      "stars": 19482,
+      "forks": 1932,
       "url": "https://github.com/NVIDIA/OpenShell",
-      "updated_at": "2026-10-24T00:42:43Z"
+      "updated_at": "2026-10-24T23:55:12Z"
     },
     {
-      "full_name": "php/php-src",
-      "name": "php / php-src",
-      "description": "The PHP Interpreter",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "C",
-      "color": "#77736b",
-      "gained": "+716",
-      "trend_windows": {
-        "3d": {
-          "stars": 1003,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1003,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1003,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 41570,
-      "forks": 8361,
-      "url": "https://github.com/php/php-src",
-      "updated_at": "2026-10-24T01:28:33Z"
-    },
-    {
-      "full_name": "anthropics/knowledge-work-plugins",
-      "name": "anthropics / knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Plugin"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+635",
-      "trend_windows": {
-        "3d": {
-          "stars": 1205,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1205,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1205,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 32236,
-      "forks": 3574,
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "updated_at": "2026-10-23T07:38:30Z"
-    },
-    {
-      "full_name": "Renhuai123/ziwei-doushu",
-      "name": "Renhuai123 / ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+546",
-      "trend_windows": {
-        "3d": {
-          "stars": 546,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 546,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 546,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 6878,
-      "forks": 1411,
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "updated_at": "2026-10-20T08:20:05Z"
-    },
-    {
-      "full_name": "SnailSploit/Claude-Red",
-      "name": "SnailSploit / Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shell",
+      "full_name": "pbakaus/impeccable",
+      "name": "pbakaus / impeccable",
+      "description": "The design language that makes your AI harness better at design.",
       "domains": [
         "AI/ML",
         "UI/UX"
       ],
       "roles": [
-        "SDK"
+        "Framework"
       ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+226",
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+619",
       "trend_windows": {
         "3d": {
-          "stars": 226,
+          "stars": 619,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 226,
+          "stars": 619,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 226,
+          "stars": 619,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 8509,
-      "forks": 1103,
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "updated_at": "2026-10-12T15:02:40Z"
+      "stars": 86425,
+      "forks": 5155,
+      "url": "https://github.com/pbakaus/impeccable",
+      "updated_at": "2026-10-24T06:29:27Z"
     },
     {
-      "full_name": "nodejs/node",
-      "name": "nodejs / node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "full_name": "makecindy/cindy",
+      "name": "makecindy / cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+477",
+      "trend_windows": {
+        "3d": {
+          "stars": 477,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 477,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 477,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 4106,
+      "forks": 588,
+      "url": "https://github.com/makecindy/cindy",
+      "updated_at": "2026-10-25T00:14:02Z"
+    },
+    {
+      "full_name": "Nutlope/hallmark",
+      "name": "Nutlope / hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "domains": [
+        "AI/ML",
         "UI/UX"
       ],
       "roles": [
         "Framework"
       ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+66",
+      "language": "CSS",
+      "color": "#77736b",
+      "gained": "+455",
       "trend_windows": {
         "3d": {
-          "stars": 66,
+          "stars": 455,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 66,
+          "stars": 455,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 66,
+          "stars": 455,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 122880,
-      "forks": 39832,
-      "url": "https://github.com/nodejs/node",
-      "updated_at": "2026-10-24T00:09:23Z"
+      "stars": 32159,
+      "forks": 1653,
+      "url": "https://github.com/Nutlope/hallmark",
+      "updated_at": "2026-10-22T17:20:32Z"
+    },
+    {
+      "full_name": "luongnv89/claude-howto",
+      "name": "luongnv89 / claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+392",
+      "trend_windows": {
+        "3d": {
+          "stars": 392,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 392,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 392,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 44569,
+      "forks": 5494,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "updated_at": "2026-10-20T12:23:14Z"
+    },
+    {
+      "full_name": "jbiaojerry/ebook-treasure-chest",
+      "name": "jbiaojerry / ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+227",
+      "trend_windows": {
+        "3d": {
+          "stars": 227,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 227,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 227,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 22613,
+      "forks": 3191,
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "updated_at": "2026-01-13T00:59:23Z"
+    },
+    {
+      "full_name": "google-gemini/gemini-cli",
+      "name": "google-gemini / gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+44",
+      "trend_windows": {
+        "3d": {
+          "stars": 44,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 44,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 44,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 108058,
+      "forks": 14808,
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "updated_at": "2026-10-24T01:15:52Z"
+    },
+    {
+      "full_name": "aws/agent-toolkit-for-aws",
+      "name": "aws / agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+13",
+      "trend_windows": {
+        "3d": {
+          "stars": 13,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 13,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 13,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 3132,
+      "forks": 400,
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "updated_at": "2026-10-23T15:00:22Z"
     }
   ]
 }
