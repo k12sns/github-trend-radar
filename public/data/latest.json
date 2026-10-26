@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:04:22.571381+00:00",
+  "generated_at": "2026-10-26T01:06:18.656970+00:00",
   "items": [
     {
       "full_name": "cloudflare/security-audit-skill",
@@ -13,68 +13,33 @@
       ],
       "language": "JavaScript",
       "color": "#f5b414",
-      "gained": "+2,264",
+      "gained": "+2,878",
       "trend_windows": {
         "3d": {
-          "stars": 7959,
+          "stars": 7858,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 11683,
+          "stars": 12849,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 11683,
-          "observed": 5,
+          "stars": 14561,
+          "observed": 6,
           "days": 7
         }
       },
-      "stars": 44577,
-      "forks": 2769,
+      "stars": 46927,
+      "forks": 2908,
       "url": "https://github.com/cloudflare/security-audit-skill",
       "updated_at": "2026-09-14T19:29:02Z"
     },
     {
-      "full_name": "NVIDIA/OpenShell",
-      "name": "NVIDIA / OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+896",
-      "trend_windows": {
-        "3d": {
-          "stars": 2015,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2015,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2015,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 19482,
-      "forks": 1932,
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "updated_at": "2026-10-24T23:55:12Z"
-    },
-    {
-      "full_name": "pbakaus/impeccable",
-      "name": "pbakaus / impeccable",
-      "description": "The design language that makes your AI harness better at design.",
+      "full_name": "debpalash/VoiceStudio",
+      "name": "debpalash / VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "domains": [
         "AI/ML",
         "UI/UX"
@@ -82,65 +47,30 @@
       "roles": [
         "Framework"
       ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+619",
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,592",
       "trend_windows": {
         "3d": {
-          "stars": 619,
-          "observed": 1,
+          "stars": 3674,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 619,
-          "observed": 1,
+          "stars": 3674,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 619,
-          "observed": 1,
+          "stars": 3674,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 86425,
-      "forks": 5155,
-      "url": "https://github.com/pbakaus/impeccable",
-      "updated_at": "2026-10-24T06:29:27Z"
-    },
-    {
-      "full_name": "makecindy/cindy",
-      "name": "makecindy / cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+477",
-      "trend_windows": {
-        "3d": {
-          "stars": 477,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 477,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 477,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 4106,
-      "forks": 588,
-      "url": "https://github.com/makecindy/cindy",
-      "updated_at": "2026-10-25T00:14:02Z"
+      "stars": 86848,
+      "forks": 9614,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "updated_at": "2026-10-26T00:55:38Z"
     },
     {
       "full_name": "Nutlope/hallmark",
@@ -155,142 +85,177 @@
       ],
       "language": "CSS",
       "color": "#77736b",
-      "gained": "+455",
+      "gained": "+1,317",
       "trend_windows": {
         "3d": {
-          "stars": 455,
-          "observed": 1,
+          "stars": 1772,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 455,
-          "observed": 1,
+          "stars": 1772,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 455,
-          "observed": 1,
+          "stars": 1772,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 32159,
-      "forks": 1653,
+      "stars": 33793,
+      "forks": 1767,
       "url": "https://github.com/Nutlope/hallmark",
       "updated_at": "2026-10-22T17:20:32Z"
     },
     {
-      "full_name": "luongnv89/claude-howto",
-      "name": "luongnv89 / claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "full_name": "pbakaus/impeccable",
+      "name": "pbakaus / impeccable",
+      "description": "The design language that makes your AI harness better at design.",
       "domains": [
+        "AI/ML",
         "UI/UX"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+392",
-      "trend_windows": {
-        "3d": {
-          "stars": 392,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 392,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 392,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 44569,
-      "forks": 5494,
-      "url": "https://github.com/luongnv89/claude-howto",
-      "updated_at": "2026-10-20T12:23:14Z"
-    },
-    {
-      "full_name": "jbiaojerry/ebook-treasure-chest",
-      "name": "jbiaojerry / ebook-treasure-chest",
-      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-      "domains": [
-        "Developer Tools"
       ],
       "roles": [
         "Framework"
       ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+227",
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+1,092",
       "trend_windows": {
         "3d": {
-          "stars": 227,
-          "observed": 1,
+          "stars": 1711,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 227,
-          "observed": 1,
+          "stars": 1711,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 227,
-          "observed": 1,
+          "stars": 1711,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 22613,
-      "forks": 3191,
-      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
-      "updated_at": "2026-01-13T00:59:23Z"
+      "stars": 87712,
+      "forks": 5243,
+      "url": "https://github.com/pbakaus/impeccable",
+      "updated_at": "2026-10-25T18:04:24Z"
     },
     {
-      "full_name": "google-gemini/gemini-cli",
-      "name": "google-gemini / gemini-cli",
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "full_name": "makecindy/cindy",
+      "name": "makecindy / cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+675",
+      "trend_windows": {
+        "3d": {
+          "stars": 1152,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1152,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1152,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 4881,
+      "forks": 666,
+      "url": "https://github.com/makecindy/cindy",
+      "updated_at": "2026-10-25T20:26:51Z"
+    },
+    {
+      "full_name": "TauricResearch/TradingAgents",
+      "name": "TauricResearch / TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "domains": [
         "AI/ML"
       ],
       "roles": [
         "Agent",
-        "CLI"
+        "Framework"
       ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+44",
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+381",
       "trend_windows": {
         "3d": {
-          "stars": 44,
+          "stars": 381,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 44,
+          "stars": 381,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 44,
+          "stars": 381,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 108058,
-      "forks": 14808,
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "updated_at": "2026-10-24T01:15:52Z"
+      "stars": 114626,
+      "forks": 22128,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "updated_at": "2026-10-16T21:38:46Z"
     },
     {
-      "full_name": "aws/agent-toolkit-for-aws",
-      "name": "aws / agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "full_name": "Renhuai123/ziwei-doushu",
+      "name": "Renhuai123 / ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "domains": [
-        "AI/ML",
-        "UI/UX"
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+199",
+      "trend_windows": {
+        "3d": {
+          "stars": 745,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 745,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 745,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 7567,
+      "forks": 1548,
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "updated_at": "2026-10-24T02:34:09Z"
+    },
+    {
+      "full_name": "AgriciDaniel/claude-seo",
+      "name": "AgriciDaniel / claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Googl",
+      "domains": [
+        "AI/ML"
       ],
       "roles": [
         "Agent",
@@ -298,28 +263,101 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+13",
+      "gained": "+197",
       "trend_windows": {
         "3d": {
-          "stars": 13,
+          "stars": 197,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 13,
+          "stars": 197,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 13,
+          "stars": 197,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 3132,
-      "forks": 400,
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "updated_at": "2026-10-23T15:00:22Z"
+      "stars": 20889,
+      "forks": 2956,
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "updated_at": "2026-10-22T16:47:40Z"
+    },
+    {
+      "full_name": "coollabsio/coolify",
+      "name": "coollabsio / coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "domains": [
+        "Database",
+        "DevOps"
+      ],
+      "roles": [
+        "CLI",
+        "API"
+      ],
+      "language": "PHP",
+      "color": "#77736b",
+      "gained": "+152",
+      "trend_windows": {
+        "3d": {
+          "stars": 152,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 152,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 152,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 64393,
+      "forks": 5785,
+      "url": "https://github.com/coollabsio/coolify",
+      "updated_at": "2026-10-25T23:01:11Z"
+    },
+    {
+      "full_name": "JetBrains/thinkrail",
+      "name": "JetBrains / thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+51",
+      "trend_windows": {
+        "3d": {
+          "stars": 51,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 51,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 51,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 1751,
+      "forks": 102,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "updated_at": "2026-10-26T00:43:27Z"
     }
   ]
 }
