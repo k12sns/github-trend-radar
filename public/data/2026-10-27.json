@@ -1,0 +1,362 @@
+{
+  "generated_at": "2026-10-27T02:00:28.842130+00:00",
+  "items": [
+    {
+      "full_name": "debpalash/VoiceStudio",
+      "name": "debpalash / VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+2,297",
+      "trend_windows": {
+        "3d": {
+          "stars": 3889,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3889,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3889,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 89374,
+      "forks": 9855,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "updated_at": "2026-10-27T01:52:30Z"
+    },
+    {
+      "full_name": "Nutlope/hallmark",
+      "name": "Nutlope / hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "CSS",
+      "color": "#77736b",
+      "gained": "+2,244",
+      "trend_windows": {
+        "3d": {
+          "stars": 4016,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4016,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4016,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 36486,
+      "forks": 1902,
+      "url": "https://github.com/Nutlope/hallmark",
+      "updated_at": "2026-10-22T17:20:32Z"
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "name": "pbakaus / impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+1,506",
+      "trend_windows": {
+        "3d": {
+          "stars": 3217,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3217,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3217,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 89275,
+      "forks": 5313,
+      "url": "https://github.com/pbakaus/impeccable",
+      "updated_at": "2026-10-27T01:40:11Z"
+    },
+    {
+      "full_name": "TauricResearch/TradingAgents",
+      "name": "TauricResearch / TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,395",
+      "trend_windows": {
+        "3d": {
+          "stars": 1776,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1776,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1776,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 116190,
+      "forks": 22291,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "updated_at": "2026-10-16T21:38:46Z"
+    },
+    {
+      "full_name": "makecindy/cindy",
+      "name": "makecindy / cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,296",
+      "trend_windows": {
+        "3d": {
+          "stars": 2448,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2448,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2448,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 6552,
+      "forks": 798,
+      "url": "https://github.com/makecindy/cindy",
+      "updated_at": "2026-10-27T02:00:31Z"
+    },
+    {
+      "full_name": "JetBrains/thinkrail",
+      "name": "JetBrains / thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,173",
+      "trend_windows": {
+        "3d": {
+          "stars": 1224,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1224,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1224,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 2971,
+      "forks": 160,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "updated_at": "2026-10-27T01:55:25Z"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "name": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+896",
+      "trend_windows": {
+        "3d": {
+          "stars": 896,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 896,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 896,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 289896,
+      "forks": 42956,
+      "url": "https://github.com/affaan-m/ECC",
+      "updated_at": "2026-10-26T04:56:56Z"
+    },
+    {
+      "full_name": "Panniantong/Agent-Reach",
+      "name": "Panniantong / Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+746",
+      "trend_windows": {
+        "3d": {
+          "stars": 746,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 746,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 746,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 103693,
+      "forks": 9194,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "updated_at": "2026-10-25T04:37:26Z"
+    },
+    {
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "name": "multica-ai / andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Other",
+      "color": "#77736b",
+      "gained": "+638",
+      "trend_windows": {
+        "3d": {
+          "stars": 638,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 638,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 638,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 224698,
+      "forks": 22474,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "updated_at": "2026-04-20T10:05:04Z"
+    },
+    {
+      "full_name": "alchaincyf/huashu-design",
+      "name": "alchaincyf / huashu-design",
+      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "HTML",
+      "color": "#77736b",
+      "gained": "+251",
+      "trend_windows": {
+        "3d": {
+          "stars": 251,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 251,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 251,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 26855,
+      "forks": 2968,
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "updated_at": "2026-10-23T15:32:08Z"
+    }
+  ]
+}
