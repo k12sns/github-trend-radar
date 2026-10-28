@@ -1,42 +1,6 @@
 {
-  "generated_at": "2026-10-27T02:00:28.842130+00:00",
+  "generated_at": "2026-10-28T02:09:01.104928+00:00",
   "items": [
-    {
-      "full_name": "debpalash/VoiceStudio",
-      "name": "debpalash / VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+2,297",
-      "trend_windows": {
-        "3d": {
-          "stars": 3889,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 3889,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 3889,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 89374,
-      "forks": 9855,
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "updated_at": "2026-10-27T01:52:30Z"
-    },
     {
       "full_name": "Nutlope/hallmark",
       "name": "Nutlope / hallmark",
@@ -50,28 +14,99 @@
       ],
       "language": "CSS",
       "color": "#77736b",
-      "gained": "+2,244",
+      "gained": "+2,830",
       "trend_windows": {
         "3d": {
-          "stars": 4016,
+          "stars": 6391,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 4016,
-          "observed": 3,
+          "stars": 6846,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 4016,
-          "observed": 3,
+          "stars": 6846,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 36486,
-      "forks": 1902,
+      "stars": 39111,
+      "forks": 2041,
       "url": "https://github.com/Nutlope/hallmark",
-      "updated_at": "2026-10-22T17:20:32Z"
+      "updated_at": "2026-10-27T15:05:53Z"
+    },
+    {
+      "full_name": "HKUDS/DeepTutor",
+      "name": "HKUDS / DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,598",
+      "trend_windows": {
+        "3d": {
+          "stars": 1598,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1598,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1598,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 46038,
+      "forks": 5769,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "updated_at": "2026-10-27T18:37:55Z"
+    },
+    {
+      "full_name": "makecindy/cindy",
+      "name": "makecindy / cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,465",
+      "trend_windows": {
+        "3d": {
+          "stars": 3436,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3913,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3913,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 7518,
+      "forks": 892,
+      "url": "https://github.com/makecindy/cindy",
+      "updated_at": "2026-10-28T01:57:56Z"
     },
     {
       "full_name": "pbakaus/impeccable",
@@ -86,99 +121,64 @@
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+1,506",
+      "gained": "+1,449",
       "trend_windows": {
         "3d": {
-          "stars": 3217,
+          "stars": 4047,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 3217,
-          "observed": 3,
+          "stars": 4666,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 3217,
-          "observed": 3,
+          "stars": 4666,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 89275,
-      "forks": 5313,
+      "stars": 90643,
+      "forks": 5378,
       "url": "https://github.com/pbakaus/impeccable",
-      "updated_at": "2026-10-27T01:40:11Z"
+      "updated_at": "2026-10-27T16:28:34Z"
     },
     {
-      "full_name": "TauricResearch/TradingAgents",
-      "name": "TauricResearch / TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "full_name": "elayadesign/ai-design-skills",
+      "name": "elayadesign / ai-design-skills",
+      "description": "Open-source 프로젝트입니다.",
       "domains": [
-        "AI/ML"
+        "AI/ML",
+        "UI/UX"
       ],
       "roles": [
-        "Agent",
         "Framework"
       ],
-      "language": "Python",
-      "color": "#f5b414",
+      "language": "Other",
+      "color": "#77736b",
       "gained": "+1,395",
       "trend_windows": {
         "3d": {
-          "stars": 1776,
-          "observed": 2,
+          "stars": 1395,
+          "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 1776,
-          "observed": 2,
+          "stars": 1395,
+          "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 1776,
-          "observed": 2,
+          "stars": 1395,
+          "observed": 1,
           "days": 7
         }
       },
-      "stars": 116190,
-      "forks": 22291,
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "updated_at": "2026-10-16T21:38:46Z"
-    },
-    {
-      "full_name": "makecindy/cindy",
-      "name": "makecindy / cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+1,296",
-      "trend_windows": {
-        "3d": {
-          "stars": 2448,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2448,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2448,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 6552,
-      "forks": 798,
-      "url": "https://github.com/makecindy/cindy",
-      "updated_at": "2026-10-27T02:00:31Z"
+      "stars": 9496,
+      "forks": 679,
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "updated_at": "2026-10-27T16:02:10Z"
     },
     {
       "full_name": "JetBrains/thinkrail",
@@ -193,28 +193,28 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+1,173",
+      "gained": "+1,204",
       "trend_windows": {
         "3d": {
-          "stars": 1224,
-          "observed": 2,
+          "stars": 2428,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 1224,
-          "observed": 2,
+          "stars": 2428,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 1224,
-          "observed": 2,
+          "stars": 2428,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 2971,
-      "forks": 160,
+      "stars": 4077,
+      "forks": 219,
       "url": "https://github.com/JetBrains/thinkrail",
-      "updated_at": "2026-10-27T01:55:25Z"
+      "updated_at": "2026-10-28T01:51:12Z"
     },
     {
       "full_name": "affaan-m/ECC",
@@ -228,69 +228,68 @@
       ],
       "language": "JavaScript",
       "color": "#f5b414",
-      "gained": "+896",
+      "gained": "+1,165",
       "trend_windows": {
         "3d": {
-          "stars": 896,
-          "observed": 1,
+          "stars": 2061,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 896,
-          "observed": 1,
+          "stars": 2061,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 896,
-          "observed": 1,
+          "stars": 2061,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 289896,
-      "forks": 42956,
+      "stars": 290935,
+      "forks": 43081,
       "url": "https://github.com/affaan-m/ECC",
       "updated_at": "2026-10-26T04:56:56Z"
     },
     {
-      "full_name": "Panniantong/Agent-Reach",
-      "name": "Panniantong / Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "full_name": "gitroomhq/postiz-app",
+      "name": "gitroomhq / postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "domains": [
-        "AI/ML"
+        "DevOps"
       ],
       "roles": [
-        "Agent",
-        "CLI"
+        "Agent"
       ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+746",
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+951",
       "trend_windows": {
         "3d": {
-          "stars": 746,
+          "stars": 951,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 746,
+          "stars": 951,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 746,
+          "stars": 951,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 103693,
-      "forks": 9194,
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "updated_at": "2026-10-25T04:37:26Z"
+      "stars": 39433,
+      "forks": 7523,
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "updated_at": "2026-10-24T18:27:21Z"
     },
     {
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "name": "multica-ai / andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "full_name": "togg53192-cmd/jailbreaks",
+      "name": "togg53192-cmd / jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
       "domains": [
         "AI/ML"
       ],
@@ -299,64 +298,64 @@
       ],
       "language": "Other",
       "color": "#77736b",
-      "gained": "+638",
+      "gained": "+902",
       "trend_windows": {
         "3d": {
-          "stars": 638,
+          "stars": 902,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 638,
+          "stars": 902,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 638,
+          "stars": 902,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 224698,
-      "forks": 22474,
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "updated_at": "2026-04-20T10:05:04Z"
+      "stars": 5646,
+      "forks": 836,
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "updated_at": "2026-10-25T15:21:20Z"
     },
     {
-      "full_name": "alchaincyf/huashu-design",
-      "name": "alchaincyf / huashu-design",
-      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+      "full_name": "obra/superpowers",
+      "name": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
       "domains": [
-        "AI/ML",
-        "UI/UX"
+        "AI/ML"
       ],
       "roles": [
-        "Agent"
+        "Agent",
+        "Framework"
       ],
-      "language": "HTML",
+      "language": "Shell",
       "color": "#77736b",
-      "gained": "+251",
+      "gained": "+617",
       "trend_windows": {
         "3d": {
-          "stars": 251,
+          "stars": 617,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 251,
+          "stars": 617,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 251,
+          "stars": 617,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 26855,
-      "forks": 2968,
-      "url": "https://github.com/alchaincyf/huashu-design",
-      "updated_at": "2026-10-23T15:32:08Z"
+      "stars": 306484,
+      "forks": 27280,
+      "url": "https://github.com/obra/superpowers",
+      "updated_at": "2026-10-23T03:48:57Z"
     }
   ]
 }

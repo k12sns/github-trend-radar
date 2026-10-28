@@ -1,0 +1,361 @@
+{
+  "generated_at": "2026-10-28T02:09:01.104928+00:00",
+  "items": [
+    {
+      "full_name": "Nutlope/hallmark",
+      "name": "Nutlope / hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "CSS",
+      "color": "#77736b",
+      "gained": "+2,830",
+      "trend_windows": {
+        "3d": {
+          "stars": 6391,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6846,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6846,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 39111,
+      "forks": 2041,
+      "url": "https://github.com/Nutlope/hallmark",
+      "updated_at": "2026-10-27T15:05:53Z"
+    },
+    {
+      "full_name": "HKUDS/DeepTutor",
+      "name": "HKUDS / DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,598",
+      "trend_windows": {
+        "3d": {
+          "stars": 1598,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1598,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1598,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 46038,
+      "forks": 5769,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "updated_at": "2026-10-27T18:37:55Z"
+    },
+    {
+      "full_name": "makecindy/cindy",
+      "name": "makecindy / cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,465",
+      "trend_windows": {
+        "3d": {
+          "stars": 3436,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3913,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3913,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 7518,
+      "forks": 892,
+      "url": "https://github.com/makecindy/cindy",
+      "updated_at": "2026-10-28T01:57:56Z"
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "name": "pbakaus / impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+1,449",
+      "trend_windows": {
+        "3d": {
+          "stars": 4047,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4666,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4666,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 90643,
+      "forks": 5378,
+      "url": "https://github.com/pbakaus/impeccable",
+      "updated_at": "2026-10-27T16:28:34Z"
+    },
+    {
+      "full_name": "elayadesign/ai-design-skills",
+      "name": "elayadesign / ai-design-skills",
+      "description": "Open-source 프로젝트입니다.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Other",
+      "color": "#77736b",
+      "gained": "+1,395",
+      "trend_windows": {
+        "3d": {
+          "stars": 1395,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1395,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1395,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 9496,
+      "forks": 679,
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "updated_at": "2026-10-27T16:02:10Z"
+    },
+    {
+      "full_name": "JetBrains/thinkrail",
+      "name": "JetBrains / thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,204",
+      "trend_windows": {
+        "3d": {
+          "stars": 2428,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2428,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2428,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 4077,
+      "forks": 219,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "updated_at": "2026-10-28T01:51:12Z"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "name": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+1,165",
+      "trend_windows": {
+        "3d": {
+          "stars": 2061,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2061,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2061,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 290935,
+      "forks": 43081,
+      "url": "https://github.com/affaan-m/ECC",
+      "updated_at": "2026-10-26T04:56:56Z"
+    },
+    {
+      "full_name": "gitroomhq/postiz-app",
+      "name": "gitroomhq / postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "domains": [
+        "DevOps"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+951",
+      "trend_windows": {
+        "3d": {
+          "stars": 951,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 951,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 951,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 39433,
+      "forks": 7523,
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "updated_at": "2026-10-24T18:27:21Z"
+    },
+    {
+      "full_name": "togg53192-cmd/jailbreaks",
+      "name": "togg53192-cmd / jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Other",
+      "color": "#77736b",
+      "gained": "+902",
+      "trend_windows": {
+        "3d": {
+          "stars": 902,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 902,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 902,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 5646,
+      "forks": 836,
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "updated_at": "2026-10-25T15:21:20Z"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "name": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+617",
+      "trend_windows": {
+        "3d": {
+          "stars": 617,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 617,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 617,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 306484,
+      "forks": 27280,
+      "url": "https://github.com/obra/superpowers",
+      "updated_at": "2026-10-23T03:48:57Z"
+    }
+  ]
+}
