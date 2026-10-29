@@ -1,42 +1,6 @@
 {
-  "generated_at": "2026-10-28T02:09:01.104928+00:00",
+  "generated_at": "2026-10-29T02:22:37.133891+00:00",
   "items": [
-    {
-      "full_name": "Nutlope/hallmark",
-      "name": "Nutlope / hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "CSS",
-      "color": "#77736b",
-      "gained": "+2,830",
-      "trend_windows": {
-        "3d": {
-          "stars": 6391,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 6846,
-          "observed": 4,
-          "days": 5
-        },
-        "7d": {
-          "stars": 6846,
-          "observed": 4,
-          "days": 7
-        }
-      },
-      "stars": 39111,
-      "forks": 2041,
-      "url": "https://github.com/Nutlope/hallmark",
-      "updated_at": "2026-10-27T15:05:53Z"
-    },
     {
       "full_name": "HKUDS/DeepTutor",
       "name": "HKUDS / DeepTutor",
@@ -50,99 +14,28 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+1,598",
+      "gained": "+2,371",
       "trend_windows": {
         "3d": {
-          "stars": 1598,
-          "observed": 1,
+          "stars": 3969,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 1598,
-          "observed": 1,
+          "stars": 3969,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 1598,
-          "observed": 1,
+          "stars": 3969,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 46038,
-      "forks": 5769,
+      "stars": 48148,
+      "forks": 5971,
       "url": "https://github.com/HKUDS/DeepTutor",
-      "updated_at": "2026-10-27T18:37:55Z"
-    },
-    {
-      "full_name": "makecindy/cindy",
-      "name": "makecindy / cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+1,465",
-      "trend_windows": {
-        "3d": {
-          "stars": 3436,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 3913,
-          "observed": 4,
-          "days": 5
-        },
-        "7d": {
-          "stars": 3913,
-          "observed": 4,
-          "days": 7
-        }
-      },
-      "stars": 7518,
-      "forks": 892,
-      "url": "https://github.com/makecindy/cindy",
-      "updated_at": "2026-10-28T01:57:56Z"
-    },
-    {
-      "full_name": "pbakaus/impeccable",
-      "name": "pbakaus / impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+1,449",
-      "trend_windows": {
-        "3d": {
-          "stars": 4047,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 4666,
-          "observed": 4,
-          "days": 5
-        },
-        "7d": {
-          "stars": 4666,
-          "observed": 4,
-          "days": 7
-        }
-      },
-      "stars": 90643,
-      "forks": 5378,
-      "url": "https://github.com/pbakaus/impeccable",
-      "updated_at": "2026-10-27T16:28:34Z"
+      "updated_at": "2026-10-28T18:01:08Z"
     },
     {
       "full_name": "elayadesign/ai-design-skills",
@@ -157,134 +50,99 @@
       ],
       "language": "Other",
       "color": "#77736b",
-      "gained": "+1,395",
+      "gained": "+2,139",
       "trend_windows": {
         "3d": {
-          "stars": 1395,
-          "observed": 1,
+          "stars": 3534,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 1395,
-          "observed": 1,
+          "stars": 3534,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 1395,
-          "observed": 1,
+          "stars": 3534,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 9496,
-      "forks": 679,
+      "stars": 11222,
+      "forks": 808,
       "url": "https://github.com/elayadesign/ai-design-skills",
       "updated_at": "2026-10-27T16:02:10Z"
     },
     {
-      "full_name": "JetBrains/thinkrail",
-      "name": "JetBrains / thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "full_name": "Nutlope/hallmark",
+      "name": "Nutlope / hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "domains": [
-        "AI/ML"
+        "AI/ML",
+        "UI/UX"
       ],
       "roles": [
-        "Agent",
-        "Plugin"
+        "Framework"
       ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+1,204",
+      "language": "CSS",
+      "color": "#77736b",
+      "gained": "+2,110",
       "trend_windows": {
         "3d": {
-          "stars": 2428,
+          "stars": 7184,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 2428,
-          "observed": 3,
+          "stars": 8956,
+          "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 2428,
-          "observed": 3,
+          "stars": 8956,
+          "observed": 5,
           "days": 7
         }
       },
-      "stars": 4077,
-      "forks": 219,
-      "url": "https://github.com/JetBrains/thinkrail",
-      "updated_at": "2026-10-28T01:51:12Z"
+      "stars": 40822,
+      "forks": 2116,
+      "url": "https://github.com/Nutlope/hallmark",
+      "updated_at": "2026-10-28T14:52:03Z"
     },
     {
-      "full_name": "affaan-m/ECC",
-      "name": "affaan-m / ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "full_name": "hmjz100/LinkSwift",
+      "name": "hmjz100 / LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "domains": [
         "AI/ML"
       ],
       "roles": [
-        "Agent"
+        "Framework"
       ],
       "language": "JavaScript",
       "color": "#f5b414",
-      "gained": "+1,165",
+      "gained": "+1,616",
       "trend_windows": {
         "3d": {
-          "stars": 2061,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2061,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2061,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 290935,
-      "forks": 43081,
-      "url": "https://github.com/affaan-m/ECC",
-      "updated_at": "2026-10-26T04:56:56Z"
-    },
-    {
-      "full_name": "gitroomhq/postiz-app",
-      "name": "gitroomhq / postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "domains": [
-        "DevOps"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+951",
-      "trend_windows": {
-        "3d": {
-          "stars": 951,
+          "stars": 1616,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 951,
+          "stars": 1616,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 951,
+          "stars": 1616,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 39433,
-      "forks": 7523,
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "updated_at": "2026-10-24T18:27:21Z"
+      "stars": 34955,
+      "forks": 2483,
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "updated_at": "2026-10-27T15:14:58Z"
     },
     {
       "full_name": "togg53192-cmd/jailbreaks",
@@ -298,28 +156,64 @@
       ],
       "language": "Other",
       "color": "#77736b",
-      "gained": "+902",
+      "gained": "+1,477",
       "trend_windows": {
         "3d": {
-          "stars": 902,
-          "observed": 1,
+          "stars": 2379,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 902,
-          "observed": 1,
+          "stars": 2379,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 902,
-          "observed": 1,
+          "stars": 2379,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 5646,
-      "forks": 836,
+      "stars": 7224,
+      "forks": 1039,
       "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "updated_at": "2026-10-25T15:21:20Z"
+      "updated_at": "2026-10-28T12:31:33Z"
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "name": "pbakaus / impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+1,472",
+      "trend_windows": {
+        "3d": {
+          "stars": 4427,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6138,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6138,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 92866,
+      "forks": 5485,
+      "url": "https://github.com/pbakaus/impeccable",
+      "updated_at": "2026-10-28T23:28:56Z"
     },
     {
       "full_name": "obra/superpowers",
@@ -334,28 +228,134 @@
       ],
       "language": "Shell",
       "color": "#77736b",
-      "gained": "+617",
+      "gained": "+1,095",
       "trend_windows": {
         "3d": {
-          "stars": 617,
+          "stars": 1712,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1712,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1712,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 307514,
+      "forks": 27351,
+      "url": "https://github.com/obra/superpowers",
+      "updated_at": "2026-10-23T03:48:57Z"
+    },
+    {
+      "full_name": "JetBrains/thinkrail",
+      "name": "JetBrains / thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,068",
+      "trend_windows": {
+        "3d": {
+          "stars": 3445,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3496,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3496,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 5152,
+      "forks": 267,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "updated_at": "2026-10-29T00:41:34Z"
+    },
+    {
+      "full_name": "makecindy/cindy",
+      "name": "makecindy / cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+728",
+      "trend_windows": {
+        "3d": {
+          "stars": 3489,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4641,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4641,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 8157,
+      "forks": 955,
+      "url": "https://github.com/makecindy/cindy",
+      "updated_at": "2026-10-29T02:14:07Z"
+    },
+    {
+      "full_name": "ruvnet/RuView",
+      "name": "ruvnet / RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+557",
+      "trend_windows": {
+        "3d": {
+          "stars": 557,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 617,
+          "stars": 557,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 617,
+          "stars": 557,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 306484,
-      "forks": 27280,
-      "url": "https://github.com/obra/superpowers",
-      "updated_at": "2026-10-23T03:48:57Z"
+      "stars": 101108,
+      "forks": 13164,
+      "url": "https://github.com/ruvnet/RuView",
+      "updated_at": "2026-10-29T00:29:33Z"
     }
   ]
 }
