@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-29T02:22:37.133891+00:00",
+  "generated_at": "2026-10-30T02:33:40.495144+00:00",
   "items": [
+    {
+      "full_name": "pbakaus/impeccable",
+      "name": "pbakaus / impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+2,870",
+      "trend_windows": {
+        "3d": {
+          "stars": 5791,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 8389,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 9008,
+          "observed": 6,
+          "days": 7
+        }
+      },
+      "stars": 95509,
+      "forks": 5631,
+      "url": "https://github.com/pbakaus/impeccable",
+      "updated_at": "2026-10-29T18:41:45Z"
+    },
     {
       "full_name": "HKUDS/DeepTutor",
       "name": "HKUDS / DeepTutor",
@@ -14,28 +50,63 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+2,371",
+      "gained": "+1,930",
       "trend_windows": {
         "3d": {
-          "stars": 3969,
-          "observed": 2,
+          "stars": 5899,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 3969,
-          "observed": 2,
+          "stars": 5899,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 3969,
-          "observed": 2,
+          "stars": 5899,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 48148,
-      "forks": 5971,
+      "stars": 50277,
+      "forks": 6191,
       "url": "https://github.com/HKUDS/DeepTutor",
-      "updated_at": "2026-10-28T18:01:08Z"
+      "updated_at": "2026-10-29T23:51:51Z"
+    },
+    {
+      "full_name": "togg53192-cmd/jailbreaks",
+      "name": "togg53192-cmd / jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Other",
+      "color": "#77736b",
+      "gained": "+1,594",
+      "trend_windows": {
+        "3d": {
+          "stars": 3973,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3973,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3973,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 9160,
+      "forks": 1274,
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "updated_at": "2026-10-28T12:31:33Z"
     },
     {
       "full_name": "elayadesign/ai-design-skills",
@@ -50,206 +121,28 @@
       ],
       "language": "Other",
       "color": "#77736b",
-      "gained": "+2,139",
+      "gained": "+1,187",
       "trend_windows": {
         "3d": {
-          "stars": 3534,
-          "observed": 2,
+          "stars": 4721,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 3534,
-          "observed": 2,
+          "stars": 4721,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 3534,
-          "observed": 2,
+          "stars": 4721,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 11222,
-      "forks": 808,
+      "stars": 12241,
+      "forks": 886,
       "url": "https://github.com/elayadesign/ai-design-skills",
       "updated_at": "2026-10-27T16:02:10Z"
-    },
-    {
-      "full_name": "Nutlope/hallmark",
-      "name": "Nutlope / hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "CSS",
-      "color": "#77736b",
-      "gained": "+2,110",
-      "trend_windows": {
-        "3d": {
-          "stars": 7184,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 8956,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 8956,
-          "observed": 5,
-          "days": 7
-        }
-      },
-      "stars": 40822,
-      "forks": 2116,
-      "url": "https://github.com/Nutlope/hallmark",
-      "updated_at": "2026-10-28T14:52:03Z"
-    },
-    {
-      "full_name": "hmjz100/LinkSwift",
-      "name": "hmjz100 / LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+1,616",
-      "trend_windows": {
-        "3d": {
-          "stars": 1616,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1616,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1616,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 34955,
-      "forks": 2483,
-      "url": "https://github.com/hmjz100/LinkSwift",
-      "updated_at": "2026-10-27T15:14:58Z"
-    },
-    {
-      "full_name": "togg53192-cmd/jailbreaks",
-      "name": "togg53192-cmd / jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Other",
-      "color": "#77736b",
-      "gained": "+1,477",
-      "trend_windows": {
-        "3d": {
-          "stars": 2379,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2379,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2379,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 7224,
-      "forks": 1039,
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "updated_at": "2026-10-28T12:31:33Z"
-    },
-    {
-      "full_name": "pbakaus/impeccable",
-      "name": "pbakaus / impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+1,472",
-      "trend_windows": {
-        "3d": {
-          "stars": 4427,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 6138,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 6138,
-          "observed": 5,
-          "days": 7
-        }
-      },
-      "stars": 92866,
-      "forks": 5485,
-      "url": "https://github.com/pbakaus/impeccable",
-      "updated_at": "2026-10-28T23:28:56Z"
-    },
-    {
-      "full_name": "obra/superpowers",
-      "name": "obra / superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent",
-        "Framework"
-      ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+1,095",
-      "trend_windows": {
-        "3d": {
-          "stars": 1712,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1712,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1712,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 307514,
-      "forks": 27351,
-      "url": "https://github.com/obra/superpowers",
-      "updated_at": "2026-10-23T03:48:57Z"
     },
     {
       "full_name": "JetBrains/thinkrail",
@@ -264,98 +157,137 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+1,068",
+      "gained": "+1,117",
       "trend_windows": {
         "3d": {
-          "stars": 3445,
+          "stars": 3389,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 3496,
-          "observed": 4,
+          "stars": 4613,
+          "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 3496,
-          "observed": 4,
+          "stars": 4613,
+          "observed": 5,
           "days": 7
         }
       },
-      "stars": 5152,
-      "forks": 267,
+      "stars": 6066,
+      "forks": 328,
       "url": "https://github.com/JetBrains/thinkrail",
-      "updated_at": "2026-10-29T00:41:34Z"
+      "updated_at": "2026-10-29T22:08:45Z"
     },
     {
-      "full_name": "makecindy/cindy",
-      "name": "makecindy / cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "full_name": "obra/superpowers",
+      "name": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
       "domains": [
         "AI/ML"
       ],
       "roles": [
-        "Agent"
+        "Agent",
+        "Framework"
       ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+728",
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+1,034",
       "trend_windows": {
         "3d": {
-          "stars": 3489,
+          "stars": 2746,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 4641,
-          "observed": 5,
+          "stars": 2746,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 4641,
-          "observed": 5,
+          "stars": 2746,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 8157,
-      "forks": 955,
-      "url": "https://github.com/makecindy/cindy",
-      "updated_at": "2026-10-29T02:14:07Z"
+      "stars": 308643,
+      "forks": 27451,
+      "url": "https://github.com/obra/superpowers",
+      "updated_at": "2026-10-29T23:35:34Z"
     },
     {
-      "full_name": "ruvnet/RuView",
-      "name": "ruvnet / RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "name": "Donchitos / Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "domains": [
-        "Developer Tools"
+        "AI/ML",
+        "UI/UX"
       ],
       "roles": [
-        "Framework"
+        "Agent"
       ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+557",
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+353",
       "trend_windows": {
         "3d": {
-          "stars": 557,
+          "stars": 353,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 557,
+          "stars": 353,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 557,
+          "stars": 353,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 101108,
-      "forks": 13164,
-      "url": "https://github.com/ruvnet/RuView",
-      "updated_at": "2026-10-29T00:29:33Z"
+      "stars": 29312,
+      "forks": 4052,
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "updated_at": "2026-10-19T02:43:42Z"
+    },
+    {
+      "full_name": "thedotmack/claude-mem",
+      "name": "thedotmack / claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Herme",
+      "domains": [
+        "AI/ML",
+        "Database"
+      ],
+      "roles": [
+        "Agent",
+        "SDK"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+336",
+      "trend_windows": {
+        "3d": {
+          "stars": 336,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 336,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 336,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 104873,
+      "forks": 9249,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "updated_at": "2026-10-30T02:28:51Z"
     }
   ]
 }
