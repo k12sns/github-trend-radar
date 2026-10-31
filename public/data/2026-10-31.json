@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-10-31T02:17:15.071439+00:00",
+  "items": [
+    {
+      "full_name": "pbakaus/impeccable",
+      "name": "pbakaus / impeccable",
+      "description": "코딩 에이전트를 위한 디자인 어휘 시스템으로, polish/bolder/critique/audit 명령어로 AI가 생성하는 코드의 디자인 품질을 검토하고 개선합니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
+        "Plugin",
+        "CLI"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+2,300",
+      "trend_windows": {
+        "3d": {
+          "stars": 6642,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 9597,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 11308,
+          "observed": 7,
+          "days": 7
+        }
+      },
+      "stars": 97147,
+      "forks": 5718,
+      "url": "https://github.com/pbakaus/impeccable",
+      "updated_at": "2026-10-30T17:36:40Z"
+    },
+    {
+      "full_name": "HKUDS/DeepTutor",
+      "name": "HKUDS / DeepTutor",
+      "description": "다중 에이전트 시스템과 RAG를 활용한 평생 개인화 튜터링 플랫폼으로, 인터랙티브 학습과 CLI 도구를 제공합니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+2,282",
+      "trend_windows": {
+        "3d": {
+          "stars": 6583,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 8181,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 8181,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 51827,
+      "forks": 6352,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "updated_at": "2026-10-30T14:15:04Z"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "name": "obra / superpowers",
+      "description": "코딩 에이전트를 위한 기술 프레임워크이자 소프트웨어 개발 방법론으로, 컴포저블한 스킬과 워크플로우를 제공합니다.",
+      "domains": [
+        "Developer Tools",
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework",
+        "Workflow"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+1,259",
+      "trend_windows": {
+        "3d": {
+          "stars": 3388,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4005,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4005,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 309469,
+      "forks": 27533,
+      "url": "https://github.com/obra/superpowers",
+      "updated_at": "2026-10-29T23:35:34Z"
+    },
+    {
+      "full_name": "thedotmack/claude-mem",
+      "name": "thedotmack / claude-mem",
+      "description": "에이전트 세션 간 지속 가능한 컨텍스트를 제공하는 메모리 압축 시스템으로, 도구 사용 관찰을 자동 캡처하고 의미적 요약을 생성합니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
+        "Plugin",
+        "SDK"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,140",
+      "trend_windows": {
+        "3d": {
+          "stars": 1476,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1476,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1476,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 106341,
+      "forks": 9361,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "updated_at": "2026-10-31T02:09:54Z"
+    },
+    {
+      "full_name": "pingdotgg/t3code",
+      "name": "pingdotgg / t3code",
+      "description": "모바일, 웹, 데스크톱 앱을 통해 로컬 AI 에이전트(Claude Code, Codex, Cursor 등)를 원격 제어할 수 있는 에이전트 하네스 제어 인터페이스입니다.",
+      "domains": [
+        "Developer Tools",
+        "Mobile"
+      ],
+      "roles": [
+        "CLI",
+        "Editor"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+930",
+      "trend_windows": {
+        "3d": {
+          "stars": 930,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 930,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 930,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 32802,
+      "forks": 8661,
+      "url": "https://github.com/pingdotgg/t3code",
+      "updated_at": "2026-10-31T02:16:26Z"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "name": "mattpocock / skills",
+      "description": "실제 엔지니어링 작업을 위한 에이전트 스킬 모음으로, 다양한 AI 코딩 도구(Claude Code, Codex, Copilot 등)와 호환되는 플러그인 형태로 제공됩니다.",
+      "domains": [
+        "Developer Tools",
+        "AI/ML"
+      ],
+      "roles": [
+        "Plugin",
+        "Workflow"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+876",
+      "trend_windows": {
+        "3d": {
+          "stars": 876,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 876,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 876,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 307525,
+      "forks": 25886,
+      "url": "https://github.com/mattpocock/skills",
+      "updated_at": "2026-10-30T14:00:30Z"
+    },
+    {
+      "full_name": "JetBrains/thinkrail",
+      "name": "JetBrains / thinkrail",
+      "description": "pi 코딩 에이전트 기반의 에이전틱 IDE로, 격리된 워크스페이스와 리빙 스펙을 통해 프로젝트 지식을 지속적으로 학습하고 확장합니다.",
+      "domains": [
+        "Developer Tools",
+        "AI/ML"
+      ],
+      "roles": [
+        "Editor",
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+722",
+      "trend_windows": {
+        "3d": {
+          "stars": 2907,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 5284,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 5335,
+          "observed": 6,
+          "days": 7
+        }
+      },
+      "stars": 6609,
+      "forks": 358,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "updated_at": "2026-10-31T01:42:57Z"
+    },
+    {
+      "full_name": "lightpanda-io/browser",
+      "name": "lightpanda-io / browser",
+      "description": "AI 에이전트와 자동화를 위해 Zig로 처음부터 작성된 헤드리스 브라우저로, Chromium 대비 16배 가볍고 9배 빠른 성능을 제공합니다.",
+      "domains": [
+        "Infrastructure",
+        "Developer Tools"
+      ],
+      "roles": [
+        "Runtime",
+        "CLI"
+      ],
+      "language": "Zig",
+      "color": "#77736b",
+      "gained": "+626",
+      "trend_windows": {
+        "3d": {
+          "stars": 626,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 626,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 626,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 38449,
+      "forks": 1876,
+      "url": "https://github.com/lightpanda-io/browser",
+      "updated_at": "2026-10-31T00:11:28Z"
+    }
+  ]
+}
