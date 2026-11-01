@@ -1,0 +1,363 @@
+{
+  "generated_at": "2026-11-01T02:08:03.801169+00:00",
+  "items": [
+    {
+      "full_name": "thedotmack/claude-mem",
+      "name": "thedotmack / claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Herme",
+      "domains": [
+        "AI/ML",
+        "Database"
+      ],
+      "roles": [
+        "Agent",
+        "SDK"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,723",
+      "trend_windows": {
+        "3d": {
+          "stars": 3199,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3199,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3199,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 107941,
+      "forks": 9476,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "updated_at": "2026-11-01T01:50:04Z"
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "name": "pbakaus / impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+1,338",
+      "trend_windows": {
+        "3d": {
+          "stars": 6508,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 9429,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 12027,
+          "observed": 7,
+          "days": 7
+        }
+      },
+      "stars": 98335,
+      "forks": 5801,
+      "url": "https://github.com/pbakaus/impeccable",
+      "updated_at": "2026-10-31T18:59:12Z"
+    },
+    {
+      "full_name": "pingdotgg/t3code",
+      "name": "pingdotgg / t3code",
+      "description": "TypeScript 프로젝트입니다.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,148",
+      "trend_windows": {
+        "3d": {
+          "stars": 2078,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2078,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2078,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 35697,
+      "forks": 8794,
+      "url": "https://github.com/pingdotgg/t3code",
+      "updated_at": "2026-11-01T02:07:40Z"
+    },
+    {
+      "full_name": "Renhuai123/ziwei-doushu",
+      "name": "Renhuai123 / ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,092",
+      "trend_windows": {
+        "3d": {
+          "stars": 1291,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1291,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1291,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 12315,
+      "forks": 2415,
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "updated_at": "2026-10-31T00:10:01Z"
+    },
+    {
+      "full_name": "Orkas-AI/Orkas",
+      "name": "Orkas-AI / Orkas",
+      "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled auto",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+1,044",
+      "trend_windows": {
+        "3d": {
+          "stars": 1044,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1044,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1044,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 6367,
+      "forks": 385,
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "updated_at": "2026-11-01T01:24:48Z"
+    },
+    {
+      "full_name": "HKUDS/DeepTutor",
+      "name": "HKUDS / DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,034",
+      "trend_windows": {
+        "3d": {
+          "stars": 5246,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 9215,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 9215,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 52871,
+      "forks": 6473,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "updated_at": "2026-10-31T16:51:35Z"
+    },
+    {
+      "full_name": "lightpanda-io/browser",
+      "name": "lightpanda-io / browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Zig",
+      "color": "#77736b",
+      "gained": "+929",
+      "trend_windows": {
+        "3d": {
+          "stars": 1555,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1555,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1555,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 39282,
+      "forks": 1909,
+      "url": "https://github.com/lightpanda-io/browser",
+      "updated_at": "2026-11-01T01:05:43Z"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "name": "mattpocock / skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+883",
+      "trend_windows": {
+        "3d": {
+          "stars": 1759,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1759,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1759,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 308447,
+      "forks": 25957,
+      "url": "https://github.com/mattpocock/skills",
+      "updated_at": "2026-10-31T14:23:44Z"
+    },
+    {
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "name": "Donchitos / Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+742",
+      "trend_windows": {
+        "3d": {
+          "stars": 1095,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1095,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1095,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 31217,
+      "forks": 4277,
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "updated_at": "2026-10-19T02:43:42Z"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "name": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+665",
+      "trend_windows": {
+        "3d": {
+          "stars": 2958,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4670,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4670,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 310092,
+      "forks": 27590,
+      "url": "https://github.com/obra/superpowers",
+      "updated_at": "2026-10-29T23:35:34Z"
+    }
+  ]
+}
