@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-11-01T02:08:03.801169+00:00",
+  "generated_at": "2026-11-02T02:24:48.875935+00:00",
   "items": [
+    {
+      "full_name": "pingdotgg/t3code",
+      "name": "pingdotgg / t3code",
+      "description": "TypeScript 프로젝트입니다.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+3,094",
+      "trend_windows": {
+        "3d": {
+          "stars": 5172,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 5172,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 5172,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 38225,
+      "forks": 8928,
+      "url": "https://github.com/pingdotgg/t3code",
+      "updated_at": "2026-11-02T02:23:54Z"
+    },
     {
       "full_name": "thedotmack/claude-mem",
       "name": "thedotmack / claude-mem",
@@ -15,277 +50,98 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+1,723",
+      "gained": "+1,526",
       "trend_windows": {
         "3d": {
-          "stars": 3199,
+          "stars": 4389,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 3199,
-          "observed": 3,
+          "stars": 4725,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 3199,
-          "observed": 3,
+          "stars": 4725,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 107941,
-      "forks": 9476,
+      "stars": 109410,
+      "forks": 9570,
       "url": "https://github.com/thedotmack/claude-mem",
-      "updated_at": "2026-11-01T01:50:04Z"
+      "updated_at": "2026-11-02T02:01:56Z"
     },
     {
-      "full_name": "pbakaus/impeccable",
-      "name": "pbakaus / impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "full_name": "patchy631/ai-engineering-hub",
+      "name": "patchy631 / ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "domains": [
-        "AI/ML",
-        "UI/UX"
+        "AI/ML"
       ],
       "roles": [
         "Agent"
+      ],
+      "language": "Jupyter Notebook",
+      "color": "#77736b",
+      "gained": "+1,191",
+      "trend_windows": {
+        "3d": {
+          "stars": 1191,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1191,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1191,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 40340,
+      "forks": 6492,
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "updated_at": "2026-11-01T04:39:16Z"
+    },
+    {
+      "full_name": "anomalyco/hex",
+      "name": "anomalyco / hex",
+      "description": "Local voice dictation for mac, windows and linux",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+1,338",
+      "gained": "+1,179",
       "trend_windows": {
         "3d": {
-          "stars": 6508,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 9429,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 12027,
-          "observed": 7,
-          "days": 7
-        }
-      },
-      "stars": 98335,
-      "forks": 5801,
-      "url": "https://github.com/pbakaus/impeccable",
-      "updated_at": "2026-10-31T18:59:12Z"
-    },
-    {
-      "full_name": "pingdotgg/t3code",
-      "name": "pingdotgg / t3code",
-      "description": "TypeScript 프로젝트입니다.",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+1,148",
-      "trend_windows": {
-        "3d": {
-          "stars": 2078,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2078,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2078,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 35697,
-      "forks": 8794,
-      "url": "https://github.com/pingdotgg/t3code",
-      "updated_at": "2026-11-01T02:07:40Z"
-    },
-    {
-      "full_name": "Renhuai123/ziwei-doushu",
-      "name": "Renhuai123 / ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+1,092",
-      "trend_windows": {
-        "3d": {
-          "stars": 1291,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1291,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1291,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 12315,
-      "forks": 2415,
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "updated_at": "2026-10-31T00:10:01Z"
-    },
-    {
-      "full_name": "Orkas-AI/Orkas",
-      "name": "Orkas-AI / Orkas",
-      "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled auto",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+1,044",
-      "trend_windows": {
-        "3d": {
-          "stars": 1044,
+          "stars": 1179,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 1044,
+          "stars": 1179,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 1044,
+          "stars": 1179,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 6367,
-      "forks": 385,
-      "url": "https://github.com/Orkas-AI/Orkas",
-      "updated_at": "2026-11-01T01:24:48Z"
-    },
-    {
-      "full_name": "HKUDS/DeepTutor",
-      "name": "HKUDS / DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent",
-        "CLI"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+1,034",
-      "trend_windows": {
-        "3d": {
-          "stars": 5246,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 9215,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 9215,
-          "observed": 5,
-          "days": 7
-        }
-      },
-      "stars": 52871,
-      "forks": 6473,
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "updated_at": "2026-10-31T16:51:35Z"
-    },
-    {
-      "full_name": "lightpanda-io/browser",
-      "name": "lightpanda-io / browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Zig",
-      "color": "#77736b",
-      "gained": "+929",
-      "trend_windows": {
-        "3d": {
-          "stars": 1555,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1555,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1555,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 39282,
-      "forks": 1909,
-      "url": "https://github.com/lightpanda-io/browser",
-      "updated_at": "2026-11-01T01:05:43Z"
-    },
-    {
-      "full_name": "mattpocock/skills",
-      "name": "mattpocock / skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+883",
-      "trend_windows": {
-        "3d": {
-          "stars": 1759,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1759,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1759,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 308447,
-      "forks": 25957,
-      "url": "https://github.com/mattpocock/skills",
-      "updated_at": "2026-10-31T14:23:44Z"
+      "stars": 3372,
+      "forks": 194,
+      "url": "https://github.com/anomalyco/hex",
+      "updated_at": "2026-11-02T00:43:24Z"
     },
     {
       "full_name": "Donchitos/Claude-Code-Game-Studios",
@@ -300,64 +156,205 @@
       ],
       "language": "Shell",
       "color": "#77736b",
-      "gained": "+742",
+      "gained": "+967",
       "trend_windows": {
         "3d": {
-          "stars": 1095,
-          "observed": 2,
+          "stars": 2062,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 1095,
-          "observed": 2,
+          "stars": 2062,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 1095,
-          "observed": 2,
+          "stars": 2062,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 31217,
-      "forks": 4277,
+      "stars": 32393,
+      "forks": 4410,
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "updated_at": "2026-10-19T02:43:42Z"
     },
     {
-      "full_name": "obra/superpowers",
-      "name": "obra / superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
+      "full_name": "Renhuai123/ziwei-doushu",
+      "name": "Renhuai123 / ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+941",
+      "trend_windows": {
+        "3d": {
+          "stars": 2232,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2232,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2232,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 13227,
+      "forks": 2573,
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "updated_at": "2026-10-31T00:10:01Z"
+    },
+    {
+      "full_name": "lightpanda-io/browser",
+      "name": "lightpanda-io / browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Zig",
+      "color": "#77736b",
+      "gained": "+825",
+      "trend_windows": {
+        "3d": {
+          "stars": 2380,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2380,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2380,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 40245,
+      "forks": 1969,
+      "url": "https://github.com/lightpanda-io/browser",
+      "updated_at": "2026-11-02T02:12:39Z"
+    },
+    {
+      "full_name": "togg53192-cmd/jailbreaks",
+      "name": "togg53192-cmd / jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Other",
+      "color": "#77736b",
+      "gained": "+726",
+      "trend_windows": {
+        "3d": {
+          "stars": 3797,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4699,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4699,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 13019,
+      "forks": 1953,
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "updated_at": "2026-11-01T12:50:31Z"
+    },
+    {
+      "full_name": "shiyu-coder/Kronos",
+      "name": "shiyu-coder / Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+630",
+      "trend_windows": {
+        "3d": {
+          "stars": 630,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 630,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 630,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 45447,
+      "forks": 7507,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "updated_at": "2026-04-13T12:38:49Z"
+    },
+    {
+      "full_name": "beenuar/AiSOC",
+      "name": "beenuar / AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude",
       "domains": [
         "AI/ML"
       ],
       "roles": [
         "Agent",
-        "Framework"
+        "API"
       ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+665",
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+446",
       "trend_windows": {
         "3d": {
-          "stars": 2958,
-          "observed": 3,
+          "stars": 446,
+          "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 4670,
-          "observed": 5,
+          "stars": 446,
+          "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 4670,
-          "observed": 5,
+          "stars": 446,
+          "observed": 1,
           "days": 7
         }
       },
-      "stars": 310092,
-      "forks": 27590,
-      "url": "https://github.com/obra/superpowers",
-      "updated_at": "2026-10-29T23:35:34Z"
+      "stars": 6277,
+      "forks": 650,
+      "url": "https://github.com/beenuar/AiSOC",
+      "updated_at": "2026-11-02T02:21:23Z"
     }
   ]
 }
