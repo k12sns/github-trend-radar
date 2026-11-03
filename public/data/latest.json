@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:24:48.875935+00:00",
+  "generated_at": "2026-11-03T03:54:21.513808+00:00",
   "items": [
     {
       "full_name": "pingdotgg/t3code",
@@ -13,28 +13,64 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+3,094",
+      "gained": "+3,229",
       "trend_windows": {
         "3d": {
-          "stars": 5172,
+          "stars": 7471,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 5172,
-          "observed": 3,
+          "stars": 8401,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 5172,
-          "observed": 3,
+          "stars": 8401,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 38225,
-      "forks": 8928,
+      "stars": 42276,
+      "forks": 9121,
       "url": "https://github.com/pingdotgg/t3code",
-      "updated_at": "2026-11-02T02:23:54Z"
+      "updated_at": "2026-11-03T03:52:44Z"
+    },
+    {
+      "full_name": "vercel-labs/agent-desktop",
+      "name": "vercel-labs / agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+2,275",
+      "trend_windows": {
+        "3d": {
+          "stars": 2275,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2275,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2275,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 10299,
+      "forks": 690,
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "updated_at": "2026-11-03T02:40:27Z"
     },
     {
       "full_name": "thedotmack/claude-mem",
@@ -50,98 +86,28 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+1,526",
+      "gained": "+1,803",
       "trend_windows": {
         "3d": {
-          "stars": 4389,
+          "stars": 5052,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 4725,
-          "observed": 4,
+          "stars": 6528,
+          "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 4725,
-          "observed": 4,
+          "stars": 6528,
+          "observed": 5,
           "days": 7
         }
       },
-      "stars": 109410,
-      "forks": 9570,
+      "stars": 110906,
+      "forks": 9667,
       "url": "https://github.com/thedotmack/claude-mem",
-      "updated_at": "2026-11-02T02:01:56Z"
-    },
-    {
-      "full_name": "patchy631/ai-engineering-hub",
-      "name": "patchy631 / ai-engineering-hub",
-      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Jupyter Notebook",
-      "color": "#77736b",
-      "gained": "+1,191",
-      "trend_windows": {
-        "3d": {
-          "stars": 1191,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1191,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1191,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 40340,
-      "forks": 6492,
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "updated_at": "2026-11-01T04:39:16Z"
-    },
-    {
-      "full_name": "anomalyco/hex",
-      "name": "anomalyco / hex",
-      "description": "Local voice dictation for mac, windows and linux",
-      "domains": [
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+1,179",
-      "trend_windows": {
-        "3d": {
-          "stars": 1179,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1179,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1179,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 3372,
-      "forks": 194,
-      "url": "https://github.com/anomalyco/hex",
-      "updated_at": "2026-11-02T00:43:24Z"
+      "updated_at": "2026-11-03T03:52:52Z"
     },
     {
       "full_name": "Donchitos/Claude-Code-Game-Studios",
@@ -156,134 +122,63 @@
       ],
       "language": "Shell",
       "color": "#77736b",
-      "gained": "+967",
+      "gained": "+1,379",
       "trend_windows": {
         "3d": {
-          "stars": 2062,
+          "stars": 3088,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 2062,
-          "observed": 3,
+          "stars": 3441,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 2062,
-          "observed": 3,
+          "stars": 3441,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 32393,
-      "forks": 4410,
+      "stars": 33733,
+      "forks": 4530,
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "updated_at": "2026-10-19T02:43:42Z"
     },
     {
-      "full_name": "Renhuai123/ziwei-doushu",
-      "name": "Renhuai123 / ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "full_name": "mattpocock/skills",
+      "name": "mattpocock / skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "domains": [
         "AI/ML"
       ],
       "roles": [
-        "Framework"
+        "Agent"
       ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+941",
-      "trend_windows": {
-        "3d": {
-          "stars": 2232,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2232,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2232,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 13227,
-      "forks": 2573,
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "updated_at": "2026-10-31T00:10:01Z"
-    },
-    {
-      "full_name": "lightpanda-io/browser",
-      "name": "lightpanda-io / browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Zig",
+      "language": "Shell",
       "color": "#77736b",
-      "gained": "+825",
+      "gained": "+858",
       "trend_windows": {
         "3d": {
-          "stars": 2380,
+          "stars": 2617,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 2380,
+          "stars": 2617,
           "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 2380,
+          "stars": 2617,
           "observed": 3,
           "days": 7
         }
       },
-      "stars": 40245,
-      "forks": 1969,
-      "url": "https://github.com/lightpanda-io/browser",
-      "updated_at": "2026-11-02T02:12:39Z"
-    },
-    {
-      "full_name": "togg53192-cmd/jailbreaks",
-      "name": "togg53192-cmd / jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Other",
-      "color": "#77736b",
-      "gained": "+726",
-      "trend_windows": {
-        "3d": {
-          "stars": 3797,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 4699,
-          "observed": 4,
-          "days": 5
-        },
-        "7d": {
-          "stars": 4699,
-          "observed": 4,
-          "days": 7
-        }
-      },
-      "stars": 13019,
-      "forks": 1953,
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "updated_at": "2026-11-01T12:50:31Z"
+      "stars": 310379,
+      "forks": 26107,
+      "url": "https://github.com/mattpocock/skills",
+      "updated_at": "2026-11-01T11:42:33Z"
     },
     {
       "full_name": "shiyu-coder/Kronos",
@@ -297,64 +192,169 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+630",
+      "gained": "+857",
       "trend_windows": {
         "3d": {
-          "stars": 630,
-          "observed": 1,
+          "stars": 1487,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 630,
-          "observed": 1,
+          "stars": 1487,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 630,
-          "observed": 1,
+          "stars": 1487,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 45447,
-      "forks": 7507,
+      "stars": 46065,
+      "forks": 7592,
       "url": "https://github.com/shiyu-coder/Kronos",
       "updated_at": "2026-04-13T12:38:49Z"
     },
     {
-      "full_name": "beenuar/AiSOC",
-      "name": "beenuar / AiSOC",
-      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude",
+      "full_name": "D4Vinci/Scrapling",
+      "name": "D4Vinci / Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "domains": [
         "AI/ML"
       ],
       "roles": [
-        "Agent",
+        "Framework",
         "API"
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+446",
+      "gained": "+706",
       "trend_windows": {
         "3d": {
-          "stars": 446,
+          "stars": 706,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 446,
+          "stars": 706,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 446,
+          "stars": 706,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 6277,
-      "forks": 650,
-      "url": "https://github.com/beenuar/AiSOC",
-      "updated_at": "2026-11-02T02:21:23Z"
+      "stars": 93145,
+      "forks": 9798,
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "updated_at": "2026-11-02T20:16:23Z"
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "name": "JustVugg / colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C",
+      "color": "#77736b",
+      "gained": "+675",
+      "trend_windows": {
+        "3d": {
+          "stars": 675,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 675,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 675,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 46673,
+      "forks": 5389,
+      "url": "https://github.com/JustVugg/colibri",
+      "updated_at": "2026-11-02T21:02:53Z"
+    },
+    {
+      "full_name": "hyprwm/Hyprland",
+      "name": "hyprwm / Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C++",
+      "color": "#b23ad5",
+      "gained": "+509",
+      "trend_windows": {
+        "3d": {
+          "stars": 509,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 509,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 509,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 40011,
+      "forks": 2158,
+      "url": "https://github.com/hyprwm/Hyprland",
+      "updated_at": "2026-11-02T17:57:19Z"
+    },
+    {
+      "full_name": "p-e-w/heretic",
+      "name": "p-e-w / heretic",
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+420",
+      "trend_windows": {
+        "3d": {
+          "stars": 420,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 420,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 420,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 38185,
+      "forks": 4329,
+      "url": "https://github.com/p-e-w/heretic",
+      "updated_at": "2026-11-01T13:03:19Z"
     }
   ]
 }

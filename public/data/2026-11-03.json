@@ -1,0 +1,360 @@
+{
+  "generated_at": "2026-11-03T03:54:21.513808+00:00",
+  "items": [
+    {
+      "full_name": "pingdotgg/t3code",
+      "name": "pingdotgg / t3code",
+      "description": "TypeScript 프로젝트입니다.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+3,229",
+      "trend_windows": {
+        "3d": {
+          "stars": 7471,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 8401,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 8401,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 42276,
+      "forks": 9121,
+      "url": "https://github.com/pingdotgg/t3code",
+      "updated_at": "2026-11-03T03:52:44Z"
+    },
+    {
+      "full_name": "vercel-labs/agent-desktop",
+      "name": "vercel-labs / agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+2,275",
+      "trend_windows": {
+        "3d": {
+          "stars": 2275,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2275,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2275,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 10299,
+      "forks": 690,
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "updated_at": "2026-11-03T02:40:27Z"
+    },
+    {
+      "full_name": "thedotmack/claude-mem",
+      "name": "thedotmack / claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Herme",
+      "domains": [
+        "AI/ML",
+        "Database"
+      ],
+      "roles": [
+        "Agent",
+        "SDK"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,803",
+      "trend_windows": {
+        "3d": {
+          "stars": 5052,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6528,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6528,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 110906,
+      "forks": 9667,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "updated_at": "2026-11-03T03:52:52Z"
+    },
+    {
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "name": "Donchitos / Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+1,379",
+      "trend_windows": {
+        "3d": {
+          "stars": 3088,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3441,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3441,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 33733,
+      "forks": 4530,
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "updated_at": "2026-10-19T02:43:42Z"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "name": "mattpocock / skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+858",
+      "trend_windows": {
+        "3d": {
+          "stars": 2617,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2617,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2617,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 310379,
+      "forks": 26107,
+      "url": "https://github.com/mattpocock/skills",
+      "updated_at": "2026-11-01T11:42:33Z"
+    },
+    {
+      "full_name": "shiyu-coder/Kronos",
+      "name": "shiyu-coder / Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+857",
+      "trend_windows": {
+        "3d": {
+          "stars": 1487,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1487,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1487,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 46065,
+      "forks": 7592,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "updated_at": "2026-04-13T12:38:49Z"
+    },
+    {
+      "full_name": "D4Vinci/Scrapling",
+      "name": "D4Vinci / Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework",
+        "API"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+706",
+      "trend_windows": {
+        "3d": {
+          "stars": 706,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 706,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 706,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 93145,
+      "forks": 9798,
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "updated_at": "2026-11-02T20:16:23Z"
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "name": "JustVugg / colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C",
+      "color": "#77736b",
+      "gained": "+675",
+      "trend_windows": {
+        "3d": {
+          "stars": 675,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 675,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 675,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 46673,
+      "forks": 5389,
+      "url": "https://github.com/JustVugg/colibri",
+      "updated_at": "2026-11-02T21:02:53Z"
+    },
+    {
+      "full_name": "hyprwm/Hyprland",
+      "name": "hyprwm / Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C++",
+      "color": "#b23ad5",
+      "gained": "+509",
+      "trend_windows": {
+        "3d": {
+          "stars": 509,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 509,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 509,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 40011,
+      "forks": 2158,
+      "url": "https://github.com/hyprwm/Hyprland",
+      "updated_at": "2026-11-02T17:57:19Z"
+    },
+    {
+      "full_name": "p-e-w/heretic",
+      "name": "p-e-w / heretic",
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+420",
+      "trend_windows": {
+        "3d": {
+          "stars": 420,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 420,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 420,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 38185,
+      "forks": 4329,
+      "url": "https://github.com/p-e-w/heretic",
+      "updated_at": "2026-11-01T13:03:19Z"
+    }
+  ]
+}
