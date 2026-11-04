@@ -1,0 +1,299 @@
+{
+  "generated_at": "2026-11-04T02:59:00.631985+00:00",
+  "items": [
+    {
+      "full_name": "vercel-labs/agent-desktop",
+      "name": "vercel-labs / agent-desktop",
+      "description": "AI 에이전트용 크로스플랫폼 데SKTOP 자동화 CLI 및 C 라이브러리. 액세스IBILITY 트리를 통해 화면 요소를 JSON으로 읽고, ref로 클릭/입력하여 애플리케이션을 조작합니다.",
+      "domains": [
+        "AI/ML",
+        "Developer Tools"
+      ],
+      "roles": [
+        "CLI",
+        "Automation"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+3,791",
+      "trend_windows": {
+        "3d": {
+          "stars": 6066,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6066,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6066,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 13028,
+      "forks": 890,
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "updated_at": "2026-11-03T23:16:15Z"
+    },
+    {
+      "full_name": "D4Vinci/Scrapling",
+      "name": "D4Vinci / Scrapling",
+      "description": "파이썬 웹 스크래핑 프레임워크. HTTP 요청, 스테ALTH 브라우저, 프록시 회전, 병렬 크롤링을 하나로 통합하여 데이터 추출부터 전체 사이트 크롤링까지 지원합니다.",
+      "domains": [
+        "Web",
+        "Data"
+      ],
+      "roles": [
+        "Framework",
+        "Automation"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,658",
+      "trend_windows": {
+        "3d": {
+          "stars": 2364,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2364,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2364,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 95018,
+      "forks": 9963,
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "updated_at": "2026-11-03T20:21:08Z"
+    },
+    {
+      "full_name": "thedotmack/claude-mem",
+      "name": "thedotmack / claude-mem",
+      "description": "AI 에이전트용 영구 컨텍스트 저장 시스템. 세션 중 도구 사용 관찰을 캡처해 AI로 압축하고, 이후 세션에서 관련 컨텍스트를 주입하여 지속 가능한 메모리를 제공합니다.",
+      "domains": [
+        "AI/ML",
+        "Database"
+      ],
+      "roles": [
+        "Plugin",
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,139",
+      "trend_windows": {
+        "3d": {
+          "stars": 4468,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 7331,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 7667,
+          "observed": 6,
+          "days": 7
+        }
+      },
+      "stars": 112027,
+      "forks": 9746,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "updated_at": "2026-11-04T02:52:23Z"
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "name": "JustVugg / colibri",
+      "description": "C로 작성된 MoE 모델 추론 엔진. GPU/CUDA, Vulkan을 통해 대규모 모델을 디스크에서 스트리밍하며 로컬 하드웨어에서运行합니다.",
+      "domains": [
+        "AI/ML",
+        "Infrastructure"
+      ],
+      "roles": [
+        "Runtime",
+        "Model"
+      ],
+      "language": "C",
+      "color": "#77736b",
+      "gained": "+802",
+      "trend_windows": {
+        "3d": {
+          "stars": 1477,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1477,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1477,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 47304,
+      "forks": 5469,
+      "url": "https://github.com/JustVugg/colibri",
+      "updated_at": "2026-11-04T00:38:28Z"
+    },
+    {
+      "full_name": "p-e-w/heretic",
+      "name": "p-e-w / heretic",
+      "description": "학습 없이 언어 모델을 수정하는 파이썬 도구. 검열 제거, 쓰레기 출력 억제, 아狐谄 억제 등을 수학적 기법으로 조정합니다.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Model",
+        "Automation"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+701",
+      "trend_windows": {
+        "3d": {
+          "stars": 1121,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1121,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1121,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 38873,
+      "forks": 4389,
+      "url": "https://github.com/p-e-w/heretic",
+      "updated_at": "2026-11-03T12:23:19Z"
+    },
+    {
+      "full_name": "shiyu-coder/Kronos",
+      "name": "shiyu-coder / Kronos",
+      "description": "재무 시장 데이터(K-line)를 위한 오픈소스 기초 모델. 45개 이상의 글로벌 거래소 데이터로 사전 학습된 디코더 전용 트랜스포머로, 다양한 양적 분석 작업을 지원합니다.",
+      "domains": [
+        "AI/ML",
+        "Data"
+      ],
+      "roles": [
+        "Model"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+503",
+      "trend_windows": {
+        "3d": {
+          "stars": 1990,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1990,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1990,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 46564,
+      "forks": 7668,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "updated_at": "2026-04-13T12:38:49Z"
+    },
+    {
+      "full_name": "floci-io/floci",
+      "name": "floci-io / floci",
+      "description": "로컬 AWS 에뮬레이터. Docker 또는 네이티브 바이너리로 S3, SQS, EC2, ECS 등 AWS 서비스를 클라우드 계정 없이 로컬에서 시험/CI에 사용할 수 있습니다.",
+      "domains": [
+        "Infrastructure",
+        "DevOps"
+      ],
+      "roles": [
+        "CLI",
+        "Automation"
+      ],
+      "language": "Java",
+      "color": "#77736b",
+      "gained": "+482",
+      "trend_windows": {
+        "3d": {
+          "stars": 482,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 482,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 482,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 28883,
+      "forks": 3215,
+      "url": "https://github.com/floci-io/floci",
+      "updated_at": "2026-11-04T02:50:14Z"
+    },
+    {
+      "full_name": "max-sixty/worktrunk",
+      "name": "max-sixty / worktrunk",
+      "description": "AI 에이전트 병렬 작업을 위한 Git worktree 관리 CLI. 브랜치 이름으로 worktree를 주소로 관리하고, 복사 writable 빌드 캐시와 hooks로 병렬 개발 워크플로를 단순화합니다.",
+      "domains": [
+        "Developer Tools",
+        "DevOps"
+      ],
+      "roles": [
+        "CLI",
+        "Automation"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+438",
+      "trend_windows": {
+        "3d": {
+          "stars": 438,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 438,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 438,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 10562,
+      "forks": 383,
+      "url": "https://github.com/max-sixty/worktrunk",
+      "updated_at": "2026-11-04T00:07:51Z"
+    }
+  ]
+}
