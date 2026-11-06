@@ -1,50 +1,120 @@
 {
-  "generated_at": "2026-11-05T03:26:47.985678+00:00",
+  "generated_at": "2026-11-06T03:22:41.539550+00:00",
   "items": [
+    {
+      "full_name": "NVIDIA/auto-ontology",
+      "name": "NVIDIA / auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+2,679",
+      "trend_windows": {
+        "3d": {
+          "stars": 4729,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4729,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4729,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 7573,
+      "forks": 606,
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "updated_at": "2026-11-05T14:45:30Z"
+    },
     {
       "full_name": "vercel-labs/agent-desktop",
       "name": "vercel-labs / agent-desktop",
-      "description": "macOS, Windows, Linux에서 접근성 트리를 통해 데스크톱 앱을 조작하는 AI 에이전트용 CLI 및 C 라이브러리입니다.",
+      "description": "Computer use CLI for AI agents",
       "domains": [
-        "AI/ML",
-        "Developer Tools"
+        "AI/ML"
       ],
       "roles": [
-        "CLI",
-        "Agent"
+        "Agent",
+        "CLI"
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+2,470",
+      "gained": "+2,173",
       "trend_windows": {
         "3d": {
-          "stars": 8536,
+          "stars": 8434,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 8536,
-          "observed": 3,
+          "stars": 10709,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 8536,
-          "observed": 3,
+          "stars": 10709,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 15393,
-      "forks": 1069,
+      "stars": 17060,
+      "forks": 1204,
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "updated_at": "2026-11-05T02:49:01Z"
+      "updated_at": "2026-11-06T01:21:24Z"
     },
     {
-      "full_name": "NVIDIA/auto-ontology",
-      "name": "NVIDIA / auto-ontology",
-      "description": "엔터프라이즈 메타데이터로부터 온톨로지를 구축하고 에이전트에게 신뢰할 수 있는 비즈니스 컨텍스트를 제공하는 Python 프레임워크입니다.",
+      "full_name": "mattpocock/skills",
+      "name": "mattpocock / skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "domains": [
-        "AI/ML",
-        "Data"
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+2,071",
+      "trend_windows": {
+        "3d": {
+          "stars": 3812,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4688,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4688,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 315445,
+      "forks": 26411,
+      "url": "https://github.com/mattpocock/skills",
+      "updated_at": "2026-11-05T10:40:01Z"
+    },
+    {
+      "full_name": "D4Vinci/Scrapling",
+      "name": "D4Vinci / Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "domains": [
+        "AI/ML"
       ],
       "roles": [
         "Framework",
@@ -52,247 +122,242 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+2,050",
+      "gained": "+1,655",
       "trend_windows": {
         "3d": {
-          "stars": 2050,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2050,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2050,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 5361,
-      "forks": 416,
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "updated_at": "2026-11-04T19:31:19Z"
-    },
-    {
-      "full_name": "D4Vinci/Scrapling",
-      "name": "D4Vinci / Scrapling",
-      "description": "빠른 HTTP 요청, 스텔스 브라우저, 파싱, 동시 크롤링을 통합한 Python 웹 스크래핑 프레임워크입니다.",
-      "domains": [
-        "Developer Tools",
-        "Data"
-      ],
-      "roles": [
-        "Framework",
-        "CLI"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+2,005",
-      "trend_windows": {
-        "3d": {
-          "stars": 4369,
+          "stars": 5318,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 4369,
-          "observed": 3,
+          "stars": 6024,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 4369,
-          "observed": 3,
+          "stars": 6024,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 96751,
-      "forks": 10134,
+      "stars": 98132,
+      "forks": 10282,
       "url": "https://github.com/D4Vinci/Scrapling",
-      "updated_at": "2026-11-04T20:30:31Z"
+      "updated_at": "2026-11-05T18:01:47Z"
     },
     {
       "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
       "name": "JiaFeiMiao-K-Cat / DiscImageStudio",
-      "description": "CD, DVD, 단일 레이어 블루레이에 육안으로 보이는 이미지를 새기는 크로스플랫폼 디스크 이미지 생성 및 굽기 도구입니다.",
+      "description": "C# 프로젝트입니다.",
       "domains": [
         "Developer Tools"
       ],
       "roles": [
-        "CLI"
+        "Framework"
       ],
       "language": "C#",
       "color": "#77736b",
-      "gained": "+1,778",
+      "gained": "+984",
       "trend_windows": {
         "3d": {
-          "stars": 1778,
-          "observed": 1,
+          "stars": 2762,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 1778,
-          "observed": 1,
+          "stars": 2762,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 1778,
-          "observed": 1,
+          "stars": 2762,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 6708,
-      "forks": 238,
+      "stars": 7361,
+      "forks": 263,
       "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "updated_at": "2026-11-04T17:25:45Z"
-    },
-    {
-      "full_name": "thedotmack/claude-mem",
-      "name": "thedotmack / claude-mem",
-      "description": "에이전트 세션 간 지속 가능한 컨텍스트를 제공하며 도구 사용을 캡처하고 요약해 향후 세션에 주입합니다.",
-      "domains": [
-        "AI/ML",
-        "Developer Tools"
-      ],
-      "roles": [
-        "Plugin",
-        "Automation"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+1,172",
-      "trend_windows": {
-        "3d": {
-          "stars": 4114,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 7363,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 8839,
-          "observed": 7,
-          "days": 7
-        }
-      },
-      "stars": 112962,
-      "forks": 9807,
-      "url": "https://github.com/thedotmack/claude-mem",
-      "updated_at": "2026-11-05T02:03:51Z"
+      "updated_at": "2026-11-05T17:24:40Z"
     },
     {
       "full_name": "floci-io/floci",
       "name": "floci-io / floci",
-      "description": "계정이나 인증 없이 로컬에서 AWS 형태의 서비스를 실행하는 무료 오픈소스 AWS 에뮬레이터입니다.",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
       "domains": [
-        "Infrastructure",
-        "Developer Tools"
+        "AI/ML",
+        "DevOps"
       ],
       "roles": [
-        "Runtime",
-        "CLI"
+        "Framework"
       ],
       "language": "Java",
       "color": "#77736b",
-      "gained": "+1,090",
+      "gained": "+779",
       "trend_windows": {
         "3d": {
-          "stars": 1572,
-          "observed": 2,
+          "stars": 2351,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 1572,
-          "observed": 2,
+          "stars": 2351,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 1572,
-          "observed": 2,
+          "stars": 2351,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 29706,
-      "forks": 3283,
+      "stars": 30486,
+      "forks": 3333,
       "url": "https://github.com/floci-io/floci",
-      "updated_at": "2026-11-05T03:08:13Z"
+      "updated_at": "2026-11-05T21:02:20Z"
     },
     {
-      "full_name": "github/spec-kit",
-      "name": "github / spec-kit",
-      "description": "AI 코딩 에이전트를 위한 구조화된 프로세스, 재사용 가능한 템플릿, 문서화된 결과를 제공하는 툴킷입니다.",
+      "full_name": "scenario-labs/skills",
+      "name": "scenario-labs / skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZB",
       "domains": [
-        "Developer Tools",
         "AI/ML"
       ],
       "roles": [
-        "Framework",
-        "Workflow"
+        "Agent"
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+808",
+      "gained": "+667",
       "trend_windows": {
         "3d": {
-          "stars": 808,
+          "stars": 667,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 808,
+          "stars": 667,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 808,
+          "stars": 667,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 147390,
-      "forks": 13227,
-      "url": "https://github.com/github/spec-kit",
-      "updated_at": "2026-11-04T22:34:18Z"
+      "stars": 3136,
+      "forks": 274,
+      "url": "https://github.com/scenario-labs/skills",
+      "updated_at": "2026-11-05T23:21:04Z"
+    },
+    {
+      "full_name": "garrytan/gstack",
+      "name": "garrytan / gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+612",
+      "trend_windows": {
+        "3d": {
+          "stars": 612,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 612,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 612,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 140023,
+      "forks": 20700,
+      "url": "https://github.com/garrytan/gstack",
+      "updated_at": "2026-11-06T02:08:26Z"
     },
     {
       "full_name": "max-sixty/worktrunk",
       "name": "max-sixty / worktrunk",
-      "description": "병렬 AI 에이전트 워크플로를 위해 Git 워크트리 관리를 브랜치처럼 쉽게 만드는 CLI 도구입니다.",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "domains": [
-        "Developer Tools"
+        "AI/ML",
+        "UI/UX"
       ],
       "roles": [
-        "CLI",
-        "Automation"
+        "Agent",
+        "CLI"
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+531",
+      "gained": "+546",
       "trend_windows": {
         "3d": {
-          "stars": 969,
-          "observed": 2,
+          "stars": 1515,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 969,
-          "observed": 2,
+          "stars": 1515,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 969,
-          "observed": 2,
+          "stars": 1515,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 11107,
-      "forks": 417,
+      "stars": 11573,
+      "forks": 440,
       "url": "https://github.com/max-sixty/worktrunk",
-      "updated_at": "2026-11-04T14:07:58Z"
+      "updated_at": "2026-11-06T00:31:20Z"
+    },
+    {
+      "full_name": "Usagi-org/ai-goofish-monitor",
+      "name": "Usagi-org / ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+240",
+      "trend_windows": {
+        "3d": {
+          "stars": 240,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 240,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 240,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 17724,
+      "forks": 2964,
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "updated_at": "2026-10-10T07:39:16Z"
     }
   ]
 }
