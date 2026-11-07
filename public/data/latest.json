@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-11-06T03:22:41.539550+00:00",
+  "generated_at": "2026-11-07T02:44:15.804288+00:00",
   "items": [
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "name": "cloudflare / security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "domains": [
+        "DevOps"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+2,548",
+      "trend_windows": {
+        "3d": {
+          "stars": 2548,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2548,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2548,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 64164,
+      "forks": 4161,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "updated_at": "2026-09-14T19:29:02Z"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "name": "mattpocock / skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+2,070",
+      "trend_windows": {
+        "3d": {
+          "stars": 4999,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6758,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6758,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 316798,
+      "forks": 26505,
+      "url": "https://github.com/mattpocock/skills",
+      "updated_at": "2026-11-05T10:40:01Z"
+    },
     {
       "full_name": "NVIDIA/auto-ontology",
       "name": "NVIDIA / auto-ontology",
@@ -15,349 +85,274 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+2,679",
+      "gained": "+2,015",
       "trend_windows": {
         "3d": {
-          "stars": 4729,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 4729,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 4729,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 7573,
-      "forks": 606,
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "updated_at": "2026-11-05T14:45:30Z"
-    },
-    {
-      "full_name": "vercel-labs/agent-desktop",
-      "name": "vercel-labs / agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent",
-        "CLI"
-      ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+2,173",
-      "trend_windows": {
-        "3d": {
-          "stars": 8434,
+          "stars": 6744,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 10709,
-          "observed": 4,
+          "stars": 6744,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 10709,
-          "observed": 4,
+          "stars": 6744,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 17060,
-      "forks": 1204,
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "updated_at": "2026-11-06T01:21:24Z"
+      "stars": 9141,
+      "forks": 730,
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "updated_at": "2026-11-06T23:03:36Z"
     },
     {
-      "full_name": "mattpocock/skills",
-      "name": "mattpocock / skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "full_name": "google/skills",
+      "name": "google / skills",
+      "description": "Agent Skills for Google products and technologies",
       "domains": [
-        "AI/ML"
+        "DevOps"
       ],
       "roles": [
         "Agent"
       ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+2,071",
-      "trend_windows": {
-        "3d": {
-          "stars": 3812,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 4688,
-          "observed": 4,
-          "days": 5
-        },
-        "7d": {
-          "stars": 4688,
-          "observed": 4,
-          "days": 7
-        }
-      },
-      "stars": 315445,
-      "forks": 26411,
-      "url": "https://github.com/mattpocock/skills",
-      "updated_at": "2026-11-05T10:40:01Z"
-    },
-    {
-      "full_name": "D4Vinci/Scrapling",
-      "name": "D4Vinci / Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework",
-        "API"
-      ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+1,655",
+      "gained": "+534",
       "trend_windows": {
         "3d": {
-          "stars": 5318,
-          "observed": 3,
+          "stars": 534,
+          "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 6024,
-          "observed": 4,
+          "stars": 534,
+          "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 6024,
-          "observed": 4,
+          "stars": 534,
+          "observed": 1,
           "days": 7
         }
       },
-      "stars": 98132,
-      "forks": 10282,
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "updated_at": "2026-11-05T18:01:47Z"
+      "stars": 22868,
+      "forks": 1924,
+      "url": "https://github.com/google/skills",
+      "updated_at": "2026-11-06T22:01:22Z"
     },
     {
-      "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "name": "JiaFeiMiao-K-Cat / DiscImageStudio",
-      "description": "C# 프로젝트입니다.",
+      "full_name": "zed-industries/zed",
+      "name": "zed-industries / zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+306",
+      "trend_windows": {
+        "3d": {
+          "stars": 306,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 306,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 306,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 93690,
+      "forks": 11505,
+      "url": "https://github.com/zed-industries/zed",
+      "updated_at": "2026-11-06T20:00:38Z"
+    },
+    {
+      "full_name": "microsoft/vscode",
+      "name": "microsoft / vscode",
+      "description": "Visual Studio Code",
       "domains": [
         "Developer Tools"
       ],
       "roles": [
         "Framework"
       ],
-      "language": "C#",
-      "color": "#77736b",
-      "gained": "+984",
-      "trend_windows": {
-        "3d": {
-          "stars": 2762,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2762,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2762,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 7361,
-      "forks": 263,
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "updated_at": "2026-11-05T17:24:40Z"
-    },
-    {
-      "full_name": "floci-io/floci",
-      "name": "floci-io / floci",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "domains": [
-        "AI/ML",
-        "DevOps"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Java",
-      "color": "#77736b",
-      "gained": "+779",
-      "trend_windows": {
-        "3d": {
-          "stars": 2351,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2351,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2351,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 30486,
-      "forks": 3333,
-      "url": "https://github.com/floci-io/floci",
-      "updated_at": "2026-11-05T21:02:20Z"
-    },
-    {
-      "full_name": "scenario-labs/skills",
-      "name": "scenario-labs / skills",
-      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZB",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+667",
-      "trend_windows": {
-        "3d": {
-          "stars": 667,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 667,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 667,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 3136,
-      "forks": 274,
-      "url": "https://github.com/scenario-labs/skills",
-      "updated_at": "2026-11-05T23:21:04Z"
-    },
-    {
-      "full_name": "garrytan/gstack",
-      "name": "garrytan / gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "domains": [
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+612",
+      "gained": "+301",
       "trend_windows": {
         "3d": {
-          "stars": 612,
+          "stars": 301,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 612,
+          "stars": 301,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 612,
+          "stars": 301,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 140023,
-      "forks": 20700,
-      "url": "https://github.com/garrytan/gstack",
-      "updated_at": "2026-11-06T02:08:26Z"
+      "stars": 195038,
+      "forks": 44426,
+      "url": "https://github.com/microsoft/vscode",
+      "updated_at": "2026-11-07T02:40:20Z"
     },
     {
-      "full_name": "max-sixty/worktrunk",
-      "name": "max-sixty / worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "full_name": "react/react",
+      "name": "react / react",
+      "description": "The library for web and native user interfaces.",
       "domains": [
-        "AI/ML",
         "UI/UX"
       ],
       "roles": [
-        "Agent",
-        "CLI"
+        "SDK"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+248",
+      "trend_windows": {
+        "3d": {
+          "stars": 248,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 248,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 248,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 252274,
+      "forks": 51812,
+      "url": "https://github.com/react/react",
+      "updated_at": "2026-11-07T02:19:03Z"
+    },
+    {
+      "full_name": "rust-lang/rust",
+      "name": "rust-lang / rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+546",
+      "gained": "+192",
       "trend_windows": {
         "3d": {
-          "stars": 1515,
-          "observed": 3,
+          "stars": 192,
+          "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 1515,
-          "observed": 3,
+          "stars": 192,
+          "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 1515,
-          "observed": 3,
+          "stars": 192,
+          "observed": 1,
           "days": 7
         }
       },
-      "stars": 11573,
-      "forks": 440,
-      "url": "https://github.com/max-sixty/worktrunk",
-      "updated_at": "2026-11-06T00:31:20Z"
+      "stars": 121476,
+      "forks": 17367,
+      "url": "https://github.com/rust-lang/rust",
+      "updated_at": "2026-11-07T00:47:39Z"
     },
     {
-      "full_name": "Usagi-org/ai-goofish-monitor",
-      "name": "Usagi-org / ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "full_name": "astral-sh/ruff",
+      "name": "astral-sh / ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "domains": [
-        "AI/ML",
         "UI/UX"
       ],
       "roles": [
         "Framework"
       ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+240",
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+169",
       "trend_windows": {
         "3d": {
-          "stars": 240,
+          "stars": 169,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 240,
+          "stars": 169,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 240,
+          "stars": 169,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 17724,
-      "forks": 2964,
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "updated_at": "2026-10-10T07:39:16Z"
+      "stars": 50715,
+      "forks": 2613,
+      "url": "https://github.com/astral-sh/ruff",
+      "updated_at": "2026-11-07T02:41:20Z"
+    },
+    {
+      "full_name": "prometheus/prometheus",
+      "name": "prometheus / prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "domains": [
+        "Database",
+        "Observability"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Go",
+      "color": "#f26e1e",
+      "gained": "+148",
+      "trend_windows": {
+        "3d": {
+          "stars": 148,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 148,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 148,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 67205,
+      "forks": 10989,
+      "url": "https://github.com/prometheus/prometheus",
+      "updated_at": "2026-11-06T17:19:24Z"
     }
   ]
 }

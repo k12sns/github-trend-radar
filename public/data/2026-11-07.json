@@ -1,0 +1,358 @@
+{
+  "generated_at": "2026-11-07T02:44:15.804288+00:00",
+  "items": [
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "name": "cloudflare / security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "domains": [
+        "DevOps"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+2,548",
+      "trend_windows": {
+        "3d": {
+          "stars": 2548,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2548,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2548,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 64164,
+      "forks": 4161,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "updated_at": "2026-09-14T19:29:02Z"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "name": "mattpocock / skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+2,070",
+      "trend_windows": {
+        "3d": {
+          "stars": 4999,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6758,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6758,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 316798,
+      "forks": 26505,
+      "url": "https://github.com/mattpocock/skills",
+      "updated_at": "2026-11-05T10:40:01Z"
+    },
+    {
+      "full_name": "NVIDIA/auto-ontology",
+      "name": "NVIDIA / auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+2,015",
+      "trend_windows": {
+        "3d": {
+          "stars": 6744,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6744,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6744,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 9141,
+      "forks": 730,
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "updated_at": "2026-11-06T23:03:36Z"
+    },
+    {
+      "full_name": "google/skills",
+      "name": "google / skills",
+      "description": "Agent Skills for Google products and technologies",
+      "domains": [
+        "DevOps"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+534",
+      "trend_windows": {
+        "3d": {
+          "stars": 534,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 534,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 534,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 22868,
+      "forks": 1924,
+      "url": "https://github.com/google/skills",
+      "updated_at": "2026-11-06T22:01:22Z"
+    },
+    {
+      "full_name": "zed-industries/zed",
+      "name": "zed-industries / zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+306",
+      "trend_windows": {
+        "3d": {
+          "stars": 306,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 306,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 306,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 93690,
+      "forks": 11505,
+      "url": "https://github.com/zed-industries/zed",
+      "updated_at": "2026-11-06T20:00:38Z"
+    },
+    {
+      "full_name": "microsoft/vscode",
+      "name": "microsoft / vscode",
+      "description": "Visual Studio Code",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+301",
+      "trend_windows": {
+        "3d": {
+          "stars": 301,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 301,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 301,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 195038,
+      "forks": 44426,
+      "url": "https://github.com/microsoft/vscode",
+      "updated_at": "2026-11-07T02:40:20Z"
+    },
+    {
+      "full_name": "react/react",
+      "name": "react / react",
+      "description": "The library for web and native user interfaces.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "SDK"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+248",
+      "trend_windows": {
+        "3d": {
+          "stars": 248,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 248,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 248,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 252274,
+      "forks": 51812,
+      "url": "https://github.com/react/react",
+      "updated_at": "2026-11-07T02:19:03Z"
+    },
+    {
+      "full_name": "rust-lang/rust",
+      "name": "rust-lang / rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+192",
+      "trend_windows": {
+        "3d": {
+          "stars": 192,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 192,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 192,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 121476,
+      "forks": 17367,
+      "url": "https://github.com/rust-lang/rust",
+      "updated_at": "2026-11-07T00:47:39Z"
+    },
+    {
+      "full_name": "astral-sh/ruff",
+      "name": "astral-sh / ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+169",
+      "trend_windows": {
+        "3d": {
+          "stars": 169,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 169,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 169,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 50715,
+      "forks": 2613,
+      "url": "https://github.com/astral-sh/ruff",
+      "updated_at": "2026-11-07T02:41:20Z"
+    },
+    {
+      "full_name": "prometheus/prometheus",
+      "name": "prometheus / prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "domains": [
+        "Database",
+        "Observability"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Go",
+      "color": "#f26e1e",
+      "gained": "+148",
+      "trend_windows": {
+        "3d": {
+          "stars": 148,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 148,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 148,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 67205,
+      "forks": 10989,
+      "url": "https://github.com/prometheus/prometheus",
+      "updated_at": "2026-11-06T17:19:24Z"
+    }
+  ]
+}
