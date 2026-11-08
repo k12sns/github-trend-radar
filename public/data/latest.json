@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:44:15.804288+00:00",
+  "generated_at": "2026-11-08T02:22:18.431080+00:00",
   "items": [
     {
       "full_name": "cloudflare/security-audit-skill",
@@ -13,135 +13,64 @@
       ],
       "language": "JavaScript",
       "color": "#f5b414",
-      "gained": "+2,548",
+      "gained": "+2,085",
       "trend_windows": {
         "3d": {
-          "stars": 2548,
-          "observed": 1,
+          "stars": 4633,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 2548,
-          "observed": 1,
+          "stars": 4633,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 2548,
-          "observed": 1,
+          "stars": 4633,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 64164,
-      "forks": 4161,
+      "stars": 65812,
+      "forks": 4275,
       "url": "https://github.com/cloudflare/security-audit-skill",
       "updated_at": "2026-09-14T19:29:02Z"
     },
     {
-      "full_name": "mattpocock/skills",
-      "name": "mattpocock / skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+2,070",
-      "trend_windows": {
-        "3d": {
-          "stars": 4999,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 6758,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 6758,
-          "observed": 5,
-          "days": 7
-        }
-      },
-      "stars": 316798,
-      "forks": 26505,
-      "url": "https://github.com/mattpocock/skills",
-      "updated_at": "2026-11-05T10:40:01Z"
-    },
-    {
-      "full_name": "NVIDIA/auto-ontology",
-      "name": "NVIDIA / auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "full_name": "sherlock-project/sherlock",
+      "name": "sherlock-project / sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
       "domains": [
         "AI/ML",
         "UI/UX"
       ],
       "roles": [
-        "Agent",
-        "Framework"
+        "CLI"
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+2,015",
+      "gained": "+1,766",
       "trend_windows": {
         "3d": {
-          "stars": 6744,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 6744,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 6744,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 9141,
-      "forks": 730,
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "updated_at": "2026-11-06T23:03:36Z"
-    },
-    {
-      "full_name": "google/skills",
-      "name": "google / skills",
-      "description": "Agent Skills for Google products and technologies",
-      "domains": [
-        "DevOps"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+534",
-      "trend_windows": {
-        "3d": {
-          "stars": 534,
+          "stars": 1766,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 534,
+          "stars": 1766,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 534,
+          "stars": 1766,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 22868,
-      "forks": 1924,
-      "url": "https://github.com/google/skills",
-      "updated_at": "2026-11-06T22:01:22Z"
+      "stars": 100613,
+      "forks": 11884,
+      "url": "https://github.com/sherlock-project/sherlock",
+      "updated_at": "2026-11-07T05:13:07Z"
     },
     {
       "full_name": "zed-industries/zed",
@@ -155,133 +84,133 @@
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+306",
+      "gained": "+1,114",
       "trend_windows": {
         "3d": {
-          "stars": 306,
-          "observed": 1,
+          "stars": 1420,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 306,
-          "observed": 1,
+          "stars": 1420,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 306,
-          "observed": 1,
+          "stars": 1420,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 93690,
-      "forks": 11505,
+      "stars": 94301,
+      "forks": 11557,
       "url": "https://github.com/zed-industries/zed",
-      "updated_at": "2026-11-06T20:00:38Z"
+      "updated_at": "2026-11-07T22:34:09Z"
     },
     {
-      "full_name": "microsoft/vscode",
-      "name": "microsoft / vscode",
-      "description": "Visual Studio Code",
+      "full_name": "mattpocock/skills",
+      "name": "mattpocock / skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+1,100",
+      "trend_windows": {
+        "3d": {
+          "stars": 5241,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6982,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6982,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 317773,
+      "forks": 26583,
+      "url": "https://github.com/mattpocock/skills",
+      "updated_at": "2026-11-05T10:40:01Z"
+    },
+    {
+      "full_name": "google/skills",
+      "name": "google / skills",
+      "description": "Agent Skills for Google products and technologies",
+      "domains": [
+        "DevOps"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+443",
+      "trend_windows": {
+        "3d": {
+          "stars": 977,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 977,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 977,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 23445,
+      "forks": 1958,
+      "url": "https://github.com/google/skills",
+      "updated_at": "2026-11-07T14:41:39Z"
+    },
+    {
+      "full_name": "anthropics/skills",
+      "name": "anthropics / skills",
+      "description": "Public repository for Agent Skills",
       "domains": [
         "Developer Tools"
       ],
       "roles": [
-        "Framework"
+        "Agent"
       ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+301",
-      "trend_windows": {
-        "3d": {
-          "stars": 301,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 301,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 301,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 195038,
-      "forks": 44426,
-      "url": "https://github.com/microsoft/vscode",
-      "updated_at": "2026-11-07T02:40:20Z"
-    },
-    {
-      "full_name": "react/react",
-      "name": "react / react",
-      "description": "The library for web and native user interfaces.",
-      "domains": [
-        "UI/UX"
-      ],
-      "roles": [
-        "SDK"
-      ],
-      "language": "JavaScript",
+      "language": "Python",
       "color": "#f5b414",
-      "gained": "+248",
+      "gained": "+390",
       "trend_windows": {
         "3d": {
-          "stars": 248,
+          "stars": 390,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 248,
+          "stars": 390,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 248,
+          "stars": 390,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 252274,
-      "forks": 51812,
-      "url": "https://github.com/react/react",
-      "updated_at": "2026-11-07T02:19:03Z"
-    },
-    {
-      "full_name": "rust-lang/rust",
-      "name": "rust-lang / rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "domains": [
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+192",
-      "trend_windows": {
-        "3d": {
-          "stars": 192,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 192,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 192,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 121476,
-      "forks": 17367,
-      "url": "https://github.com/rust-lang/rust",
-      "updated_at": "2026-11-07T00:47:39Z"
+      "stars": 188841,
+      "forks": 22259,
+      "url": "https://github.com/anthropics/skills",
+      "updated_at": "2026-11-06T22:32:32Z"
     },
     {
       "full_name": "astral-sh/ruff",
@@ -295,28 +224,28 @@
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+169",
+      "gained": "+350",
       "trend_windows": {
         "3d": {
-          "stars": 169,
-          "observed": 1,
+          "stars": 519,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 169,
-          "observed": 1,
+          "stars": 519,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 169,
-          "observed": 1,
+          "stars": 519,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 50715,
-      "forks": 2613,
+      "stars": 50988,
+      "forks": 2633,
       "url": "https://github.com/astral-sh/ruff",
-      "updated_at": "2026-11-07T02:41:20Z"
+      "updated_at": "2026-11-08T02:12:59Z"
     },
     {
       "full_name": "prometheus/prometheus",
@@ -331,28 +260,100 @@
       ],
       "language": "Go",
       "color": "#f26e1e",
-      "gained": "+148",
+      "gained": "+322",
       "trend_windows": {
         "3d": {
-          "stars": 148,
+          "stars": 470,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 470,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 470,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 67454,
+      "forks": 11005,
+      "url": "https://github.com/prometheus/prometheus",
+      "updated_at": "2026-11-07T22:52:23Z"
+    },
+    {
+      "full_name": "vercel-labs/agent-browser",
+      "name": "vercel-labs / agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+190",
+      "trend_windows": {
+        "3d": {
+          "stars": 190,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 148,
+          "stars": 190,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 148,
+          "stars": 190,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 67205,
-      "forks": 10989,
-      "url": "https://github.com/prometheus/prometheus",
-      "updated_at": "2026-11-06T17:19:24Z"
+      "stars": 46883,
+      "forks": 3211,
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "updated_at": "2026-11-08T01:58:39Z"
+    },
+    {
+      "full_name": "mbillow/localthings",
+      "name": "mbillow / localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "domains": [
+        "UI/UX",
+        "DevOps"
+      ],
+      "roles": [
+        "API"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+186",
+      "trend_windows": {
+        "3d": {
+          "stars": 186,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 186,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 186,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 1072,
+      "forks": 112,
+      "url": "https://github.com/mbillow/localthings",
+      "updated_at": "2026-11-07T06:48:26Z"
     }
   ]
 }
