@@ -1,41 +1,6 @@
 {
-  "generated_at": "2026-11-08T02:22:18.431080+00:00",
+  "generated_at": "2026-11-09T02:36:35.827033+00:00",
   "items": [
-    {
-      "full_name": "cloudflare/security-audit-skill",
-      "name": "cloudflare / security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "domains": [
-        "DevOps"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+2,085",
-      "trend_windows": {
-        "3d": {
-          "stars": 4633,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 4633,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 4633,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 65812,
-      "forks": 4275,
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "updated_at": "2026-09-14T19:29:02Z"
-    },
     {
       "full_name": "sherlock-project/sherlock",
       "name": "sherlock-project / sherlock",
@@ -49,239 +14,63 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+1,766",
+      "gained": "+2,373",
       "trend_windows": {
         "3d": {
-          "stars": 1766,
-          "observed": 1,
+          "stars": 4139,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 1766,
-          "observed": 1,
+          "stars": 4139,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 1766,
-          "observed": 1,
+          "stars": 4139,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 100613,
-      "forks": 11884,
+      "stars": 103929,
+      "forks": 12153,
       "url": "https://github.com/sherlock-project/sherlock",
-      "updated_at": "2026-11-07T05:13:07Z"
+      "updated_at": "2026-11-08T05:13:22Z"
     },
     {
-      "full_name": "zed-industries/zed",
-      "name": "zed-industries / zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "full_name": "meta/astryx",
+      "name": "meta / astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
       "domains": [
         "UI/UX"
       ],
       "roles": [
-        "Framework"
+        "Agent"
       ],
-      "language": "Rust",
+      "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+1,114",
+      "gained": "+875",
       "trend_windows": {
         "3d": {
-          "stars": 1420,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1420,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1420,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 94301,
-      "forks": 11557,
-      "url": "https://github.com/zed-industries/zed",
-      "updated_at": "2026-11-07T22:34:09Z"
-    },
-    {
-      "full_name": "mattpocock/skills",
-      "name": "mattpocock / skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+1,100",
-      "trend_windows": {
-        "3d": {
-          "stars": 5241,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 6982,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 6982,
-          "observed": 5,
-          "days": 7
-        }
-      },
-      "stars": 317773,
-      "forks": 26583,
-      "url": "https://github.com/mattpocock/skills",
-      "updated_at": "2026-11-05T10:40:01Z"
-    },
-    {
-      "full_name": "google/skills",
-      "name": "google / skills",
-      "description": "Agent Skills for Google products and technologies",
-      "domains": [
-        "DevOps"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+443",
-      "trend_windows": {
-        "3d": {
-          "stars": 977,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 977,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 977,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 23445,
-      "forks": 1958,
-      "url": "https://github.com/google/skills",
-      "updated_at": "2026-11-07T14:41:39Z"
-    },
-    {
-      "full_name": "anthropics/skills",
-      "name": "anthropics / skills",
-      "description": "Public repository for Agent Skills",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+390",
-      "trend_windows": {
-        "3d": {
-          "stars": 390,
+          "stars": 875,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 390,
+          "stars": 875,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 390,
+          "stars": 875,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 188841,
-      "forks": 22259,
-      "url": "https://github.com/anthropics/skills",
-      "updated_at": "2026-11-06T22:32:32Z"
-    },
-    {
-      "full_name": "astral-sh/ruff",
-      "name": "astral-sh / ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "domains": [
-        "UI/UX"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+350",
-      "trend_windows": {
-        "3d": {
-          "stars": 519,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 519,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 519,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 50988,
-      "forks": 2633,
-      "url": "https://github.com/astral-sh/ruff",
-      "updated_at": "2026-11-08T02:12:59Z"
-    },
-    {
-      "full_name": "prometheus/prometheus",
-      "name": "prometheus / prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "domains": [
-        "Database",
-        "Observability"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Go",
-      "color": "#f26e1e",
-      "gained": "+322",
-      "trend_windows": {
-        "3d": {
-          "stars": 470,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 470,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 470,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 67454,
-      "forks": 11005,
-      "url": "https://github.com/prometheus/prometheus",
-      "updated_at": "2026-11-07T22:52:23Z"
+      "stars": 17060,
+      "forks": 1348,
+      "url": "https://github.com/meta/astryx",
+      "updated_at": "2026-11-09T02:36:10Z"
     },
     {
       "full_name": "vercel-labs/agent-browser",
@@ -296,33 +85,139 @@
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+190",
+      "gained": "+815",
       "trend_windows": {
         "3d": {
-          "stars": 190,
+          "stars": 1005,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1005,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1005,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 47705,
+      "forks": 3265,
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "updated_at": "2026-11-08T10:03:53Z"
+    },
+    {
+      "full_name": "anthropics/skills",
+      "name": "anthropics / skills",
+      "description": "Public repository for Agent Skills",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+792",
+      "trend_windows": {
+        "3d": {
+          "stars": 1182,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1182,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1182,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 189738,
+      "forks": 22353,
+      "url": "https://github.com/anthropics/skills",
+      "updated_at": "2026-11-06T22:32:32Z"
+    },
+    {
+      "full_name": "dsx-ai-factory/nvke",
+      "name": "dsx-ai-factory / nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "domains": [
+        "AI/ML",
+        "DevOps"
+      ],
+      "roles": [
+        "API"
+      ],
+      "language": "Go",
+      "color": "#f26e1e",
+      "gained": "+345",
+      "trend_windows": {
+        "3d": {
+          "stars": 345,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 190,
+          "stars": 345,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 190,
+          "stars": 345,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 46883,
-      "forks": 3211,
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "updated_at": "2026-11-08T01:58:39Z"
+      "stars": 882,
+      "forks": 111,
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "updated_at": "2026-11-07T02:09:56Z"
     },
     {
-      "full_name": "mbillow/localthings",
-      "name": "mbillow / localthings",
-      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "full_name": "google-deepmind/mujoco",
+      "name": "google-deepmind / mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C++",
+      "color": "#b23ad5",
+      "gained": "+41",
+      "trend_windows": {
+        "3d": {
+          "stars": 41,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 41,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 41,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 16461,
+      "forks": 1954,
+      "url": "https://github.com/google-deepmind/mujoco",
+      "updated_at": "2026-11-08T23:35:03Z"
+    },
+    {
+      "full_name": "anthropics/claude-quickstarts",
+      "name": "anthropics / claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "domains": [
         "UI/UX",
         "DevOps"
@@ -332,28 +227,28 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+186",
+      "gained": "+32",
       "trend_windows": {
         "3d": {
-          "stars": 186,
+          "stars": 32,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 186,
+          "stars": 32,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 186,
+          "stars": 32,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 1072,
-      "forks": 112,
-      "url": "https://github.com/mbillow/localthings",
-      "updated_at": "2026-11-07T06:48:26Z"
+      "stars": 19481,
+      "forks": 3281,
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "updated_at": "2026-11-06T19:37:57Z"
     }
   ]
 }

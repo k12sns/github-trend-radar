@@ -1,0 +1,254 @@
+{
+  "generated_at": "2026-11-09T02:36:35.827033+00:00",
+  "items": [
+    {
+      "full_name": "sherlock-project/sherlock",
+      "name": "sherlock-project / sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+2,373",
+      "trend_windows": {
+        "3d": {
+          "stars": 4139,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4139,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4139,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 103929,
+      "forks": 12153,
+      "url": "https://github.com/sherlock-project/sherlock",
+      "updated_at": "2026-11-08T05:13:22Z"
+    },
+    {
+      "full_name": "meta/astryx",
+      "name": "meta / astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+875",
+      "trend_windows": {
+        "3d": {
+          "stars": 875,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 875,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 875,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 17060,
+      "forks": 1348,
+      "url": "https://github.com/meta/astryx",
+      "updated_at": "2026-11-09T02:36:10Z"
+    },
+    {
+      "full_name": "vercel-labs/agent-browser",
+      "name": "vercel-labs / agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+815",
+      "trend_windows": {
+        "3d": {
+          "stars": 1005,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1005,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1005,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 47705,
+      "forks": 3265,
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "updated_at": "2026-11-08T10:03:53Z"
+    },
+    {
+      "full_name": "anthropics/skills",
+      "name": "anthropics / skills",
+      "description": "Public repository for Agent Skills",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+792",
+      "trend_windows": {
+        "3d": {
+          "stars": 1182,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1182,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1182,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 189738,
+      "forks": 22353,
+      "url": "https://github.com/anthropics/skills",
+      "updated_at": "2026-11-06T22:32:32Z"
+    },
+    {
+      "full_name": "dsx-ai-factory/nvke",
+      "name": "dsx-ai-factory / nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "domains": [
+        "AI/ML",
+        "DevOps"
+      ],
+      "roles": [
+        "API"
+      ],
+      "language": "Go",
+      "color": "#f26e1e",
+      "gained": "+345",
+      "trend_windows": {
+        "3d": {
+          "stars": 345,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 345,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 345,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 882,
+      "forks": 111,
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "updated_at": "2026-11-07T02:09:56Z"
+    },
+    {
+      "full_name": "google-deepmind/mujoco",
+      "name": "google-deepmind / mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C++",
+      "color": "#b23ad5",
+      "gained": "+41",
+      "trend_windows": {
+        "3d": {
+          "stars": 41,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 41,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 41,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 16461,
+      "forks": 1954,
+      "url": "https://github.com/google-deepmind/mujoco",
+      "updated_at": "2026-11-08T23:35:03Z"
+    },
+    {
+      "full_name": "anthropics/claude-quickstarts",
+      "name": "anthropics / claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "domains": [
+        "UI/UX",
+        "DevOps"
+      ],
+      "roles": [
+        "API"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+32",
+      "trend_windows": {
+        "3d": {
+          "stars": 32,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 32,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 32,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 19481,
+      "forks": 3281,
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "updated_at": "2026-11-06T19:37:57Z"
+    }
+  ]
+}
