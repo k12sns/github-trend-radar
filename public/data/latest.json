@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T02:43:48.307276+00:00",
+  "generated_at": "2026-11-12T03:46:11.909428+00:00",
   "items": [
     {
       "full_name": "meta/astryx",
@@ -13,169 +13,98 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+3,108",
+      "gained": "+2,776",
       "trend_windows": {
         "3d": {
-          "stars": 7261,
+          "stars": 9162,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 7261,
-          "observed": 3,
+          "stars": 10037,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 7261,
-          "observed": 3,
+          "stars": 10037,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 23097,
-      "forks": 1832,
+      "stars": 25254,
+      "forks": 1967,
       "url": "https://github.com/meta/astryx",
-      "updated_at": "2026-11-11T02:41:45Z"
+      "updated_at": "2026-11-12T03:43:49Z"
     },
     {
-      "full_name": "sherlock-project/sherlock",
-      "name": "sherlock-project / sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "CLI"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+2,393",
-      "trend_windows": {
-        "3d": {
-          "stars": 9033,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 10799,
-          "observed": 4,
-          "days": 5
-        },
-        "7d": {
-          "stars": 10799,
-          "observed": 4,
-          "days": 7
-        }
-      },
-      "stars": 109104,
-      "forks": 12672,
-      "url": "https://github.com/sherlock-project/sherlock",
-      "updated_at": "2026-11-10T05:13:55Z"
-    },
-    {
-      "full_name": "anthropics/skills",
-      "name": "anthropics / skills",
-      "description": "Public repository for Agent Skills",
+      "full_name": "we-promise/sure",
+      "name": "we-promise / sure",
+      "description": "The personal finance app for everyone (by everyone)",
       "domains": [
         "Developer Tools"
       ],
       "roles": [
-        "Agent"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+1,679",
-      "trend_windows": {
-        "3d": {
-          "stars": 3509,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 3899,
-          "observed": 4,
-          "days": 5
-        },
-        "7d": {
-          "stars": 3899,
-          "observed": 4,
-          "days": 7
-        }
-      },
-      "stars": 192410,
-      "forks": 22652,
-      "url": "https://github.com/anthropics/skills",
-      "updated_at": "2026-11-06T22:32:32Z"
-    },
-    {
-      "full_name": "mattpocock/skills",
-      "name": "mattpocock / skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+1,225",
-      "trend_windows": {
-        "3d": {
-          "stars": 4395,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 6466,
-          "observed": 4,
-          "days": 5
-        },
-        "7d": {
-          "stars": 6466,
-          "observed": 4,
-          "days": 7
-        }
-      },
-      "stars": 321016,
-      "forks": 26913,
-      "url": "https://github.com/mattpocock/skills",
-      "updated_at": "2026-11-09T14:03:07Z"
-    },
-    {
-      "full_name": "homeassistant-ai/ha-mcp",
-      "name": "homeassistant-ai / ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
         "Framework"
       ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+790",
+      "language": "Ruby",
+      "color": "#77736b",
+      "gained": "+1,078",
       "trend_windows": {
         "3d": {
-          "stars": 821,
+          "stars": 1078,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1078,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1078,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 13077,
+      "forks": 962,
+      "url": "https://github.com/we-promise/sure",
+      "updated_at": "2026-11-12T03:30:43Z"
+    },
+    {
+      "full_name": "addyosmani/agent-skills",
+      "name": "addyosmani / agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+787",
+      "trend_windows": {
+        "3d": {
+          "stars": 1252,
           "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 821,
+          "stars": 1252,
           "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 821,
+          "stars": 1252,
           "observed": 2,
           "days": 7
         }
       },
-      "stars": 6721,
-      "forks": 432,
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "updated_at": "2026-11-11T00:27:16Z"
+      "stars": 116054,
+      "forks": 12170,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "updated_at": "2026-11-01T19:24:49Z"
     },
     {
       "full_name": "vercel-labs/agent-browser",
@@ -190,169 +119,204 @@
       ],
       "language": "Rust",
       "color": "#4778d7",
-      "gained": "+780",
+      "gained": "+708",
       "trend_windows": {
         "3d": {
-          "stars": 2511,
+          "stars": 2404,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 2701,
-          "observed": 4,
+          "stars": 3409,
+          "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 2701,
-          "observed": 4,
+          "stars": 3409,
+          "observed": 5,
           "days": 7
         }
       },
-      "stars": 49291,
-      "forks": 3452,
+      "stars": 49964,
+      "forks": 3492,
       "url": "https://github.com/vercel-labs/agent-browser",
-      "updated_at": "2026-11-11T00:34:33Z"
+      "updated_at": "2026-11-12T02:52:28Z"
     },
     {
-      "full_name": "anthropics/claude-quickstarts",
-      "name": "anthropics / claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "full_name": "homeassistant-ai/ha-mcp",
+      "name": "homeassistant-ai / ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "domains": [
-        "UI/UX",
-        "DevOps"
+        "AI/ML"
       ],
       "roles": [
-        "API"
+        "Framework"
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+531",
+      "gained": "+645",
       "trend_windows": {
         "3d": {
-          "stars": 1114,
+          "stars": 1466,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 1114,
+          "stars": 1466,
           "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 1114,
+          "stars": 1466,
           "observed": 3,
           "days": 7
         }
       },
-      "stars": 20536,
-      "forks": 3471,
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "updated_at": "2026-11-06T19:37:57Z"
+      "stars": 7452,
+      "forks": 455,
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "updated_at": "2026-11-12T02:44:58Z"
     },
     {
-      "full_name": "addyosmani/agent-skills",
-      "name": "addyosmani / agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "name": "ZhuLinsen / daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "domains": [
         "AI/ML"
       ],
       "roles": [
         "Agent"
       ],
-      "language": "JavaScript",
+      "language": "Python",
       "color": "#f5b414",
-      "gained": "+465",
+      "gained": "+278",
       "trend_windows": {
         "3d": {
-          "stars": 465,
-          "observed": 1,
+          "stars": 784,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 465,
-          "observed": 1,
+          "stars": 784,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 465,
-          "observed": 1,
+          "stars": 784,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 115234,
-      "forks": 12100,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "updated_at": "2026-11-01T19:24:49Z"
+      "stars": 70466,
+      "forks": 56919,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "updated_at": "2026-11-10T11:51:09Z"
     },
     {
-      "full_name": "google-deepmind/mujoco",
-      "name": "google-deepmind / mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "C++",
-      "color": "#b23ad5",
-      "gained": "+456",
-      "trend_windows": {
-        "3d": {
-          "stars": 1071,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1071,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1071,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 17413,
-      "forks": 2148,
-      "url": "https://github.com/google-deepmind/mujoco",
-      "updated_at": "2026-11-10T20:50:33Z"
-    },
-    {
-      "full_name": "tokio-rs/topcoat",
-      "name": "tokio-rs / topcoat",
-      "description": "A batteries-included framework for building web apps",
+      "full_name": "GoogleChrome/modern-web-guidance-src",
+      "name": "GoogleChrome / modern-web-guidance-src",
+      "description": "TypeScript 프로젝트입니다.",
       "domains": [
         "UI/UX"
       ],
       "roles": [
         "Framework"
       ],
-      "language": "Rust",
+      "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+192",
+      "gained": "+159",
       "trend_windows": {
         "3d": {
-          "stars": 192,
+          "stars": 159,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 192,
+          "stars": 159,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 192,
+          "stars": 159,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 6875,
-      "forks": 304,
-      "url": "https://github.com/tokio-rs/topcoat",
-      "updated_at": "2026-11-10T18:32:12Z"
+      "stars": 1893,
+      "forks": 147,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "updated_at": "2026-11-12T03:40:40Z"
+    },
+    {
+      "full_name": "openai/codex-security",
+      "name": "openai / codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "SDK",
+        "CLI"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+52",
+      "trend_windows": {
+        "3d": {
+          "stars": 52,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 52,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 52,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 11840,
+      "forks": 945,
+      "url": "https://github.com/openai/codex-security",
+      "updated_at": "2026-11-12T02:23:04Z"
+    },
+    {
+      "full_name": "TheAlgorithms/Java",
+      "name": "TheAlgorithms / Java",
+      "description": "All Algorithms implemented in Java",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Java",
+      "color": "#77736b",
+      "gained": "+51",
+      "trend_windows": {
+        "3d": {
+          "stars": 51,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 51,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 51,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 67089,
+      "forks": 21514,
+      "url": "https://github.com/TheAlgorithms/Java",
+      "updated_at": "2026-11-11T21:56:41Z"
     }
   ]
 }
