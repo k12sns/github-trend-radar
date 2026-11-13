@@ -1,0 +1,357 @@
+{
+  "generated_at": "2026-11-13T03:22:32.721751+00:00",
+  "items": [
+    {
+      "full_name": "meta/astryx",
+      "name": "meta / astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,830",
+      "trend_windows": {
+        "3d": {
+          "stars": 7714,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 11867,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 11867,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 26705,
+      "forks": 2070,
+      "url": "https://github.com/meta/astryx",
+      "updated_at": "2026-11-13T03:14:26Z"
+    },
+    {
+      "full_name": "we-promise/sure",
+      "name": "we-promise / sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Ruby",
+      "color": "#77736b",
+      "gained": "+967",
+      "trend_windows": {
+        "3d": {
+          "stars": 2045,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2045,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2045,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 14024,
+      "forks": 1052,
+      "url": "https://github.com/we-promise/sure",
+      "updated_at": "2026-11-12T23:09:43Z"
+    },
+    {
+      "full_name": "addyosmani/agent-skills",
+      "name": "addyosmani / agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+816",
+      "trend_windows": {
+        "3d": {
+          "stars": 2068,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2068,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2068,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 116754,
+      "forks": 12212,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "updated_at": "2026-11-01T19:24:49Z"
+    },
+    {
+      "full_name": "GoogleChrome/modern-web-guidance-src",
+      "name": "GoogleChrome / modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+739",
+      "trend_windows": {
+        "3d": {
+          "stars": 898,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 898,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 898,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 3267,
+      "forks": 208,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "updated_at": "2026-11-13T02:33:51Z"
+    },
+    {
+      "full_name": "openai/codex-security",
+      "name": "openai / codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "SDK",
+        "CLI"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+643",
+      "trend_windows": {
+        "3d": {
+          "stars": 695,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 695,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 695,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 12533,
+      "forks": 980,
+      "url": "https://github.com/openai/codex-security",
+      "updated_at": "2026-11-13T01:12:48Z"
+    },
+    {
+      "full_name": "pookjw/HermesEnabler",
+      "name": "pookjw / HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Objective-C",
+      "color": "#77736b",
+      "gained": "+218",
+      "trend_windows": {
+        "3d": {
+          "stars": 218,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 218,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 218,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 1585,
+      "forks": 142,
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "updated_at": "2026-11-13T01:55:40Z"
+    },
+    {
+      "full_name": "ggml-org/llama.cpp",
+      "name": "ggml-org / llama.cpp",
+      "description": "LLM inference in C/C++",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C++",
+      "color": "#b23ad5",
+      "gained": "+176",
+      "trend_windows": {
+        "3d": {
+          "stars": 176,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 176,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 176,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 134621,
+      "forks": 25514,
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "updated_at": "2026-11-13T01:13:28Z"
+    },
+    {
+      "full_name": "QwenLM/qwen-code",
+      "name": "QwenLM / qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+151",
+      "trend_windows": {
+        "3d": {
+          "stars": 151,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 151,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 151,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 29881,
+      "forks": 3402,
+      "url": "https://github.com/QwenLM/qwen-code",
+      "updated_at": "2026-11-13T03:13:07Z"
+    },
+    {
+      "full_name": "nvm-sh/nvm",
+      "name": "nvm-sh / nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+63",
+      "trend_windows": {
+        "3d": {
+          "stars": 63,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 63,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 63,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 96031,
+      "forks": 10760,
+      "url": "https://github.com/nvm-sh/nvm",
+      "updated_at": "2026-11-12T05:50:45Z"
+    },
+    {
+      "full_name": "nodejs/node",
+      "name": "nodejs / node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+62",
+      "trend_windows": {
+        "3d": {
+          "stars": 62,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 62,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 62,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 123618,
+      "forks": 38057,
+      "url": "https://github.com/nodejs/node",
+      "updated_at": "2026-11-13T01:20:19Z"
+    }
+  ]
+}
