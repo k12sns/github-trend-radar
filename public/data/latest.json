@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-13T03:22:32.721751+00:00",
+  "generated_at": "2026-11-14T03:07:41.884755+00:00",
   "items": [
     {
-      "full_name": "meta/astryx",
-      "name": "meta / astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "full_name": "GoogleChrome/modern-web-guidance-src",
+      "name": "GoogleChrome / modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
       "domains": [
         "UI/UX"
       ],
@@ -13,28 +13,28 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+1,830",
+      "gained": "+1,925",
       "trend_windows": {
         "3d": {
-          "stars": 7714,
+          "stars": 2823,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 11867,
-          "observed": 5,
+          "stars": 2823,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 11867,
-          "observed": 5,
+          "stars": 2823,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 26705,
-      "forks": 2070,
-      "url": "https://github.com/meta/astryx",
-      "updated_at": "2026-11-13T03:14:26Z"
+      "stars": 4950,
+      "forks": 273,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "updated_at": "2026-11-14T02:08:33Z"
     },
     {
       "full_name": "we-promise/sure",
@@ -48,98 +48,28 @@
       ],
       "language": "Ruby",
       "color": "#77736b",
-      "gained": "+967",
+      "gained": "+925",
       "trend_windows": {
         "3d": {
-          "stars": 2045,
-          "observed": 2,
+          "stars": 2970,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 2045,
-          "observed": 2,
+          "stars": 2970,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 2045,
-          "observed": 2,
+          "stars": 2970,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 14024,
-      "forks": 1052,
+      "stars": 14797,
+      "forks": 1126,
       "url": "https://github.com/we-promise/sure",
-      "updated_at": "2026-11-12T23:09:43Z"
-    },
-    {
-      "full_name": "addyosmani/agent-skills",
-      "name": "addyosmani / agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "JavaScript",
-      "color": "#f5b414",
-      "gained": "+816",
-      "trend_windows": {
-        "3d": {
-          "stars": 2068,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2068,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2068,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 116754,
-      "forks": 12212,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "updated_at": "2026-11-01T19:24:49Z"
-    },
-    {
-      "full_name": "GoogleChrome/modern-web-guidance-src",
-      "name": "GoogleChrome / modern-web-guidance-src",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "domains": [
-        "UI/UX"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+739",
-      "trend_windows": {
-        "3d": {
-          "stars": 898,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 898,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 898,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 3267,
-      "forks": 208,
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "updated_at": "2026-11-13T02:33:51Z"
+      "updated_at": "2026-11-14T02:18:39Z"
     },
     {
       "full_name": "openai/codex-security",
@@ -154,68 +84,68 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+643",
+      "gained": "+751",
       "trend_windows": {
         "3d": {
-          "stars": 695,
-          "observed": 2,
+          "stars": 1446,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 695,
-          "observed": 2,
+          "stars": 1446,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 695,
-          "observed": 2,
+          "stars": 1446,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 12533,
-      "forks": 980,
+      "stars": 13177,
+      "forks": 1027,
       "url": "https://github.com/openai/codex-security",
-      "updated_at": "2026-11-13T01:12:48Z"
+      "updated_at": "2026-11-14T03:05:46Z"
     },
     {
-      "full_name": "pookjw/HermesEnabler",
-      "name": "pookjw / HermesEnabler",
-      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "name": "ZhuLinsen / daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "domains": [
-        "Developer Tools"
+        "AI/ML"
       ],
       "roles": [
-        "Framework"
+        "Agent"
       ],
-      "language": "Objective-C",
-      "color": "#77736b",
-      "gained": "+218",
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+256",
       "trend_windows": {
         "3d": {
-          "stars": 218,
-          "observed": 1,
+          "stars": 1040,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 218,
-          "observed": 1,
+          "stars": 1040,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 218,
-          "observed": 1,
+          "stars": 1040,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 1585,
-      "forks": 142,
-      "url": "https://github.com/pookjw/HermesEnabler",
-      "updated_at": "2026-11-13T01:55:40Z"
+      "stars": 71705,
+      "forks": 57320,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "updated_at": "2026-11-14T02:54:33Z"
     },
     {
-      "full_name": "ggml-org/llama.cpp",
-      "name": "ggml-org / llama.cpp",
-      "description": "LLM inference in C/C++",
+      "full_name": "Likely7/Veyra-NRVideo",
+      "name": "Likely7 / Veyra-NRVideo",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and ",
       "domains": [
         "AI/ML"
       ],
@@ -224,35 +154,106 @@
       ],
       "language": "C++",
       "color": "#b23ad5",
-      "gained": "+176",
+      "gained": "+256",
       "trend_windows": {
         "3d": {
-          "stars": 176,
+          "stars": 256,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 176,
+          "stars": 256,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 176,
+          "stars": 256,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 134621,
-      "forks": 25514,
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "updated_at": "2026-11-13T01:13:28Z"
+      "stars": 1648,
+      "forks": 73,
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "updated_at": "2026-11-11T16:43:44Z"
     },
     {
-      "full_name": "QwenLM/qwen-code",
-      "name": "QwenLM / qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
+      "full_name": "tailscale/tailcat",
+      "name": "tailscale / tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "domains": [
         "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Go",
+      "color": "#f26e1e",
+      "gained": "+256",
+      "trend_windows": {
+        "3d": {
+          "stars": 256,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 256,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 256,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 9500,
+      "forks": 433,
+      "url": "https://github.com/tailscale/tailcat",
+      "updated_at": "2026-11-05T15:10:23Z"
+    },
+    {
+      "full_name": "alibaba/open-code-review",
+      "name": "alibaba / open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), Ope",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Go",
+      "color": "#f26e1e",
+      "gained": "+215",
+      "trend_windows": {
+        "3d": {
+          "stars": 215,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 215,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 215,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 50713,
+      "forks": 3774,
+      "url": "https://github.com/alibaba/open-code-review",
+      "updated_at": "2026-11-14T01:29:46Z"
+    },
+    {
+      "full_name": "backnotprop/plannotator",
+      "name": "backnotprop / plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "domains": [
+        "Developer Tools"
       ],
       "roles": [
         "Agent",
@@ -260,98 +261,99 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+151",
+      "gained": "+108",
       "trend_windows": {
         "3d": {
-          "stars": 151,
+          "stars": 108,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 151,
+          "stars": 108,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 151,
+          "stars": 108,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 29881,
-      "forks": 3402,
-      "url": "https://github.com/QwenLM/qwen-code",
-      "updated_at": "2026-11-13T03:13:07Z"
+      "stars": 10507,
+      "forks": 790,
+      "url": "https://github.com/backnotprop/plannotator",
+      "updated_at": "2026-11-14T02:39:27Z"
     },
     {
-      "full_name": "nvm-sh/nvm",
-      "name": "nvm-sh / nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "full_name": "block/buzz",
+      "name": "block / buzz",
+      "description": "A hive mind communication platform",
       "domains": [
         "Developer Tools"
       ],
       "roles": [
         "Framework"
       ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+63",
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+97",
       "trend_windows": {
         "3d": {
-          "stars": 63,
+          "stars": 97,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 63,
+          "stars": 97,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 63,
+          "stars": 97,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 96031,
-      "forks": 10760,
-      "url": "https://github.com/nvm-sh/nvm",
-      "updated_at": "2026-11-12T05:50:45Z"
+      "stars": 37318,
+      "forks": 4942,
+      "url": "https://github.com/block/buzz",
+      "updated_at": "2026-11-14T02:28:22Z"
     },
     {
-      "full_name": "nodejs/node",
-      "name": "nodejs / node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "full_name": "louislam/uptime-kuma",
+      "name": "louislam / uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
       "domains": [
-        "UI/UX"
+        "UI/UX",
+        "DevOps"
       ],
       "roles": [
         "Framework"
       ],
       "language": "JavaScript",
       "color": "#f5b414",
-      "gained": "+62",
+      "gained": "+71",
       "trend_windows": {
         "3d": {
-          "stars": 62,
+          "stars": 71,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 62,
+          "stars": 71,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 62,
+          "stars": 71,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 123618,
-      "forks": 38057,
-      "url": "https://github.com/nodejs/node",
-      "updated_at": "2026-11-13T01:20:19Z"
+      "stars": 93892,
+      "forks": 8724,
+      "url": "https://github.com/louislam/uptime-kuma",
+      "updated_at": "2026-11-14T00:04:41Z"
     }
   ]
 }
