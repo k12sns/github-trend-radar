@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T03:07:41.884755+00:00",
+  "generated_at": "2026-11-15T02:35:37.465007+00:00",
   "items": [
     {
       "full_name": "GoogleChrome/modern-web-guidance-src",
@@ -13,204 +13,28 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+1,925",
+      "gained": "+1,231",
       "trend_windows": {
         "3d": {
-          "stars": 2823,
+          "stars": 3895,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 2823,
-          "observed": 3,
+          "stars": 4054,
+          "observed": 4,
           "days": 5
         },
         "7d": {
-          "stars": 2823,
-          "observed": 3,
+          "stars": 4054,
+          "observed": 4,
           "days": 7
         }
       },
-      "stars": 4950,
-      "forks": 273,
+      "stars": 6127,
+      "forks": 411,
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "updated_at": "2026-11-14T02:08:33Z"
-    },
-    {
-      "full_name": "we-promise/sure",
-      "name": "we-promise / sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Ruby",
-      "color": "#77736b",
-      "gained": "+925",
-      "trend_windows": {
-        "3d": {
-          "stars": 2970,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2970,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2970,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 14797,
-      "forks": 1126,
-      "url": "https://github.com/we-promise/sure",
-      "updated_at": "2026-11-14T02:18:39Z"
-    },
-    {
-      "full_name": "openai/codex-security",
-      "name": "openai / codex-security",
-      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "SDK",
-        "CLI"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+751",
-      "trend_windows": {
-        "3d": {
-          "stars": 1446,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1446,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1446,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 13177,
-      "forks": 1027,
-      "url": "https://github.com/openai/codex-security",
-      "updated_at": "2026-11-14T03:05:46Z"
-    },
-    {
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "name": "ZhuLinsen / daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+256",
-      "trend_windows": {
-        "3d": {
-          "stars": 1040,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1040,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1040,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 71705,
-      "forks": 57320,
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "updated_at": "2026-11-14T02:54:33Z"
-    },
-    {
-      "full_name": "Likely7/Veyra-NRVideo",
-      "name": "Likely7 / Veyra-NRVideo",
-      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and ",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "C++",
-      "color": "#b23ad5",
-      "gained": "+256",
-      "trend_windows": {
-        "3d": {
-          "stars": 256,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 256,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 256,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 1648,
-      "forks": 73,
-      "url": "https://github.com/Likely7/Veyra-NRVideo",
-      "updated_at": "2026-11-11T16:43:44Z"
-    },
-    {
-      "full_name": "tailscale/tailcat",
-      "name": "tailscale / tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Go",
-      "color": "#f26e1e",
-      "gained": "+256",
-      "trend_windows": {
-        "3d": {
-          "stars": 256,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 256,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 256,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 9500,
-      "forks": 433,
-      "url": "https://github.com/tailscale/tailcat",
-      "updated_at": "2026-11-05T15:10:23Z"
+      "updated_at": "2026-11-14T14:28:09Z"
     },
     {
       "full_name": "alibaba/open-code-review",
@@ -225,99 +49,136 @@
       ],
       "language": "Go",
       "color": "#f26e1e",
-      "gained": "+215",
+      "gained": "+893",
       "trend_windows": {
         "3d": {
-          "stars": 215,
-          "observed": 1,
+          "stars": 1108,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 215,
-          "observed": 1,
+          "stars": 1108,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 215,
-          "observed": 1,
+          "stars": 1108,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 50713,
-      "forks": 3774,
+      "stars": 51477,
+      "forks": 3912,
       "url": "https://github.com/alibaba/open-code-review",
-      "updated_at": "2026-11-14T01:29:46Z"
+      "updated_at": "2026-11-15T02:22:32Z"
     },
     {
-      "full_name": "backnotprop/plannotator",
-      "name": "backnotprop / plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "name": "ChromeDevTools / chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
       "domains": [
         "Developer Tools"
       ],
       "roles": [
         "Agent",
-        "CLI"
+        "API"
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+108",
+      "gained": "+664",
       "trend_windows": {
         "3d": {
-          "stars": 108,
+          "stars": 664,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 108,
+          "stars": 664,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 108,
+          "stars": 664,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 10507,
-      "forks": 790,
-      "url": "https://github.com/backnotprop/plannotator",
-      "updated_at": "2026-11-14T02:39:27Z"
+      "stars": 56344,
+      "forks": 4760,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "updated_at": "2026-11-15T01:05:52Z"
     },
     {
-      "full_name": "block/buzz",
-      "name": "block / buzz",
-      "description": "A hive mind communication platform",
+      "full_name": "we-promise/sure",
+      "name": "we-promise / sure",
+      "description": "The personal finance app for everyone (by everyone)",
       "domains": [
         "Developer Tools"
       ],
       "roles": [
         "Framework"
       ],
-      "language": "Rust",
-      "color": "#4778d7",
-      "gained": "+97",
+      "language": "Ruby",
+      "color": "#77736b",
+      "gained": "+659",
       "trend_windows": {
         "3d": {
-          "stars": 97,
+          "stars": 2551,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3629,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3629,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 15352,
+      "forks": 1272,
+      "url": "https://github.com/we-promise/sure",
+      "updated_at": "2026-11-15T02:31:34Z"
+    },
+    {
+      "full_name": "dream-num/univer",
+      "name": "dream-num / univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent",
+        "SDK"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+495",
+      "trend_windows": {
+        "3d": {
+          "stars": 495,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 97,
+          "stars": 495,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 97,
+          "stars": 495,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 37318,
-      "forks": 4942,
-      "url": "https://github.com/block/buzz",
-      "updated_at": "2026-11-14T02:28:22Z"
+      "stars": 24530,
+      "forks": 2228,
+      "url": "https://github.com/dream-num/univer",
+      "updated_at": "2026-11-14T17:23:40Z"
     },
     {
       "full_name": "louislam/uptime-kuma",
@@ -332,28 +193,171 @@
       ],
       "language": "JavaScript",
       "color": "#f5b414",
-      "gained": "+71",
+      "gained": "+430",
       "trend_windows": {
         "3d": {
-          "stars": 71,
+          "stars": 501,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 501,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 501,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 94266,
+      "forks": 8818,
+      "url": "https://github.com/louislam/uptime-kuma",
+      "updated_at": "2026-11-15T00:04:55Z"
+    },
+    {
+      "full_name": "Likely7/Veyra-NRVideo",
+      "name": "Likely7 / Veyra-NRVideo",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and ",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C++",
+      "color": "#b23ad5",
+      "gained": "+420",
+      "trend_windows": {
+        "3d": {
+          "stars": 676,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 676,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 676,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 2322,
+      "forks": 181,
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "updated_at": "2026-11-14T05:53:56Z"
+    },
+    {
+      "full_name": "backnotprop/plannotator",
+      "name": "backnotprop / plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+408",
+      "trend_windows": {
+        "3d": {
+          "stars": 516,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 516,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 516,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 11190,
+      "forks": 928,
+      "url": "https://github.com/backnotprop/plannotator",
+      "updated_at": "2026-11-15T02:35:28Z"
+    },
+    {
+      "full_name": "martin-olivier/airgorah",
+      "name": "martin-olivier / airgorah",
+      "description": "A WiFi security auditing software",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Rust",
+      "color": "#4778d7",
+      "gained": "+270",
+      "trend_windows": {
+        "3d": {
+          "stars": 270,
           "observed": 1,
           "days": 3
         },
         "5d": {
-          "stars": 71,
+          "stars": 270,
           "observed": 1,
           "days": 5
         },
         "7d": {
-          "stars": 71,
+          "stars": 270,
           "observed": 1,
           "days": 7
         }
       },
-      "stars": 93892,
-      "forks": 8724,
-      "url": "https://github.com/louislam/uptime-kuma",
-      "updated_at": "2026-11-14T00:04:41Z"
+      "stars": 5914,
+      "forks": 1026,
+      "url": "https://github.com/martin-olivier/airgorah",
+      "updated_at": "2026-11-06T19:32:49Z"
+    },
+    {
+      "full_name": "QwenLM/qwen-code",
+      "name": "QwenLM / qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+64",
+      "trend_windows": {
+        "3d": {
+          "stars": 215,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 215,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 215,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 30373,
+      "forks": 3505,
+      "url": "https://github.com/QwenLM/qwen-code",
+      "updated_at": "2026-11-15T02:33:45Z"
     }
   ]
 }
