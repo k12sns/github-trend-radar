@@ -1,0 +1,363 @@
+{
+  "generated_at": "2026-11-18T04:13:26.712299+00:00",
+  "items": [
+    {
+      "full_name": "obra/superpowers",
+      "name": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+1,917",
+      "trend_windows": {
+        "3d": {
+          "stars": 1917,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1917,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1917,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 319450,
+      "forks": 28484,
+      "url": "https://github.com/obra/superpowers",
+      "updated_at": "2026-11-03T23:24:58Z"
+    },
+    {
+      "full_name": "dream-num/univer",
+      "name": "dream-num / univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent",
+        "SDK"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,774",
+      "trend_windows": {
+        "3d": {
+          "stars": 4590,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 5085,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 5085,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 28996,
+      "forks": 2622,
+      "url": "https://github.com/dream-num/univer",
+      "updated_at": "2026-11-18T04:03:35Z"
+    },
+    {
+      "full_name": "ag-ui-protocol/ag-ui",
+      "name": "ag-ui-protocol / ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+1,445",
+      "trend_windows": {
+        "3d": {
+          "stars": 2591,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2591,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2591,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 20085,
+      "forks": 2071,
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "updated_at": "2026-11-18T04:02:03Z"
+    },
+    {
+      "full_name": "google-research/paper-orchestra",
+      "name": "google-research / paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,072",
+      "trend_windows": {
+        "3d": {
+          "stars": 1385,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1385,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1385,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 3223,
+      "forks": 428,
+      "url": "https://github.com/google-research/paper-orchestra",
+      "updated_at": "2026-11-15T18:08:08Z"
+    },
+    {
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "name": "elementalsouls / Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,005",
+      "trend_windows": {
+        "3d": {
+          "stars": 2197,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2197,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2197,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 9608,
+      "forks": 1383,
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "updated_at": "2026-11-17T13:33:22Z"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "name": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+883",
+      "trend_windows": {
+        "3d": {
+          "stars": 883,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 883,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 883,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 305663,
+      "forks": 44989,
+      "url": "https://github.com/affaan-m/ECC",
+      "updated_at": "2026-11-17T06:41:46Z"
+    },
+    {
+      "full_name": "alibaba/open-code-review",
+      "name": "alibaba / open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), Ope",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Go",
+      "color": "#f26e1e",
+      "gained": "+763",
+      "trend_windows": {
+        "3d": {
+          "stars": 2405,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3513,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3513,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 53854,
+      "forks": 4437,
+      "url": "https://github.com/alibaba/open-code-review",
+      "updated_at": "2026-11-18T03:57:45Z"
+    },
+    {
+      "full_name": "backnotprop/plannotator",
+      "name": "backnotprop / plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+691",
+      "trend_windows": {
+        "3d": {
+          "stars": 2253,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2769,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2769,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 13129,
+      "forks": 1315,
+      "url": "https://github.com/backnotprop/plannotator",
+      "updated_at": "2026-11-18T04:12:20Z"
+    },
+    {
+      "full_name": "getarcaneapp/arcane",
+      "name": "getarcaneapp / arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Go",
+      "color": "#f26e1e",
+      "gained": "+618",
+      "trend_windows": {
+        "3d": {
+          "stars": 618,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 618,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 618,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 9406,
+      "forks": 516,
+      "url": "https://github.com/getarcaneapp/arcane",
+      "updated_at": "2026-11-18T04:01:59Z"
+    },
+    {
+      "full_name": "Tencent/LoopForge",
+      "name": "Tencent / LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Go",
+      "color": "#f26e1e",
+      "gained": "+591",
+      "trend_windows": {
+        "3d": {
+          "stars": 1014,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1014,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1014,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 3394,
+      "forks": 458,
+      "url": "https://github.com/Tencent/LoopForge",
+      "updated_at": "2026-11-18T03:35:45Z"
+    }
+  ]
+}
