@@ -1,0 +1,363 @@
+{
+  "generated_at": "2026-11-19T04:07:11.357376+00:00",
+  "items": [
+    {
+      "full_name": "google-research/paper-orchestra",
+      "name": "google-research / paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,524",
+      "trend_windows": {
+        "3d": {
+          "stars": 2909,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2909,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2909,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 4425,
+      "forks": 547,
+      "url": "https://github.com/google-research/paper-orchestra",
+      "updated_at": "2026-11-15T18:08:08Z"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "name": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+1,108",
+      "trend_windows": {
+        "3d": {
+          "stars": 1991,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1991,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1991,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 306649,
+      "forks": 45145,
+      "url": "https://github.com/affaan-m/ECC",
+      "updated_at": "2026-11-17T06:41:46Z"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "name": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+822",
+      "trend_windows": {
+        "3d": {
+          "stars": 2739,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2739,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2739,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 321422,
+      "forks": 28569,
+      "url": "https://github.com/obra/superpowers",
+      "updated_at": "2026-11-03T23:24:58Z"
+    },
+    {
+      "full_name": "sveltejs/svelte",
+      "name": "sveltejs / svelte",
+      "description": "web development for the rest of us",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "JavaScript",
+      "color": "#f5b414",
+      "gained": "+692",
+      "trend_windows": {
+        "3d": {
+          "stars": 692,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 692,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 692,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 89654,
+      "forks": 6208,
+      "url": "https://github.com/sveltejs/svelte",
+      "updated_at": "2026-11-18T23:17:50Z"
+    },
+    {
+      "full_name": "getarcaneapp/arcane",
+      "name": "getarcaneapp / arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Go",
+      "color": "#f26e1e",
+      "gained": "+547",
+      "trend_windows": {
+        "3d": {
+          "stars": 1165,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1165,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1165,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 9880,
+      "forks": 568,
+      "url": "https://github.com/getarcaneapp/arcane",
+      "updated_at": "2026-11-19T03:54:21Z"
+    },
+    {
+      "full_name": "HKUDS/CLI-Anything",
+      "name": "HKUDS / CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+389",
+      "trend_windows": {
+        "3d": {
+          "stars": 389,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 389,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 389,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 59899,
+      "forks": 5437,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "updated_at": "2026-09-22T02:01:29Z"
+    },
+    {
+      "full_name": "google-labs-code/stitch-skills",
+      "name": "google-labs-code / stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent",
+        "SDK"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+365",
+      "trend_windows": {
+        "3d": {
+          "stars": 1141,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1141,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1141,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 10455,
+      "forks": 1370,
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "updated_at": "2026-11-18T05:00:25Z"
+    },
+    {
+      "full_name": "n8n-io/n8n",
+      "name": "n8n-io / n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework",
+        "CLI"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+325",
+      "trend_windows": {
+        "3d": {
+          "stars": 325,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 325,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 325,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 211169,
+      "forks": 61573,
+      "url": "https://github.com/n8n-io/n8n",
+      "updated_at": "2026-11-19T04:03:38Z"
+    },
+    {
+      "full_name": "cursor/plugins",
+      "name": "cursor / plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+314",
+      "trend_windows": {
+        "3d": {
+          "stars": 314,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 314,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 314,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 17284,
+      "forks": 1907,
+      "url": "https://github.com/cursor/plugins",
+      "updated_at": "2026-11-19T03:28:31Z"
+    },
+    {
+      "full_name": "NVIDIA/SkillEvaluator",
+      "name": "NVIDIA / SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Plugin"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+312",
+      "trend_windows": {
+        "3d": {
+          "stars": 1307,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1307,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1307,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 3808,
+      "forks": 523,
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "updated_at": "2026-11-18T21:04:10Z"
+    }
+  ]
+}
