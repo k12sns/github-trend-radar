@@ -1,0 +1,362 @@
+{
+  "generated_at": "2026-11-20T03:57:04.283049+00:00",
+  "items": [
+    {
+      "full_name": "obra/superpowers",
+      "name": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+2,028",
+      "trend_windows": {
+        "3d": {
+          "stars": 4767,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4767,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 4767,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 322204,
+      "forks": 28641,
+      "url": "https://github.com/obra/superpowers",
+      "updated_at": "2026-11-03T23:24:58Z"
+    },
+    {
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "name": "elementalsouls / Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,349",
+      "trend_windows": {
+        "3d": {
+          "stars": 3448,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 3546,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 3546,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 12745,
+      "forks": 1606,
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "updated_at": "2026-11-19T13:21:35Z"
+    },
+    {
+      "full_name": "HKUDS/CLI-Anything",
+      "name": "HKUDS / CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+898",
+      "trend_windows": {
+        "3d": {
+          "stars": 1287,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1287,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1287,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 60674,
+      "forks": 5506,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "updated_at": "2026-09-22T02:01:29Z"
+    },
+    {
+      "full_name": "firecrawl/firecrawl",
+      "name": "firecrawl / firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "API"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+825",
+      "trend_windows": {
+        "3d": {
+          "stars": 825,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 825,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 825,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 204389,
+      "forks": 10708,
+      "url": "https://github.com/firecrawl/firecrawl",
+      "updated_at": "2026-11-20T03:28:33Z"
+    },
+    {
+      "full_name": "cursor/plugins",
+      "name": "cursor / plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Plugin"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+384",
+      "trend_windows": {
+        "3d": {
+          "stars": 698,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 698,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 698,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 17600,
+      "forks": 1936,
+      "url": "https://github.com/cursor/plugins",
+      "updated_at": "2026-11-20T02:25:18Z"
+    },
+    {
+      "full_name": "mjmirza/app-store-compliance",
+      "name": "mjmirza / app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+377",
+      "trend_windows": {
+        "3d": {
+          "stars": 377,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 377,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 377,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 1962,
+      "forks": 132,
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "updated_at": "2026-11-19T19:49:49Z"
+    },
+    {
+      "full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "name": "XiaoYouChR / Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+341",
+      "trend_windows": {
+        "3d": {
+          "stars": 341,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 341,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 341,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 12922,
+      "forks": 804,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "updated_at": "2026-11-19T16:40:50Z"
+    },
+    {
+      "full_name": "google-labs-code/stitch-skills",
+      "name": "google-labs-code / stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent",
+        "SDK"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+302",
+      "trend_windows": {
+        "3d": {
+          "stars": 1196,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1443,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1443,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 10772,
+      "forks": 1389,
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "updated_at": "2026-11-18T05:00:25Z"
+    },
+    {
+      "full_name": "cathrynlavery/diagram-design",
+      "name": "cathrynlavery / diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "HTML",
+      "color": "#77736b",
+      "gained": "+271",
+      "trend_windows": {
+        "3d": {
+          "stars": 271,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 271,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 271,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 68749,
+      "forks": 4623,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "updated_at": "2026-11-19T00:17:05Z"
+    },
+    {
+      "full_name": "openvinotoolkit/openvino",
+      "name": "openvinotoolkit / openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "domains": [
+        "AI/ML",
+        "DevOps"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "C++",
+      "color": "#b23ad5",
+      "gained": "+246",
+      "trend_windows": {
+        "3d": {
+          "stars": 246,
+          "observed": 1,
+          "days": 3
+        },
+        "5d": {
+          "stars": 246,
+          "observed": 1,
+          "days": 5
+        },
+        "7d": {
+          "stars": 246,
+          "observed": 1,
+          "days": 7
+        }
+      },
+      "stars": 11595,
+      "forks": 3621,
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "updated_at": "2026-11-20T01:14:05Z"
+    }
+  ]
+}
