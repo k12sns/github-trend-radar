@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T03:55:05.746388+00:00",
+  "generated_at": "2026-11-22T03:02:57.078259+00:00",
   "items": [
     {
       "full_name": "elementalsouls/Claude-BugHunter",
@@ -13,28 +13,28 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+1,622",
+      "gained": "+1,803",
       "trend_windows": {
         "3d": {
-          "stars": 3976,
+          "stars": 4774,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 5168,
+          "stars": 6873,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 5168,
-          "observed": 5,
+          "stars": 6971,
+          "observed": 6,
           "days": 7
         }
       },
-      "stars": 14490,
-      "forks": 1711,
+      "stars": 16196,
+      "forks": 1841,
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "updated_at": "2026-11-20T15:53:40Z"
+      "updated_at": "2026-11-22T01:54:36Z"
     },
     {
       "full_name": "firecrawl/firecrawl",
@@ -49,28 +49,64 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+1,241",
+      "gained": "+1,006",
       "trend_windows": {
         "3d": {
-          "stars": 2066,
-          "observed": 2,
+          "stars": 3072,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 2066,
-          "observed": 2,
+          "stars": 3072,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 2066,
-          "observed": 2,
+          "stars": 3072,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 205397,
-      "forks": 10742,
+      "stars": 206283,
+      "forks": 10784,
       "url": "https://github.com/firecrawl/firecrawl",
-      "updated_at": "2026-11-21T03:40:37Z"
+      "updated_at": "2026-11-22T02:18:41Z"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "name": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+883",
+      "trend_windows": {
+        "3d": {
+          "stars": 3801,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 6540,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6540,
+          "observed": 5,
+          "days": 7
+        }
+      },
+      "stars": 323793,
+      "forks": 28721,
+      "url": "https://github.com/obra/superpowers",
+      "updated_at": "2026-11-03T23:24:58Z"
     },
     {
       "full_name": "XiaoYouChR/Ghost-Downloader-3",
@@ -84,28 +120,100 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+1,082",
+      "gained": "+779",
       "trend_windows": {
         "3d": {
-          "stars": 1423,
-          "observed": 2,
+          "stars": 2202,
+          "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 1423,
-          "observed": 2,
+          "stars": 2202,
+          "observed": 3,
           "days": 5
         },
         "7d": {
-          "stars": 1423,
-          "observed": 2,
+          "stars": 2202,
+          "observed": 3,
           "days": 7
         }
       },
-      "stars": 13827,
-      "forks": 842,
+      "stars": 14514,
+      "forks": 876,
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "updated_at": "2026-11-20T07:39:12Z"
+      "updated_at": "2026-11-21T16:28:09Z"
+    },
+    {
+      "full_name": "HKUDS/CLI-Anything",
+      "name": "HKUDS / CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+769",
+      "trend_windows": {
+        "3d": {
+          "stars": 2440,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 2829,
+          "observed": 4,
+          "days": 5
+        },
+        "7d": {
+          "stars": 2829,
+          "observed": 4,
+          "days": 7
+        }
+      },
+      "stars": 62128,
+      "forks": 5635,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "updated_at": "2026-11-20T10:05:15Z"
+    },
+    {
+      "full_name": "mjmirza/app-store-compliance",
+      "name": "mjmirza / app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), an",
+      "domains": [
+        "AI/ML",
+        "UI/UX"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+720",
+      "trend_windows": {
+        "3d": {
+          "stars": 1966,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1966,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1966,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 3457,
+      "forks": 214,
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "updated_at": "2026-11-22T00:48:43Z"
     },
     {
       "full_name": "zhouxiaoka/autoclip",
@@ -121,206 +229,28 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+979",
+      "gained": "+683",
       "trend_windows": {
         "3d": {
-          "stars": 979,
-          "observed": 1,
+          "stars": 1662,
+          "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 979,
-          "observed": 1,
+          "stars": 1662,
+          "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 979,
-          "observed": 1,
+          "stars": 1662,
+          "observed": 2,
           "days": 7
         }
       },
-      "stars": 12282,
-      "forks": 2022,
+      "stars": 12917,
+      "forks": 2077,
       "url": "https://github.com/zhouxiaoka/autoclip",
-      "updated_at": "2026-11-21T03:53:36Z"
-    },
-    {
-      "full_name": "obra/superpowers",
-      "name": "obra / superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent",
-        "Framework"
-      ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+890",
-      "trend_windows": {
-        "3d": {
-          "stars": 3740,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 5657,
-          "observed": 4,
-          "days": 5
-        },
-        "7d": {
-          "stars": 5657,
-          "observed": 4,
-          "days": 7
-        }
-      },
-      "stars": 322930,
-      "forks": 28675,
-      "url": "https://github.com/obra/superpowers",
-      "updated_at": "2026-11-03T23:24:58Z"
-    },
-    {
-      "full_name": "mjmirza/app-store-compliance",
-      "name": "mjmirza / app-store-compliance",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+869",
-      "trend_windows": {
-        "3d": {
-          "stars": 1246,
-          "observed": 2,
-          "days": 3
-        },
-        "5d": {
-          "stars": 1246,
-          "observed": 2,
-          "days": 5
-        },
-        "7d": {
-          "stars": 1246,
-          "observed": 2,
-          "days": 7
-        }
-      },
-      "stars": 2825,
-      "forks": 179,
-      "url": "https://github.com/mjmirza/app-store-compliance",
-      "updated_at": "2026-11-19T19:49:49Z"
-    },
-    {
-      "full_name": "jingyaogong/minimind",
-      "name": "jingyaogong / minimind",
-      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+847",
-      "trend_windows": {
-        "3d": {
-          "stars": 847,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 847,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 847,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 67748,
-      "forks": 8858,
-      "url": "https://github.com/jingyaogong/minimind",
-      "updated_at": "2026-11-18T15:09:40Z"
-    },
-    {
-      "full_name": "HKUDS/CLI-Anything",
-      "name": "HKUDS / CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Agent",
-        "CLI"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+773",
-      "trend_windows": {
-        "3d": {
-          "stars": 2060,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 2060,
-          "observed": 3,
-          "days": 5
-        },
-        "7d": {
-          "stars": 2060,
-          "observed": 3,
-          "days": 7
-        }
-      },
-      "stars": 61470,
-      "forks": 5575,
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "updated_at": "2026-11-20T10:05:15Z"
-    },
-    {
-      "full_name": "toeverything/AFFiNE",
-      "name": "toeverything / AFFiNE",
-      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Framework"
-      ],
-      "language": "TypeScript",
-      "color": "#4778d7",
-      "gained": "+676",
-      "trend_windows": {
-        "3d": {
-          "stars": 676,
-          "observed": 1,
-          "days": 3
-        },
-        "5d": {
-          "stars": 676,
-          "observed": 1,
-          "days": 5
-        },
-        "7d": {
-          "stars": 676,
-          "observed": 1,
-          "days": 7
-        }
-      },
-      "stars": 75871,
-      "forks": 5582,
-      "url": "https://github.com/toeverything/AFFiNE",
-      "updated_at": "2026-11-20T10:23:37Z"
+      "updated_at": "2026-11-22T01:43:04Z"
     },
     {
       "full_name": "cathrynlavery/diagram-design",
@@ -335,28 +265,98 @@
       ],
       "language": "HTML",
       "color": "#77736b",
-      "gained": "+636",
+      "gained": "+583",
       "trend_windows": {
         "3d": {
-          "stars": 907,
+          "stars": 1490,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1490,
+          "observed": 3,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1490,
+          "observed": 3,
+          "days": 7
+        }
+      },
+      "stars": 69839,
+      "forks": 4686,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "updated_at": "2026-11-22T01:44:54Z"
+    },
+    {
+      "full_name": "toeverything/AFFiNE",
+      "name": "toeverything / AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "TypeScript",
+      "color": "#4778d7",
+      "gained": "+574",
+      "trend_windows": {
+        "3d": {
+          "stars": 1250,
           "observed": 2,
           "days": 3
         },
         "5d": {
-          "stars": 907,
+          "stars": 1250,
           "observed": 2,
           "days": 5
         },
         "7d": {
-          "stars": 907,
+          "stars": 1250,
           "observed": 2,
           "days": 7
         }
       },
-      "stars": 69355,
-      "forks": 4653,
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "updated_at": "2026-11-19T00:17:05Z"
+      "stars": 76345,
+      "forks": 5596,
+      "url": "https://github.com/toeverything/AFFiNE",
+      "updated_at": "2026-11-22T02:45:53Z"
+    },
+    {
+      "full_name": "jingyaogong/minimind",
+      "name": "jingyaogong / minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+488",
+      "trend_windows": {
+        "3d": {
+          "stars": 1335,
+          "observed": 2,
+          "days": 3
+        },
+        "5d": {
+          "stars": 1335,
+          "observed": 2,
+          "days": 5
+        },
+        "7d": {
+          "stars": 1335,
+          "observed": 2,
+          "days": 7
+        }
+      },
+      "stars": 68198,
+      "forks": 8917,
+      "url": "https://github.com/jingyaogong/minimind",
+      "updated_at": "2026-11-21T09:14:27Z"
     }
   ]
 }
