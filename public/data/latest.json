@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-25T05:23:30.087542+00:00",
+  "generated_at": "2026-11-26T04:57:51.946858+00:00",
   "items": [
     {
       "full_name": "elementalsouls/Claude-BugHunter",
       "name": "elementalsouls / Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "domains": [
         "AI/ML"
       ],
@@ -13,78 +13,43 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+1,826",
+      "gained": "+1,652",
       "trend_windows": {
         "3d": {
-          "stars": 5571,
+          "stars": 5507,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 8996,
+          "stars": 9026,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 11350,
+          "stars": 11997,
           "observed": 7,
           "days": 7
         }
       },
-      "stars": 21746,
-      "forks": 2259,
+      "stars": 23266,
+      "forks": 2380,
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "updated_at": "2026-11-25T04:26:49Z"
+      "updated_at": "2026-11-26T04:27:01Z"
     },
     {
-      "full_name": "XiaoYouChR/Ghost-Downloader-3",
-      "name": "XiaoYouChR / Ghost-Downloader-3",
-      "description": "The only downloader you need. 下载器的集大成者。",
+      "full_name": "cathrynlavery/diagram-design",
+      "name": "cathrynlavery / diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "domains": [
+        "AI/ML",
         "UI/UX"
       ],
       "roles": [
-        "Framework"
+        "Agent"
       ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+1,092",
-      "trend_windows": {
-        "3d": {
-          "stars": 2880,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 4741,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 5082,
-          "observed": 6,
-          "days": 7
-        }
-      },
-      "stars": 17565,
-      "forks": 1059,
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "updated_at": "2026-11-24T12:15:51Z"
-    },
-    {
-      "full_name": "HKUDS/CLI-Anything",
-      "name": "HKUDS / CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "domains": [
-        "Developer Tools"
-      ],
-      "roles": [
-        "Agent",
-        "CLI"
-      ],
-      "language": "Python",
-      "color": "#f5b414",
-      "gained": "+1,074",
+      "language": "HTML",
+      "color": "#77736b",
+      "gained": "+1,141",
       "trend_windows": {
         "3d": {
           "stars": 2563,
@@ -92,56 +57,20 @@
           "days": 3
         },
         "5d": {
-          "stars": 4105,
+          "stars": 3664,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 5392,
+          "stars": 4571,
           "observed": 7,
           "days": 7
         }
       },
-      "stars": 65019,
-      "forks": 5920,
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "updated_at": "2026-11-20T10:05:15Z"
-    },
-    {
-      "full_name": "obra/superpowers",
-      "name": "obra / superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "domains": [
-        "AI/ML"
-      ],
-      "roles": [
-        "Agent",
-        "Framework"
-      ],
-      "language": "Shell",
-      "color": "#77736b",
-      "gained": "+1,003",
-      "trend_windows": {
-        "3d": {
-          "stars": 2631,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 4404,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 7254,
-          "observed": 7,
-          "days": 7
-        }
-      },
-      "stars": 325958,
-      "forks": 28928,
-      "url": "https://github.com/obra/superpowers",
-      "updated_at": "2026-11-24T23:59:04Z"
+      "stars": 73216,
+      "forks": 4871,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "updated_at": "2026-11-25T04:53:00Z"
     },
     {
       "full_name": "firecrawl/firecrawl",
@@ -156,28 +85,135 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+991",
+      "gained": "+1,135",
       "trend_windows": {
         "3d": {
-          "stars": 2830,
+          "stars": 3050,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 5077,
+          "stars": 4971,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 5902,
-          "observed": 6,
+          "stars": 7037,
+          "observed": 7,
           "days": 7
         }
       },
-      "stars": 209129,
-      "forks": 10926,
+      "stars": 210216,
+      "forks": 10999,
       "url": "https://github.com/firecrawl/firecrawl",
-      "updated_at": "2026-11-25T04:38:45Z"
+      "updated_at": "2026-11-26T04:54:46Z"
+    },
+    {
+      "full_name": "HKUDS/CLI-Anything",
+      "name": "HKUDS / CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "domains": [
+        "Developer Tools"
+      ],
+      "roles": [
+        "Agent",
+        "CLI"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+1,106",
+      "trend_windows": {
+        "3d": {
+          "stars": 2970,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4438,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6109,
+          "observed": 7,
+          "days": 7
+        }
+      },
+      "stars": 65821,
+      "forks": 5990,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "updated_at": "2026-11-20T10:05:15Z"
+    },
+    {
+      "full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "name": "XiaoYouChR / Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "domains": [
+        "UI/UX"
+      ],
+      "roles": [
+        "Framework"
+      ],
+      "language": "Python",
+      "color": "#f5b414",
+      "gained": "+951",
+      "trend_windows": {
+        "3d": {
+          "stars": 3130,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4610,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 6033,
+          "observed": 7,
+          "days": 7
+        }
+      },
+      "stars": 18418,
+      "forks": 1104,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "updated_at": "2026-11-25T13:11:40Z"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "name": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "domains": [
+        "AI/ML"
+      ],
+      "roles": [
+        "Agent",
+        "Framework"
+      ],
+      "language": "Shell",
+      "color": "#77736b",
+      "gained": "+903",
+      "trend_windows": {
+        "3d": {
+          "stars": 2746,
+          "observed": 3,
+          "days": 3
+        },
+        "5d": {
+          "stars": 4417,
+          "observed": 5,
+          "days": 5
+        },
+        "7d": {
+          "stars": 7335,
+          "observed": 7,
+          "days": 7
+        }
+      },
+      "stars": 326770,
+      "forks": 28992,
+      "url": "https://github.com/obra/superpowers",
+      "updated_at": "2026-11-24T23:59:04Z"
     },
     {
       "full_name": "zhouxiaoka/autoclip",
@@ -193,33 +229,33 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+980",
+      "gained": "+880",
       "trend_windows": {
         "3d": {
-          "stars": 2528,
+          "stars": 2767,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 4190,
+          "stars": 4091,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 4190,
-          "observed": 5,
+          "stars": 5070,
+          "observed": 6,
           "days": 7
         }
       },
-      "stars": 15570,
-      "forks": 2286,
+      "stars": 16343,
+      "forks": 2341,
       "url": "https://github.com/zhouxiaoka/autoclip",
-      "updated_at": "2026-11-25T05:10:03Z"
+      "updated_at": "2026-11-26T03:01:29Z"
     },
     {
       "full_name": "mjmirza/app-store-compliance",
       "name": "mjmirza / app-store-compliance",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), an",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), an",
       "domains": [
         "AI/ML",
         "UI/UX"
@@ -229,64 +265,28 @@
       ],
       "language": "Shell",
       "color": "#77736b",
-      "gained": "+928",
+      "gained": "+858",
       "trend_windows": {
         "3d": {
-          "stars": 2310,
+          "stars": 2547,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 3899,
+          "stars": 3888,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 4276,
-          "observed": 6,
+          "stars": 5134,
+          "observed": 7,
           "days": 7
         }
       },
-      "stars": 5983,
-      "forks": 387,
+      "stars": 6594,
+      "forks": 429,
       "url": "https://github.com/mjmirza/app-store-compliance",
-      "updated_at": "2026-11-25T05:11:38Z"
-    },
-    {
-      "full_name": "cathrynlavery/diagram-design",
-      "name": "cathrynlavery / diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "domains": [
-        "AI/ML",
-        "UI/UX"
-      ],
-      "roles": [
-        "Agent"
-      ],
-      "language": "HTML",
-      "color": "#77736b",
-      "gained": "+802",
-      "trend_windows": {
-        "3d": {
-          "stars": 1940,
-          "observed": 3,
-          "days": 3
-        },
-        "5d": {
-          "stars": 3159,
-          "observed": 5,
-          "days": 5
-        },
-        "7d": {
-          "stars": 3430,
-          "observed": 6,
-          "days": 7
-        }
-      },
-      "stars": 72248,
-      "forks": 4818,
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "updated_at": "2026-11-25T04:53:00Z"
+      "updated_at": "2026-11-26T03:40:58Z"
     },
     {
       "full_name": "jingyaogong/minimind",
@@ -300,26 +300,26 @@
       ],
       "language": "Python",
       "color": "#f5b414",
-      "gained": "+727",
+      "gained": "+826",
       "trend_windows": {
         "3d": {
-          "stars": 2043,
+          "stars": 2381,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 2890,
-          "observed": 4,
+          "stars": 3716,
+          "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 2890,
-          "observed": 4,
+          "stars": 3716,
+          "observed": 5,
           "days": 7
         }
       },
-      "stars": 70435,
-      "forks": 9158,
+      "stars": 71140,
+      "forks": 9236,
       "url": "https://github.com/jingyaogong/minimind",
       "updated_at": "2026-11-23T04:01:07Z"
     },
@@ -335,28 +335,28 @@
       ],
       "language": "TypeScript",
       "color": "#4778d7",
-      "gained": "+584",
+      "gained": "+574",
       "trend_windows": {
         "3d": {
-          "stars": 1721,
+          "stars": 1753,
           "observed": 3,
           "days": 3
         },
         "5d": {
-          "stars": 2971,
+          "stars": 2869,
           "observed": 5,
           "days": 5
         },
         "7d": {
-          "stars": 2971,
-          "observed": 5,
+          "stars": 3545,
+          "observed": 6,
           "days": 7
         }
       },
-      "stars": 78090,
-      "forks": 5704,
+      "stars": 78592,
+      "forks": 5725,
       "url": "https://github.com/toeverything/AFFiNE",
-      "updated_at": "2026-11-25T05:20:07Z"
+      "updated_at": "2026-11-26T04:45:39Z"
     }
   ]
 }
